@@ -693,6 +693,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3c90b9f2-4b92-4210-8ac9-14729383ee2b,prejudices.college,available,29.99,,38,1,10,name.com,,
 3caeb209-4b50-44ef-88c4-41b44fd53ebf,criteria.college,available,29.99,,88,10,8,name.com,,
 3caf592e-4d1d-40c6-a134-d1c418473ddc,gonefishing.college,available,29.99,,72,7,12,name.com,,
+3cb4dcac-cd30-4e74-bcbb-d2d62bb7af0e,she.college,premium,,,86,28,3,,,
 3cbfa43f-f09c-43f2-8a06-c6dbc72f7639,hobbies.college,available,17.99,59.99,60,11,7,namesilo,,
 3ccb6cf0-ea37-4abf-a91e-26f992961c7d,scoops.college,available,17.99,59.99,54,9,6,namesilo,,
 3ccb801b-1efa-4bf9-b49e-fd25238f5353,LordMayors.college,available,81.98,,58,2,11,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 56bceb57-bc5f-4a48-bd3d-5bf0d0e29401,accountstated.college,available,29.99,,40,2,14,name.com,,
 56d3aeab-2e3b-43e3-9091-26db6d45cdb1,smarted.college,available,29.99,,53,5,7,name.com,,
 5738f145-a44c-47dd-b6f7-5388b1ed70e6,affections.college,available,29.99,,62,2,10,name.com,,
-574083f9-8eaf-4e2b-b07e-dd03f88560aa,longlasting.college,available,29.99,,68,3,12,name.com,,
