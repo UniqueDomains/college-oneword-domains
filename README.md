@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .college one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,400 domains · **Median ask:** $219.63 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/college`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| travelers.college   | available | $17.99    | $59.99        | 58             | 61     | 9      | namesilo  |
-| donuts.college      | premium   | $250      | —             | 54             | 62     | 6      | name.com  |
-| RedSox.college      | available | $81.98    | —             | 72             | 60     | 7      | namecheap |
-| cars.college        | premium   | $250      | —             | 66             | 47     | 4      | name.com  |
-| justin.college      | available | $29.99    | —             | 58             | 38     | 7      | name.com  |
-| Tools.college       | premium   | $14,000   | $14,000       | 56             | 40     | 5      | namecheap |
-| stories.college     | available | $29.99    | —             | 58             | 36     | 7      | name.com  |
-| events.college      | premium   | $12,500   | —             | 68             | 37     | 6      | name.com  |
-| aliens.college      | available | $17.99    | $59.99        | 56             | 35     | 6      | namesilo  |
-| solutions.college   | premium   | $12,500   | —             | 56             | 31     | 9      | name.com  |
-| payments.college    | available | $29.99    | —             | 58             | 33     | 8      | name.com  |
-| tips.college        | premium   | $12,500   | —             | 80             | 26     | 4      | name.com  |
-| trends.college      | available | $29.99    | —             | 60             | 32     | 6      | name.com  |
-| toys.college        | premium   | $625      | —             | 60             | 24     | 4      | name.com  |
-| inspiration.college | available | $29.99    | —             | 88             | 30     | 11     | name.com  |
-| flights.college     | premium   | $242      | $242          | 61             | 22     | 7      | namesilo  |
-| spaces.college      | available | $29.99    | —             | 54             | 30     | 6      | name.com  |
-| vacations.college   | premium   | $625      | —             | 56             | 19     | 9      | name.com  |
-| cams.college        | available | $17.99    | $59.99        | 52             | 29     | 4      | namesilo  |
-| laptops.college     | premium   | $242      | $242          | 56             | 8      | 7      | namesilo  |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| travelers.college | available | $17.99    | $59.99        | 58             | 61     | 9      | namesilo  |
+| donuts.college    | premium   | $250      | —             | 54             | 62     | 6      | name.com  |
+| RedSox.college    | available | $81.98    | —             | 72             | 60     | 7      | namecheap |
+| cars.college      | premium   | $250      | —             | 66             | 47     | 4      | name.com  |
+| justin.college    | available | $29.99    | —             | 58             | 38     | 7      | name.com  |
+| Tools.college     | premium   | $14,000   | $14,000       | 56             | 40     | 5      | namecheap |
+| stories.college   | available | $29.99    | —             | 58             | 36     | 7      | name.com  |
+| events.college    | premium   | $12,500   | —             | 68             | 37     | 6      | name.com  |
+| aliens.college    | available | $17.99    | $59.99        | 56             | 35     | 6      | namesilo  |
+| solutions.college | premium   | $12,500   | —             | 56             | 31     | 9      | name.com  |
+| payments.college  | available | $29.99    | —             | 58             | 33     | 8      | name.com  |
+| tips.college      | premium   | $12,500   | —             | 80             | 26     | 4      | name.com  |
+| trends.college    | available | $29.99    | —             | 60             | 32     | 6      | name.com  |
+| toys.college      | premium   | $625      | —             | 60             | 24     | 4      | name.com  |
+| spaces.college    | available | $29.99    | —             | 54             | 30     | 6      | name.com  |
+| flights.college   | premium   | $242      | $242          | 61             | 22     | 7      | namesilo  |
+| cams.college      | available | $17.99    | $59.99        | 52             | 29     | 4      | namesilo  |
+| vacations.college | premium   | $625      | —             | 56             | 19     | 9      | name.com  |
+| gems.college      | available | $17.99    | $59.99        | 70             | 28     | 4      | namesilo  |
+| laptops.college   | premium   | $242      | $242          | 56             | 8      | 7      | namesilo  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COLLEGE One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COLLEGE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
