@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .college one-word domains f
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,400 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,400 domains · **Median ask:** $219.63 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,400 domains · **Median ask:** $261.49 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/college`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/college`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .COLLEGE one-word doma
 
 ### Files
 
-- `college.csv` — public CSV extract (1,000 rows)
-- `college.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `college.csv`, public CSV extract (1,000 rows)
+- `college.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| travelers.college | available | $17.99    | $59.99        | 58             | 61     | 9      | namesilo  |
-| donuts.college    | premium   | $250      | —             | 54             | 62     | 6      | name.com  |
-| RedSox.college    | available | $81.98    | —             | 72             | 60     | 7      | namecheap |
-| cars.college      | premium   | $250      | —             | 66             | 47     | 4      | name.com  |
-| justin.college    | available | $29.99    | —             | 58             | 38     | 7      | name.com  |
-| Tools.college     | premium   | $14,000   | $14,000       | 56             | 40     | 5      | namecheap |
-| stories.college   | available | $29.99    | —             | 58             | 36     | 7      | name.com  |
-| events.college    | premium   | $12,500   | —             | 68             | 37     | 6      | name.com  |
-| aliens.college    | available | $17.99    | $59.99        | 56             | 35     | 6      | namesilo  |
-| solutions.college | premium   | $12,500   | —             | 56             | 31     | 9      | name.com  |
-| payments.college  | available | $29.99    | —             | 58             | 33     | 8      | name.com  |
-| tips.college      | premium   | $12,500   | —             | 80             | 26     | 4      | name.com  |
-| trends.college    | available | $29.99    | —             | 60             | 32     | 6      | name.com  |
-| toys.college      | premium   | $625      | —             | 60             | 24     | 4      | name.com  |
-| spaces.college    | available | $29.99    | —             | 54             | 30     | 6      | name.com  |
-| flights.college   | premium   | $242      | $242          | 61             | 22     | 7      | namesilo  |
-| cams.college      | available | $17.99    | $59.99        | 52             | 29     | 4      | namesilo  |
-| vacations.college | premium   | $625      | —             | 56             | 19     | 9      | name.com  |
-| gems.college      | available | $17.99    | $59.99        | 70             | 28     | 4      | namesilo  |
-| laptops.college   | premium   | $242      | $242          | 56             | 8      | 7      | namesilo  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| age.college     | available | $17.99    | $59.99        | high           | low    | 3      | namesilo        |
+| content.college | resell    | $29.99    | —             | high           | low    | 7      | Go Daddy, LLC   |
+| aid.college     | premium   | $625      | —             | medium         | low    | 3      | name.com        |
+| Ava.college     | available | $17.99    | $59.99        | high           | medium | 3      | namesilo        |
+| zen.college     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
+| bio.college     | premium   | $242      | $242          | high           | medium | 3      | namesilo        |
+| boo.college     | available | $29.99    | —             | high           | low    | 3      | name.com        |
+| list.college    | resell    | —         | —             | high           | low    | 4      | Dynadot LLC     |
+| bra.college     | premium   | $242      | $242          | medium         | low    | 3      | namesilo        |
+| bow.college     | available | $17.99    | $59.99        | high           | low    | 3      | namesilo        |
+| hotel.college   | resell    | —         | —             | high           | medium | 5      | Go Daddy, LLC   |
+| eat.college     | premium   | $625      | —             | high           | low    | 3      | name.com        |
+| but.college     | available | $17.99    | $59.99        | high           | low    | 3      | namesilo        |
+| pilot.college   | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc. |
+| icu.college     | premium   | $242      | $242          | high           | low    | 3      | namesilo        |
+| coy.college     | available | $29.99    | $94.99        | medium         | low    | 3      | name.com        |
+| iPhone.college  | resell    | —         | —             | high           | high   | 6      | Go Daddy, LLC   |
+| lp.college      | premium   | $3,450    | $3,450        | medium         | low    | 3      | namesilo        |
+| Fla.college     | available | $17.99    | $59.99        | medium         | low    | 3      | namesilo        |
+| master.college  | resell    | —         | —             | high           | low    | 6      | Dynadot LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of one-word .college domains. The set mixes action words, traits, places, and broad dictionary terms, such as apply.college, affable.college, cameroon.college, and roar.college. For founders, the key question is whether the word feels clear, memorable, and credible with the .college ending. For investors, the focus is whether the ask leaves enough room for resale relative to the word’s relevance and breadth. The median ask is 219.63, which helps frame price discipline across a large set. When comparing these domains, weigh word strength first, then ask price, then renewal risk tied to a non-mainstream extension.
+This is a list of one-word and short compound domain names on the .college extension, refreshed daily. Names range from direct terms like Homes.college and Forces.college to compound phrases such as DogWalking.college and MakeHappen.college. With a median asking price near $261 across 12,400+ names, the set spans budget-friendly picks and pricier standouts, giving both founders seeking a memorable, ownable name and investors scanning for underpriced inventory a concrete starting shortlist.
 
-- One-word .college domains only
-- 12,397 domains in this selection
-- Median ask: 219.63
-- Check word clarity, ask price, and renewal risk
+- 12,400+ one-word .college domains, updated daily
+- Median asking price near $261 across the set
+- Short, ownable names like Homes.college, DogSit.college
+- Mix of single-word and compound brandable terms
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COLLEGE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COLLEGE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
