@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .college one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,357 domains · **Median ask:** $159.06 · **High-demand under $2,500:** 43
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/college`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,8 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| come.college    | available | $17.99    | $59.99        | high           | low    | 4      | namesilo        |
-| content.college | resell    | $29.99    | —             | high           | low    | 7      | Go Daddy, LLC   |
 | age.college     | available | $17.99    | $59.99        | high           | low    | 3      | namesilo        |
+| content.college | resell    | $29.99    | —             | high           | low    | 7      | Go Daddy, LLC   |
 | aid.college     | premium   | $625      | —             | medium         | low    | 3      | name.com        |
 | aug.college     | available | $5        | $81.98        | low            | low    | 3      | namecheap       |
 | zen.college     | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
@@ -84,6 +83,7 @@ print(df.head())
 | iPhone.college  | resell    | —         | —             | high           | high   | 6      | Go Daddy, LLC   |
 | lp.college      | premium   | $3,450    | $3,450        | medium         | low    | 3      | namesilo        |
 | coy.college     | available | $29.99    | $94.99        | medium         | low    | 3      | name.com        |
+| master.college  | resell    | —         | —             | high           | low    | 6      | Dynadot LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COLLEGE One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COLLEGE One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
