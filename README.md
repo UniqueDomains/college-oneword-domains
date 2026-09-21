@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .college one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,374 domains · **Median ask:** $103.94 · **High-demand under $2,500:** 37
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/college`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,11 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| come.college    | available | $17.99    | $59.99        | high           | low    | 4      | namesilo         |
+| action.college  | available | —         | —             | high           | low    | 6      | —                |
+| bang.college    | available | $17.99    | $59.99        | high           | low    | 4      | namesilo         |
+| fuck.college    | premium   | $12,500   | —             | high           | high   | 4      | name.com         |
+| special.college | premium   | $625      | —             | high           | low    | 7      | name.com         |
 | age.college     | available | $17.99    | $59.99        | medium         | low    | 3      | namesilo         |
 | content.college | resell    | $29.99    | —             | medium         | low    | 7      | GoDaddy.com, LLC |
 | aid.college     | premium   | $625      | —             | medium         | low    | 3      | name.com         |
@@ -79,11 +84,6 @@ print(df.head())
 | bow.college     | available | $17.99    | $59.99        | high           | low    | 3      | namesilo         |
 | pilot.college   | resell    | —         | —             | high           | low    | 5      | Spaceship, Inc.  |
 | icu.college     | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
-| but.college     | available | $17.99    | $59.99        | high           | low    | 3      | namesilo         |
-| iphone.college  | resell    | —         | —             | high           | high   | 6      | Go Daddy, LLC    |
-| lp.college      | premium   | $3,450    | $3,450        | medium         | low    | 3      | namesilo         |
-| coy.college     | available | $29.99    | $94.99        | medium         | low    | 3      | name.com         |
-| master.college  | resell    | —         | —             | high           | low    | 6      | Dynadot LLC      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COLLEGE One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COLLEGE One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
