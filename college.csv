@@ -1,1001 +1,1001 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 a3324cf3-8de8-476b-9c10-c071c23a3e01,astound.college,available,17.99,59.99,high,low,7,namesilo,,,
-518ef18d-38d8-4c40-9592-a2fa6d6368b2,blacktie.college,available,1.5,81.98,low,low,9,namecheap,,,22/09/2026 21:36
-90e84d4f-08e3-4130-93b6-e138017e29ab,bloodflow.college,available,29.99,,high,low,10,name.com,,,
-7d949b74-68cd-4fc3-8d65-2323aba767a3,almighty.college,available,5,81.98,low,low,8,namecheap,,,
-c1c2bdaf-ae51-422f-8269-6f23fab13a76,extendto.college,available,17.99,59.99,high,low,9,namesilo,,,
-b5facb59-01f4-440a-9445-780bc1954986,positive.college,available,1.5,81.98,medium,low,8,namecheap,,,23/09/2026 14:53
-c74f26e1-9d56-4dc3-a2a3-0d603614c33c,untrustworthy.college,available,17.99,59.99,low,low,13,namesilo,,,
-0d97c40d-8b7d-4a88-b60d-be85961e778e,gardengnome.college,available,17.99,59.99,high,low,12,namesilo,,,
-cd76c3f8-5014-4fe9-aff3-3ccfb9cf8330,burgerbun.college,available,29.99,,high,low,10,name.com,,,
-baea98fc-7b85-43f2-8b5c-0089e4311f0a,offstage.college,available,5,81.98,medium,low,8,namecheap,,,08/08/2026 06:14
+7d949b74-68cd-4fc3-8d65-2323aba767a3,almighty.college,available,5,81.98,high,low,8,namecheap,,,
+c74f26e1-9d56-4dc3-a2a3-0d603614c33c,untrustworthy.college,available,17.99,59.99,medium,low,13,namesilo,,,
+baea98fc-7b85-43f2-8b5c-0089e4311f0a,offstage.college,available,5,81.98,high,low,8,namecheap,,,08/08/2026 06:14
 7c03dfbf-9f1a-4f3c-85d5-aeae684b86d6,restaurant.college,premium,625,,high,low,10,name.com,,,
 e8149a90-42f7-4383-993e-555c170c26ab,thank.college,available,17.99,59.99,high,low,5,namesilo,,,
-c288968d-fc19-428c-a300-1a47b1483ae5,broadly.college,available,17.99,59.99,medium,low,7,namesilo,,,
-d0197a6b-c2c1-4590-8f9c-2fa4d4dc3ab9,abducens.college,available,5,81.98,low,low,8,namecheap,,,
-5d7d68ad-cb68-48f5-9e6d-c00bb2a9e9c1,newglasgow.college,available,29.99,,low,low,11,name.com,,,
+c288968d-fc19-428c-a300-1a47b1483ae5,broadly.college,available,17.99,59.99,high,low,7,namesilo,,,
 dc886c7a-28ca-474e-9490-97ed589dd72c,matisse.college,available,17.99,59.99,high,low,7,namesilo,,,
 61367116-bbaf-4dae-9f18-8fd416c04085,graphics.college,premium,625,,high,low,8,name.com,,,
-87c1df9a-f9bf-4cc5-a36f-9973396a3dd8,whopping.college,available,5,81.98,low,low,8,namecheap,,,08/08/2026 13:14
+87c1df9a-f9bf-4cc5-a36f-9973396a3dd8,whopping.college,available,5,81.98,high,low,8,namecheap,,,08/08/2026 13:14
 6b7ce2b2-3112-4584-a021-17f9453faae2,tree.college,available,17.99,59.99,high,low,4,namesilo,,,
-e91c9ebf-bd5d-42c9-aa9b-8fdace929e69,essential.college,available,17.99,59.99,medium,low,9,namesilo,,,22/09/2026 00:42
-e696644f-02b0-4c68-b25a-121766f71b46,gotten.college,available,17.99,59.99,medium,low,6,namesilo,,,
-8b1d5e44-3d82-424a-bd06-98e850b6adda,closeofbusiness.college,available,17.99,59.99,high,low,17,namesilo,,,
-ef7883d2-58ac-48f7-917d-a58408090401,abenaki.college,available,5,81.98,low,low,7,namecheap,,,
-cae5aae7-a99a-40cb-a327-50c93dec54ee,anaemic.college,available,5,81.98,low,low,7,namecheap,,,
-8034ef20-c967-47f3-a5f1-f3261dc43112,victim.college,available,17.99,59.99,medium,low,6,namesilo,,,
-5f6e942e-2cec-484e-a438-94e84a60a152,thirdperson.college,available,17.99,59.99,low,low,12,namesilo,,,
+e696644f-02b0-4c68-b25a-121766f71b46,gotten.college,available,17.99,59.99,high,low,6,namesilo,,,
+ef7883d2-58ac-48f7-917d-a58408090401,abenaki.college,available,5,81.98,high,low,7,namecheap,,,
+8034ef20-c967-47f3-a5f1-f3261dc43112,victim.college,available,17.99,59.99,high,low,6,namesilo,,,
 0867e0f1-a983-419a-9aec-1b4c72bad081,gusto.college,available,17.99,59.99,high,low,5,namesilo,,,
-b3acd9d4-f3c0-4f3a-9e37-fc74e14d7350,sitloose.college,available,29.99,,low,low,9,name.com,,,
-897f9846-7b19-46a1-a45d-a3120f095787,pretending.college,available,17.99,59.99,medium,low,10,namesilo,,,
-c7273f30-b1cc-4d68-9c86-224067dd9d24,zulutime.college,available,29.99,,low,low,9,name.com,,,
-c263f09e-8975-4895-839a-80d2771a1f93,bowed.college,available,5,81.98,low,low,5,namecheap,,,06/08/2026 14:55
+897f9846-7b19-46a1-a45d-a3120f095787,pretending.college,available,17.99,59.99,high,low,10,namesilo,,,
+c263f09e-8975-4895-839a-80d2771a1f93,bowed.college,available,5,81.98,high,low,5,namecheap,,,06/08/2026 14:55
 ad06ce4b-fc82-4936-9943-2741bd0abf47,although.college,available,17.99,59.99,medium,low,8,namesilo,,,
-b5bba558-c938-4202-8ffd-cbaa04cba904,famous.college,available,17.99,59.99,medium,low,6,namesilo,,,23/09/2026 13:15
 2a4a029b-0b52-4b7e-adff-9622a86482b0,condense.college,available,17.99,59.99,high,low,8,namesilo,,,
 9128f267-2042-47bf-a452-cbcb7ea39b06,awarding.college,available,17.99,59.99,high,low,8,namesilo,,,
 a8ae1a4c-6210-4dba-9151-9f2de2f06a47,diving.college,available,17.99,59.99,high,low,6,namesilo,,,
-05d702af-7ec1-4b5d-a100-2387b48aea0c,gointo.college,available,1.5,81.98,low,low,7,namecheap,,,16/09/2026 23:51
 b9e89150-6def-4a48-922d-482da71b731b,remington.college,available,17.99,59.99,high,low,9,namesilo,,,
-8a910b40-3754-4fc1-97bd-9172e6303a57,atleast.college,available,17.99,59.99,medium,low,8,namesilo,,,
-d9064549-4238-4638-940f-a1b71be64714,pending.college,available,17.99,59.99,medium,low,7,namesilo,,,
-8325afc5-dec2-40d4-9b25-2eba57dd6411,faveolate.college,available,5,81.98,low,low,9,namecheap,,,
-82e9618e-8edd-4918-9514-be51a91c344d,iknow.college,available,17.99,59.99,medium,low,6,namesilo,,,
-a6f5e9df-4afc-4582-99a8-7b2c52466b87,scurrilous.college,available,5,81.98,low,low,10,namecheap,,,
-b67b91d0-82c7-4579-b1da-f69d467d6125,telloff.college,available,17.99,59.99,medium,low,8,namesilo,,,
+d9064549-4238-4638-940f-a1b71be64714,pending.college,available,17.99,59.99,high,low,7,namesilo,,,
+a6f5e9df-4afc-4582-99a8-7b2c52466b87,scurrilous.college,available,5,81.98,medium,low,10,namecheap,,,
 f7819853-0c34-464f-963c-cd1b8e9a05df,charleston.college,available,17.99,59.99,high,low,10,namesilo,,,
 6700b2cc-d551-4c0e-bd70-a0ba251db66f,shrek.college,available,29.99,,high,medium,5,name.com,,,
 52c7fbf3-852e-4186-8efa-523b906f8e94,decay.college,available,29.99,,high,low,5,name.com,,,
-a083ff82-f8f8-4df5-a3f0-38fd9deb4414,axenic.college,available,5,81.98,low,low,6,namecheap,,,08/08/2026 01:51
+a083ff82-f8f8-4df5-a3f0-38fd9deb4414,axenic.college,available,5,81.98,medium,low,6,namecheap,,,08/08/2026 01:51
 206ae676-10a3-4af5-a60e-0e5c74578667,limo.college,premium,625,,high,low,4,name.com,,,
-91c71532-398e-4a49-b1b5-d275533ac69d,voicemail.college,available,17.99,59.99,medium,low,10,namesilo,,,
 e7b6fa9d-2c6c-4258-88f6-d64ce77f6f44,hans.college,available,17.99,59.99,high,low,4,namesilo,,,
-6ee376cd-2afd-46b9-9dcb-6545ef0424db,amebous.college,available,5,81.98,low,low,7,namecheap,,,
-8a8ce3cb-ffca-45a5-9da9-eaad9426dfea,generally.college,available,17.99,59.99,medium,low,9,namesilo,,,
+6ee376cd-2afd-46b9-9dcb-6545ef0424db,amebous.college,available,5,81.98,medium,low,7,namecheap,,,
+8a8ce3cb-ffca-45a5-9da9-eaad9426dfea,generally.college,available,17.99,59.99,high,low,9,namesilo,,,
 8e0d62e2-aba9-42e3-bdee-2654f8eb5f0c,primary.college,available,17.99,59.99,high,low,7,namesilo,,,
-217eaed8-66e9-4415-bf99-31b6143d7255,dotherightthing.college,available,17.99,59.99,high,low,18,namesilo,,,
-f52d8aad-8ecc-412b-8baf-4981def10aed,syndrome.college,available,29.99,,medium,low,8,name.com,,,
-b8f7d6e3-1c4d-44ee-966e-f77af5f864c7,tolerable.college,available,17.99,59.99,medium,low,9,namesilo,,,
+f52d8aad-8ecc-412b-8baf-4981def10aed,syndrome.college,available,29.99,,high,low,8,name.com,,,
 432e61d2-4a2d-4bfa-b783-8cfd5b167938,everbody.college,available,17.99,59.99,medium,low,8,namesilo,,,
-a0fabffa-9f43-438e-8111-85415c79fe23,bra.college,premium,242,242,medium,low,3,namesilo,,,
-23b49994-cd55-4f67-9ad4-198e6878acb2,batwing.college,available,5,81.98,low,low,7,namecheap,,,09/08/2026 01:49
-7e0e143e-4067-445f-8608-06efa6ee820b,adulatory.college,available,5,81.98,low,low,9,namecheap,,,
+a0fabffa-9f43-438e-8111-85415c79fe23,bra.college,premium,242,242,high,low,3,namesilo,,,
+23b49994-cd55-4f67-9ad4-198e6878acb2,batwing.college,available,5,81.98,medium,low,7,namecheap,,,09/08/2026 01:49
 863af830-56a9-48ea-8938-c9b6fe3a9928,philly.college,available,17.99,59.99,high,low,6,namesilo,,,
-1c34baab-dce9-43b6-baa1-426c4476eff8,iwouldratherdie.college,available,17.99,59.99,medium,low,18,namesilo,,,
-39c3c3ab-bd01-404d-98c5-48a8980bdbbf,antibiotic.college,available,1.5,81.98,medium,low,10,namecheap,,,22/09/2026 06:14
 de974966-0615-4c82-89f5-3bb04710fdab,standardize.college,available,17.99,59.99,high,low,11,namesilo,,,
-f3709eed-2cd5-4108-97c0-16d4371cc83b,abject.college,available,5,81.98,low,low,6,namecheap,,,
-a92c4532-c5a1-4e53-86b0-d052a848077b,firstname.college,available,17.99,59.99,high,low,10,namesilo,,,
-2bb380ee-b89e-4507-bf3a-d30d44aaee92,access.college,premium,640,640,medium,low,6,namesilo,,,19/09/2026 12:18
+f3709eed-2cd5-4108-97c0-16d4371cc83b,abject.college,available,5,81.98,high,low,6,namecheap,,,
 1f9fcc54-00c2-4d01-9f49-92e0634a54e0,shorts.college,available,29.99,,high,low,6,name.com,,,
 29f6b9f1-9199-49ce-8002-9ed75d5bb54e,wine.college,premium,12500,,high,low,4,name.com,,,
 cf912342-a7b0-4eb9-9a00-983ab479c5fe,mini.college,premium,625,,high,medium,4,name.com,,,
-d4189de3-3659-416d-90bd-cedd75eb7630,basement.college,available,17.99,59.99,medium,low,8,namesilo,,,
-6119777e-057c-4ac1-a233-63523656de2e,waytoo.college,available,29.99,,low,low,7,name.com,,,
+d4189de3-3659-416d-90bd-cedd75eb7630,basement.college,available,17.99,59.99,high,low,8,namesilo,,,
 892ec40c-72f2-410e-bde9-48098a16b1b1,sunbelt.college,available,29.99,,high,low,7,name.com,,,
-6447ac01-78dd-4853-91a8-c7a6198a48ef,azotemic.college,available,1.5,81.98,low,low,8,namecheap,,,08/09/2026 15:21
 4ab5e839-ac4b-4dd3-b42c-ce475c5f96eb,eat.college,premium,625,,high,low,3,name.com,,,
-15514eae-1270-46ad-94fc-bd0e33f17564,batrachian.college,available,5,81.98,low,low,10,namecheap,,,05/08/2026 20:53
-0c3b273e-de74-4b23-83b8-bbabfd0d2115,present.college,available,17.99,59.99,high,low,7,namesilo,,,
-115b5289-1e99-46d5-90f5-8a322c3b6f54,acoustical.college,available,5,81.98,low,low,10,namecheap,,,
-4265e4de-6e5b-49c4-ae08-dba249691b09,kidney.college,available,17.99,59.99,medium,low,6,namesilo,,,
-5fe81996-71df-47a7-9459-17b3c3070008,gobothways.college,available,17.99,59.99,medium,low,12,namesilo,,,
-55efe73b-f849-4092-91d8-0b09d9fc9972,aberdonian.college,available,5,81.98,low,low,10,namecheap,,,
-38be036e-ad3a-430a-9531-d9b88af39b07,bang.college,available,17.99,59.99,high,low,4,namesilo,,,
-f89c4d83-b461-4a9c-80ba-972be8526911,apopemptic.college,available,5,81.98,low,low,10,namecheap,,,06/08/2026 02:22
-8d7a4d87-31b9-4161-b277-6367f0d4b017,some.college,available,17.99,59.99,medium,low,4,namesilo,,,19/09/2026 12:35
+15514eae-1270-46ad-94fc-bd0e33f17564,batrachian.college,available,5,81.98,medium,low,10,namecheap,,,05/08/2026 20:53
+115b5289-1e99-46d5-90f5-8a322c3b6f54,acoustical.college,available,5,81.98,medium,low,10,namecheap,,,
+4265e4de-6e5b-49c4-ae08-dba249691b09,kidney.college,available,17.99,59.99,high,low,6,namesilo,,,
+55efe73b-f849-4092-91d8-0b09d9fc9972,aberdonian.college,available,5,81.98,medium,low,10,namecheap,,,
+38be036e-ad3a-430a-9531-d9b88af39b07,bang.college,available,17.99,59.99,high,low,4,namesilo,,,24/09/2026 11:42
 5c9c0096-79a7-42d6-921b-d040222e4190,tradition.college,available,17.99,59.99,high,low,9,namesilo,,,
-40a09ae5-b20d-4390-aadc-ce79d3d789e3,bowlofcherries.college,available,17.99,59.99,high,low,16,namesilo,,,
 b7c90735-f20b-4396-b8fe-cb2726050425,vague.college,available,17.99,59.99,high,low,5,namesilo,,,
 5aadd4a3-f6ed-4e08-8e9f-3aa7e4a08df6,successful.college,available,17.99,59.99,high,low,10,namesilo,,,
 583f957f-b1f4-43ce-b5d2-6a68a5d186ab,attachment.college,available,17.99,59.99,high,low,10,namesilo,,,
-554029ec-da00-4371-9e97-6a3bf7aceab5,selfconfident.college,available,17.99,59.99,medium,low,14,namesilo,,,
-e77e5b7f-e9c6-4500-a04f-81509c093b4a,comeout.college,available,17.99,59.99,high,low,8,namesilo,,,
-6d97ef22-53bc-4151-bbf3-65a65f900f56,sheeyit.college,available,29.99,,medium,low,7,name.com,,,
-4cfbe293-7218-4db8-98a5-fcf9c6d27b2d,terminated.college,available,17.99,59.99,low,low,10,namesilo,,,19/09/2026 16:25
-823e786d-acd7-444a-81c7-ac020704b74b,account.college,premium,640,640,medium,low,7,namesilo,,,23/09/2026 08:11
 7b71f7a2-d0ac-45e0-a74c-8bf882d297de,lottery.college,available,17.99,59.99,high,low,7,namesilo,,,
-c75100cd-cb5d-48f4-92c7-8de5c7babb2f,crucial.college,available,17.99,59.99,medium,low,7,namesilo,,,22/09/2026 00:39
-c8d6d42c-2be2-42b6-a455-1b9e5787ec0b,endorse.college,available,1.5,81.98,medium,low,7,namecheap,,,08/09/2026 09:45
-ae67ccff-0c0b-4001-98f7-a29974eebac8,swiftly.college,available,29.99,,medium,low,7,name.com,,,
-65fb0e6b-b101-48e1-b613-ce1b80cb37dd,oatmealcake.college,available,17.99,59.99,high,low,12,namesilo,,,
+c8d6d42c-2be2-42b6-a455-1b9e5787ec0b,endorse.college,available,1.5,81.98,high,low,7,namecheap,,,08/09/2026 09:45
+ae67ccff-0c0b-4001-98f7-a29974eebac8,swiftly.college,available,29.99,,high,low,7,name.com,,,
 b7dabce2-4dbf-4766-8026-128d3143319d,saucepan.college,available,17.99,59.99,high,low,8,namesilo,,,
-00d03a3e-9b99-4321-b503-8cfe02533fab,disabled.college,available,29.99,94.99,high,low,8,name.com,,,
 5d347b30-85a0-4e1d-9310-5362633382da,coffeeman.college,available,17.99,59.99,high,low,9,namesilo,,,
-044e52e6-7e73-420f-870f-9fd02ee33b7d,morgan.college,available,17.99,59.99,medium,low,6,namesilo,,,19/09/2026 10:04
-578cd93b-6575-40ab-b34e-fe5e30feadb5,improvize.college,available,5,81.98,low,low,9,namecheap,,,
-129a30e8-6ee7-4447-991f-abf3e916c27a,fatal.college,available,17.99,59.99,low,low,5,namesilo,,,23/09/2026 12:24
-1a1a7a49-0ebd-4f19-acc6-93dd2898a54a,officelandscape.college,available,17.99,59.99,high,low,16,namesilo,,,
-397a59f2-aa88-4a8b-966e-58d4a79d90a1,keepgoodtime.college,available,29.99,,high,low,14,name.com,,,
 53da6c50-8f09-4c7e-8f04-d2599adf4206,talk.college,premium,625,,high,low,4,name.com,,,
-d1d1e591-965b-41e8-8432-56973675cbe1,absorbed.college,available,17.99,59.99,medium,low,8,namesilo,,,21/09/2026 14:58
-bd903195-e788-4faa-bd7b-00b41189bf83,asopposedto.college,available,17.99,59.99,medium,low,13,namesilo,,,
 2dc36ced-147f-4ee9-9f52-5931c4e53edd,country.college,premium,625,,high,low,7,name.com,,,
 83e400d6-0e78-4341-b4c1-dd1ef58a8e35,plentiful.college,available,17.99,59.99,high,low,9,namesilo,,,
-b13b34cc-8d3c-4719-ae06-1058933f851d,familyrestaurant.college,available,17.99,59.99,high,low,17,namesilo,,,
-26de4747-5474-4bf1-85f8-cedc0676df93,acne.college,available,17.99,59.99,low,low,4,namesilo,,,
-6f87587c-6356-44e7-bb4a-61f1536ebccc,ricepaper.college,available,17.99,59.99,medium,low,10,namesilo,,,
-a2b26834-eb4d-4cce-baf2-5e08f030675f,keys.college,available,,,medium,medium,4,,,,
-37614610-26a2-4717-9800-54d9956499ff,absence.college,available,17.99,59.99,low,low,7,namesilo,,,
-c64c7e1e-503b-471e-bcac-5e3ba38b58d6,compliant.college,available,17.99,59.99,medium,low,9,namesilo,,,23/09/2026 17:44
-48750f62-d7d0-4cd0-980c-b0f236aa6082,lp.college,premium,3450,3450,medium,low,3,namesilo,,,
+26de4747-5474-4bf1-85f8-cedc0676df93,acne.college,available,17.99,59.99,high,low,4,namesilo,,,
+a2b26834-eb4d-4cce-baf2-5e08f030675f,keys.college,available,,,high,medium,4,,,,
+37614610-26a2-4717-9800-54d9956499ff,absence.college,available,17.99,59.99,high,low,7,namesilo,,,
+48750f62-d7d0-4cd0-980c-b0f236aa6082,lp.college,premium,3450,3450,high,low,3,namesilo,,,
 eeb1aa7d-197e-4d7f-851d-872de5cbe7db,shakespeare.college,available,17.99,59.99,high,low,11,namesilo,,,
 647391a8-d827-466f-8092-f9d1385ae308,los.college,available,29.99,,high,low,3,name.com,,,
-a9b71ec1-ea7b-4208-bb18-1d2f79dcf03c,acceptable.college,available,17.99,59.99,medium,low,10,namesilo,,,21/09/2026 15:23
-ed293d27-67fc-472a-94eb-2e55591ae0e6,potatocrisp.college,available,17.99,59.99,high,low,12,namesilo,,,
 28a377aa-9e36-4e66-b0f5-4c736104afde,believe.college,available,29.99,,high,low,7,name.com,,,
-19362e97-efe5-4627-b2b7-4d91c343530b,provisions.college,available,1.5,81.98,medium,low,10,namecheap,,,08/09/2026 08:15
-d733470c-6d2e-44a7-90f4-36d095a17568,getwiththetimes.college,available,29.99,,high,low,18,name.com,,,
+19362e97-efe5-4627-b2b7-4d91c343530b,provisions.college,available,1.5,81.98,high,low,10,namecheap,,,08/09/2026 08:15
 d3e72706-2148-46c9-af37-5b6bebfd671a,psychology.college,premium,3125,,high,low,10,name.com,,,
-709289f5-f195-42d0-aaf3-9ce277cda82f,elaborate.college,available,29.99,94.99,high,low,9,name.com,,,
-a24e0c0b-41c4-437c-a6e4-73cd9a395528,annoying.college,available,17.99,59.99,low,low,8,namesilo,,,22/09/2026 05:19
-1d2c7420-d52b-4655-95bd-5c68dd6ec7a4,grubby.college,available,5,81.98,low,low,6,namecheap,,,09/08/2026 09:31
-c1be1192-341d-4107-a03f-3e2ee4c47c72,gene.college,available,17.99,59.99,medium,low,4,namesilo,,,
-e8bd3c19-5c3d-4ea6-a469-f53f360daf93,attender.college,available,5,81.98,low,low,8,namecheap,,,07/08/2026 15:17
+1d2c7420-d52b-4655-95bd-5c68dd6ec7a4,grubby.college,available,5,81.98,medium,low,6,namecheap,,,09/08/2026 09:31
+c1be1192-341d-4107-a03f-3e2ee4c47c72,gene.college,available,17.99,59.99,high,low,4,namesilo,,,
+e8bd3c19-5c3d-4ea6-a469-f53f360daf93,attender.college,available,5,81.98,medium,low,8,namecheap,,,07/08/2026 15:17
 56dbf5f8-b9aa-457b-8453-700909f9fa5a,interview.college,available,17.99,59.99,high,low,9,namesilo,,,
-1c4d90c6-db20-4bae-9865-46da843c6a7e,realized.college,available,17.99,59.99,medium,low,8,namesilo,,,23/09/2026 17:28
-e1ac8137-7f7c-48f7-b10f-5f3ba0ba0390,twoscore.college,available,5,81.98,low,low,8,namecheap,,,
-e3aa1170-7594-4455-89b7-4bd36f825251,awless.college,available,5,81.98,low,low,6,namecheap,,,08/08/2026 00:55
-891335d4-cc58-4acb-9710-918ad6ae2525,focalpoint.college,available,17.99,59.99,high,low,11,namesilo,,,
-1313a26f-e0bd-48bb-b8c6-bc4afb033a24,beige.college,available,5,81.98,low,low,5,namecheap,,,09/08/2026 12:22
-d421b7c6-f661-4497-ad30-551627c632c7,glittery.college,available,5,81.98,low,low,8,namecheap,,,
-5ff2e434-7300-4a98-a579-6c43a5424db9,tenth.college,available,17.99,59.99,medium,low,5,namesilo,,,21/09/2026 11:17
-1d4543ae-a354-4c67-a363-0e0e7a717934,landline.college,available,17.99,59.99,medium,low,9,namesilo,,,
-03306267-7cb3-4eae-9766-408c5d0a4050,establishmentgrowth.college,available,17.99,59.99,medium,low,20,namesilo,,,
-67eda436-db18-421c-a77b-77e09eba66df,souls.college,available,17.99,59.99,low,low,5,namesilo,,,
+e1ac8137-7f7c-48f7-b10f-5f3ba0ba0390,twoscore.college,available,5,81.98,medium,low,8,namecheap,,,
+1313a26f-e0bd-48bb-b8c6-bc4afb033a24,beige.college,available,5,81.98,high,low,5,namecheap,,,09/08/2026 12:22
+d421b7c6-f661-4497-ad30-551627c632c7,glittery.college,available,5,81.98,high,low,8,namecheap,,,
+67eda436-db18-421c-a77b-77e09eba66df,souls.college,available,17.99,59.99,high,low,5,namesilo,,,
 2d4d1423-25a8-4440-a44c-5af9a8eae0b4,awhile.college,available,17.99,59.99,medium,low,6,namesilo,,,
 8e732682-672e-4e81-a9a7-41a4f09a0658,military.college,premium,12500,,high,low,8,name.com,,,
-e8b89064-8e75-45f7-8f7b-68f8e2533f1a,execrable.college,available,5,81.98,low,low,9,namecheap,,,
-5177a34e-dc70-4ae1-b897-97c6c0c2ea87,age.college,available,17.99,59.99,medium,low,3,namesilo,,,19/09/2026 07:13
-dbb3c21f-b7c0-403d-999a-81c64983be7f,oddman.college,available,17.99,59.99,low,low,7,namesilo,,,
+e8b89064-8e75-45f7-8f7b-68f8e2533f1a,execrable.college,available,5,81.98,medium,low,9,namecheap,,,
 1b8eec2d-f51f-43e7-afa1-a1d707dfa12e,salt.college,available,29.99,,high,low,4,name.com,,,
-122cf857-d8d4-43e4-8878-f527f4b47402,candybar.college,available,17.99,59.99,high,low,9,namesilo,,,
-1129d1a2-07c0-4976-bd29-76fc9def72a4,acanthous.college,available,5,81.98,low,low,9,namecheap,,,
 015447da-e3b2-4fa5-8256-f6b1fde00f25,hungry.college,available,17.99,59.99,high,low,6,namesilo,,,
-982e2f5f-2863-45a6-b536-754615d560bf,carnival.college,available,17.99,59.99,high,low,8,namesilo,,,
-23bddb53-d172-4b10-bc71-f55f5cb84796,normally.college,available,17.99,59.99,medium,low,8,namesilo,,,
-ba54a90f-88be-434a-82f9-5d0fd8b8b2f5,adsorptive.college,available,5,81.98,low,low,10,namecheap,,,
-a52e5640-86ca-438a-8785-69564568a11f,datatable.college,available,17.99,59.99,high,low,10,namesilo,,,
+23bddb53-d172-4b10-bc71-f55f5cb84796,normally.college,available,17.99,59.99,high,low,8,namesilo,,,
 7745c9e4-6eb8-469f-899f-b803960d9b3a,difference.college,available,17.99,59.99,high,low,10,namesilo,,,
-903460d6-460b-4e8c-8939-a3fb7f571f17,mazed.college,available,5,81.98,low,low,5,namecheap,,,07/08/2026 12:07
-1ae1555c-9e0c-45a3-b712-47f07594a8ac,accessible.college,available,17.99,59.99,medium,low,10,namesilo,,,21/09/2026 15:38
-07522f65-a4a1-4f23-8cd5-0fe88e905d0b,allowable.college,available,5,81.98,low,low,9,namecheap,,,
-5a64f473-39e2-4f04-be32-1495c99217ec,naturestudent.college,available,17.99,59.99,low,low,14,namesilo,,,
-f39613f3-d6fd-4bcd-9231-94be19e02522,ageing.college,available,1.5,81.98,low,low,6,namecheap,,,21/09/2026 22:43
-63ffcf4d-2e34-4d0e-af10-89fb11133036,kissmyass.college,available,29.99,,medium,low,11,name.com,,,
+903460d6-460b-4e8c-8939-a3fb7f571f17,mazed.college,available,5,81.98,medium,low,5,namecheap,,,07/08/2026 12:07
+07522f65-a4a1-4f23-8cd5-0fe88e905d0b,allowable.college,available,5,81.98,high,low,9,namecheap,,,
 ef68db79-8978-4795-acf5-d0d1fae1e711,revenue.college,available,17.99,59.99,high,low,7,namesilo,,,
 0ef33fd2-bc50-457d-93c8-fdd47291c4a4,pinch.college,available,17.99,59.99,high,low,5,namesilo,,,
-ff16ed2d-3da6-4bb0-bfc0-9692760b2bf1,holdopen.college,available,17.99,59.99,high,low,9,namesilo,,,
-81d5a067-002e-40d4-aebd-a479c94b91b1,hindmost.college,available,5,81.98,low,low,8,namecheap,,,08/08/2026 06:04
-b78b1d45-287e-48c7-9af5-0926ab0fa9bf,closetohome.college,available,17.99,59.99,medium,low,13,namesilo,,,
 3212901a-47d4-4091-a0ca-ed8131f54a6d,spine.college,available,17.99,59.99,high,low,5,namesilo,,,
-c004d0e6-2417-4001-bcd8-9696de2794a8,touching.college,available,5,81.98,medium,low,8,namecheap,,,
-8753e60d-5b69-4e2e-99f8-7df1cc2e547b,regulate.college,available,17.99,59.99,medium,low,8,namesilo,,,
-dcd9c38a-026e-4155-b7a0-57d1d75aa6cf,dendroid.college,available,5,81.98,low,low,8,namecheap,,,06/08/2026 13:50
-b3f6c2f0-5518-472c-b139-65a1a8285909,aguish.college,available,5,81.98,low,low,6,namecheap,,,
-00046aca-59c6-4a3c-a803-44d38ef598dc,coy.college,available,17.99,59.99,low,low,3,namesilo,,,24/09/2026 01:10
-e92db648-d3bf-476b-8ebe-920f44bd2224,roughshod.college,available,5,81.98,low,low,9,namecheap,,,08/08/2026 15:55
-edd43826-cad7-4c9c-b1b5-b00dfffac41f,xlii.college,available,5,81.98,low,low,4,namecheap,,,
-d3142ec8-38fb-4340-a1a1-bf065fa56288,aphaeretic.college,available,5,81.98,low,low,10,namecheap,,,05/08/2026 22:45
-cd0522dc-ba13-46de-97b9-2311cc251405,matrix.college,premium,625,,medium,medium,6,name.com,,,
+c004d0e6-2417-4001-bcd8-9696de2794a8,touching.college,available,5,81.98,high,low,8,namecheap,,,
+8753e60d-5b69-4e2e-99f8-7df1cc2e547b,regulate.college,available,17.99,59.99,high,low,8,namesilo,,,
+dcd9c38a-026e-4155-b7a0-57d1d75aa6cf,dendroid.college,available,5,81.98,medium,low,8,namecheap,,,06/08/2026 13:50
+b3f6c2f0-5518-472c-b139-65a1a8285909,aguish.college,available,5,81.98,medium,low,6,namecheap,,,
+edd43826-cad7-4c9c-b1b5-b00dfffac41f,xlii.college,available,5,81.98,high,low,4,namecheap,,,
+cd0522dc-ba13-46de-97b9-2311cc251405,matrix.college,premium,625,,high,medium,6,name.com,,,
 b1503f02-e3a1-413b-95ce-5a01b0cec54f,promising.college,available,17.99,59.99,high,low,9,namesilo,,,
-4f10766a-754f-466d-8c25-469f1eac34f8,over.college,available,17.99,59.99,low,low,4,namesilo,,,22/09/2026 00:56
-e5ebddf9-5bf7-49a6-8c82-f6d785728972,seeingthat.college,available,29.99,,medium,low,11,name.com,,,
 3b028975-c6b3-4ed6-8bae-8ca272cff930,but.college,available,17.99,59.99,high,low,3,namesilo,,,
-e482323e-eb0b-4fbc-ba1b-9e7fef5a6da3,condensedmilk.college,available,17.99,59.99,high,low,14,namesilo,,,
 64a20ba2-b937-4f11-98fe-3dd14d90b3c5,leader.college,available,17.99,59.99,high,low,6,namesilo,,,
-b10c522c-5aae-4aa5-910a-811eca4b99d8,getsome.college,available,17.99,59.99,high,low,8,namesilo,,,
-ff28ae7c-11d0-4037-81cf-5a1eb748564e,labor.college,available,29.99,,medium,low,5,name.com,,,
+ff28ae7c-11d0-4037-81cf-5a1eb748564e,labor.college,available,29.99,,high,low,5,name.com,,,
 6a88256b-ed0d-4b3d-a374-9153ddca2ca4,intriguing.college,available,17.99,59.99,high,low,10,namesilo,,,
-0cb7ed50-4085-4549-b996-3132abd24f48,apodous.college,available,5,81.98,low,low,7,namecheap,,,06/08/2026 01:21
-705f3851-6126-4493-8eae-af69735df5a9,lawless.college,available,5,81.98,low,low,7,namecheap,,,
-876816e5-62b6-465a-b534-93edefc97ceb,condolence.college,available,17.99,59.99,medium,low,10,namesilo,,,
+0cb7ed50-4085-4549-b996-3132abd24f48,apodous.college,available,5,81.98,medium,low,7,namecheap,,,06/08/2026 01:21
+705f3851-6126-4493-8eae-af69735df5a9,lawless.college,available,5,81.98,medium,low,7,namecheap,,,
+876816e5-62b6-465a-b534-93edefc97ceb,condolence.college,available,17.99,59.99,high,low,10,namesilo,,,
 67dd5333-a3ce-49eb-9503-7284d169beea,salad.college,available,17.99,59.99,high,low,5,namesilo,,,
-4959ee22-4032-4089-ab60-5e9bd375f108,barometric.college,available,5,81.98,low,low,10,namecheap,,,08/08/2026 20:06
-f8b42311-9224-4584-a3f5-15fc3ebbcebc,notfor.college,available,17.99,59.99,medium,low,7,namesilo,,,
-153e50cd-7235-4d92-80b2-be0865d02682,service.college,premium,640,640,low,low,7,namesilo,,,19/09/2026 12:20
-461ddf71-d06a-4d3d-85f4-1ee1f01f193f,accumbent.college,available,5,81.98,low,low,9,namecheap,,,
+4959ee22-4032-4089-ab60-5e9bd375f108,barometric.college,available,5,81.98,medium,low,10,namecheap,,,08/08/2026 20:06
 46ad2093-1edb-4ee0-a4fb-effe92765fc5,height.college,available,17.99,59.99,high,low,6,namesilo,,,
 1739dcb8-bff5-49ce-8aa1-7c617d774471,volvo.college,available,17.99,59.99,high,low,5,namesilo,,,
-8140336f-7fd6-4599-b5b6-31385831a8fd,hardluck.college,available,17.99,59.99,medium,low,9,namesilo,,,
 f4200a55-c6c3-4f72-a32c-a17b0b71364d,way.college,available,29.99,,high,low,3,name.com,,,
-70fd2bf5-2ac4-4d9f-8db7-858a0d64aabd,admissive.college,available,5,81.98,low,low,9,namecheap,,,
-e5364353-42ff-4327-a83d-f15b1b1106bb,dominated.college,available,29.99,94.99,medium,low,9,name.com,,,
-9e835b10-42d7-4067-97b6-5153ae32315b,surgeprotector.college,available,17.99,59.99,high,low,15,namesilo,,,
 75847643-b144-42ff-afeb-7d133d13ad3e,they.college,available,17.99,59.99,high,low,4,namesilo,,,
-77d91672-6895-4315-9230-98a554b19b71,surprisingly.college,available,17.99,59.99,medium,low,12,namesilo,,,
-3c0e7a4f-9ade-40a7-907a-fdb1365a296f,deepsleep.college,available,17.99,59.99,high,low,10,namesilo,,,
-51ea846d-c690-42cc-966a-0707c7ba25fe,adaptable.college,available,17.99,59.99,medium,low,9,namesilo,,,21/09/2026 16:52
+77d91672-6895-4315-9230-98a554b19b71,surprisingly.college,available,17.99,59.99,high,low,12,namesilo,,,
 8e0fcb8b-2cf9-4349-9e95-dda8ff588d5e,watermelon.college,available,17.99,59.99,high,low,10,namesilo,,,
 ae9e4ac1-d67e-434d-9f13-eba3981418fd,ones.college,available,17.99,59.99,high,low,4,namesilo,,,
-8e477c61-a0ce-42be-b208-88551cd29a52,sloppy.college,available,5,81.98,low,low,6,namecheap,,,08/08/2026 08:22
-1cedfe90-b0f5-4a5e-b8ec-2e4daaf351a7,fuckstruck.college,available,17.99,59.99,medium,low,10,namesilo,,,
-908225e0-7a90-4996-865e-b001de208516,alarming.college,available,5,81.98,low,low,8,namecheap,,,
+8e477c61-a0ce-42be-b208-88551cd29a52,sloppy.college,available,5,81.98,high,low,6,namecheap,,,08/08/2026 08:22
+908225e0-7a90-4996-865e-b001de208516,alarming.college,available,5,81.98,medium,low,8,namecheap,,,
 e358e033-7188-48f9-92af-c78477c724e3,non.college,available,17.99,59.99,high,low,3,namesilo,,,
 0b073ad7-b67b-49da-85f5-b0d1d060afa7,colors.college,available,17.99,59.99,high,low,6,namesilo,,,
 80edcadf-e835-4fe2-96d4-3e9ad749088b,lapse.college,available,29.99,,high,low,5,name.com,,,
-1506b971-78c0-4623-afb1-6c09a51cb4d8,triangle.college,available,17.99,59.99,medium,low,8,namesilo,,,
-b58d80a0-2ea2-4cd3-86b4-1bdf6307fbdb,heavy.college,available,17.99,59.99,medium,low,5,namesilo,,,22/09/2026 07:40
-363638cf-ac26-4737-9e20-57992a39da9f,centesimal.college,available,5,81.98,low,low,10,namecheap,,,
+1506b971-78c0-4623-afb1-6c09a51cb4d8,triangle.college,available,17.99,59.99,high,low,8,namesilo,,,
+363638cf-ac26-4737-9e20-57992a39da9f,centesimal.college,available,5,81.98,high,low,10,namecheap,,,
 e2d6a797-641f-4e5e-9f9e-b4b55ccf772d,now.college,premium,12500,,high,medium,3,name.com,,,
-66e142c9-d339-4896-a278-1f7be517800d,alphameric.college,available,17.99,59.99,low,low,10,namesilo,,,22/09/2026 02:12
-d9226904-28e0-4c73-8bbf-b6444b75231a,endup.college,available,17.99,59.99,high,low,6,namesilo,,,
 2f45fc58-89d3-4c70-8336-eea0fc0b9992,provide.college,premium,242,242,high,low,7,namesilo,,,
 4a54bed1-b96f-4c15-8304-5f5636d23bb5,twitter.college,available,17.99,59.99,high,low,7,namesilo,,,
-b9575ff6-b9d5-45f9-a807-c503b3e3c528,ringed.college,available,5,81.98,low,low,6,namecheap,,,
-952d2fd2-a975-4fc0-b867-8114f85b4cc9,araceous.college,available,5,81.98,low,low,8,namecheap,,,06/08/2026 11:36
-f4366633-c1d2-4ed5-a70e-7d42836c36ea,graywolf.college,available,17.99,59.99,high,low,9,namesilo,,,
-ad1be2b9-564a-4e9a-965d-bbc7e4f988d2,baptised.college,available,5,81.98,low,low,8,namecheap,,,08/08/2026 15:00
-cd85b654-8708-4f92-b4d2-31499a42cb69,pulled.college,available,17.99,59.99,low,low,6,namesilo,,,
+8fbb5549-d45b-4087-8143-58650f2bcb76,affirm.college,available,17.99,59.99,high,high,6,namesilo,,,24/09/2026 08:18
+b9575ff6-b9d5-45f9-a807-c503b3e3c528,ringed.college,available,5,81.98,high,low,6,namecheap,,,
+cd85b654-8708-4f92-b4d2-31499a42cb69,pulled.college,available,17.99,59.99,high,low,6,namesilo,,,
 8f90248f-ef4c-4804-acfe-50329171a7eb,poolside.college,available,17.99,59.99,high,low,8,namesilo,,,
 8d18e789-1eb9-4541-bf09-72392fcd3ca2,kiss.college,premium,625,,high,low,4,name.com,,,
-e75e3c23-2c83-4f59-b838-81a55822762d,autogamic.college,available,5,81.98,low,low,9,namecheap,,,07/08/2026 20:11
 c0542be9-bb79-4072-8687-2a9019bcead4,piano.college,available,17.99,59.99,high,low,5,namesilo,,,
 af157f10-29a7-4f70-9edc-33e60ba94530,stereotype.college,available,29.99,,high,low,10,name.com,,,
 8fa46b9c-dc82-46bb-a432-edf60f22cab8,exec.college,premium,242,242,high,low,4,namesilo,,,
-9098f050-8845-426c-bb33-7de87f1f4069,acarpous.college,available,5,81.98,low,low,8,namecheap,,,
+9098f050-8845-426c-bb33-7de87f1f4069,acarpous.college,available,5,81.98,medium,low,8,namecheap,,,
 60d413f0-b5aa-4ffa-af26-7356edae363c,strain.college,available,17.99,59.99,medium,low,6,namesilo,,,
-2670cdaa-161b-4d4f-8ad9-df9cfdae47d2,acquired.college,available,5,81.98,low,low,8,namecheap,,,
-3e3a8539-bd8e-4774-b3c9-f660c01bd8fe,anagogic.college,available,5,81.98,low,low,8,namecheap,,,
-85d210c9-0e1a-4640-ad3d-7581902cf1b9,overnight.college,available,17.99,59.99,medium,low,9,namesilo,,,22/09/2026 00:44
+2670cdaa-161b-4d4f-8ad9-df9cfdae47d2,acquired.college,available,5,81.98,high,low,8,namecheap,,,
 37001092-d9c8-4316-a454-8b2c453cb6b2,atrial.college,available,5,81.98,low,low,6,namecheap,,,07/08/2026 14:24
-f0b82cf1-f215-4855-8a5d-5251ab1384c1,therebe.college,available,17.99,59.99,low,low,8,namesilo,,,
-9607f075-baf3-41b7-ae67-f8a318639ca8,connect.college,premium,12500,12500,medium,medium,7,name.com,,,07/08/2026 07:16
+9607f075-baf3-41b7-ae67-f8a318639ca8,connect.college,premium,12500,12500,high,medium,7,name.com,,,07/08/2026 07:16
 a35cab33-04ac-4d57-9dd6-28dd33d311de,sunset.college,available,17.99,59.99,high,low,6,namesilo,,,
-d31a95c2-00dd-4a8f-8c9b-1c2e78244b5a,trumpian.college,available,17.99,59.99,high,low,8,namesilo,,,
-eeed83e3-5b0b-4c6c-bb4f-d810939d2a69,mothahfuggah.college,available,17.99,59.99,medium,low,12,namesilo,,,
-bb859613-677d-4452-8fa2-1b9afc9ee28a,germanchamomile.college,available,17.99,59.99,high,low,16,namesilo,,,
-b6bef427-a279-4a35-b317-b18cd2a18d55,bflat.college,available,17.99,59.99,medium,low,6,namesilo,,,
-67018c2a-306a-498a-ac9f-e7f1f0903254,believable.college,available,5,81.98,low,low,10,namecheap,,,09/08/2026 13:01
-8333c38d-0aa6-4a71-90f1-2b0ed95e49bb,discovered.college,available,17.99,59.99,medium,low,10,namesilo,,,22/09/2026 09:21
+d31a95c2-00dd-4a8f-8c9b-1c2e78244b5a,trumpian.college,available,17.99,59.99,medium,low,8,namesilo,,,
+67018c2a-306a-498a-ac9f-e7f1f0903254,believable.college,available,5,81.98,high,low,10,namecheap,,,09/08/2026 13:01
 8c119313-14a2-4a35-b2a0-ac1de29ac8fa,covid.college,available,17.99,59.99,high,low,5,namesilo,,,
-cabca364-2537-47af-a2f9-4ba12a131bbc,water.college,available,1.5,81.98,medium,medium,5,namecheap,,,08/09/2026 13:05
+cabca364-2537-47af-a2f9-4ba12a131bbc,water.college,available,1.5,81.98,high,medium,5,namecheap,,,08/09/2026 13:05
 568ab3fd-d671-4167-8905-fc67677050de,float.college,available,17.99,59.99,high,low,5,namesilo,,,
-5ea1c976-87fd-4715-8265-4109147f82e0,brush.college,available,17.99,59.99,medium,low,5,namesilo,,,
+5ea1c976-87fd-4715-8265-4109147f82e0,brush.college,available,17.99,59.99,high,low,5,namesilo,,,
 e5041996-3645-4614-8522-7d7304fa8111,plus.college,premium,625,,high,low,4,name.com,,,
-940527eb-0ee7-446f-bb15-0e1d1bb08ff5,three.college,available,17.99,59.99,medium,low,5,namesilo,,,21/09/2026 13:02
-0103a69f-9dc8-4153-b42b-7012ed61c6cf,iron.college,available,17.99,59.99,medium,low,4,namesilo,,,23/09/2026 13:11
-0245350d-b83d-461f-b7b5-a0c9c46d8dac,fiftytwo.college,available,5,81.98,low,low,9,namecheap,,,
-4929a12c-25e8-4d36-8666-c630a2abaa0a,bandaged.college,available,5,81.98,low,low,8,namecheap,,,08/08/2026 11:34
-b7db2e4e-7fc5-450d-b6cb-04d105ab9ba4,diminished.college,available,5,81.98,low,low,10,namecheap,,,07/08/2026 15:00
-31b72a39-f186-4844-8625-fbd3326d0e76,observed.college,available,17.99,59.99,low,low,8,namesilo,,,22/09/2026 09:25
+b7db2e4e-7fc5-450d-b6cb-04d105ab9ba4,diminished.college,available,5,81.98,medium,low,10,namecheap,,,07/08/2026 15:00
 56702488-13fc-4c38-b2ba-2b3b44333df0,jacobs.college,available,17.99,59.99,high,low,6,namesilo,,,
-d251a827-ebde-4166-9536-f7b6e52c7861,adipose.college,available,5,81.98,low,low,7,namecheap,,,
+d251a827-ebde-4166-9536-f7b6e52c7861,adipose.college,available,5,81.98,high,low,7,namecheap,,,
 3ca7d8b6-8238-4d2b-af79-3efbff99b8a9,learn.college,premium,625,,high,medium,5,name.com,,,
 0a200ac0-c59e-4d0b-be44-ee8036e3b6ab,japan.college,available,,,high,low,5,,,,
-5f66a32a-7124-4123-bab9-ced77e406b63,dancehall.college,available,17.99,59.99,high,low,10,namesilo,,,
-c8b20653-1b4d-4a3c-9af4-28a18057c067,theone.college,available,17.99,59.99,high,low,7,namesilo,,,
 eba4290c-d62e-4d80-b0d7-67f8b458585a,teacher.college,premium,625,,high,low,7,name.com,,,
-98aad0f0-7bf2-4839-a440-e14b7794ab67,abrasive.college,available,5,81.98,low,low,8,namecheap,,,
+98aad0f0-7bf2-4839-a440-e14b7794ab67,abrasive.college,available,5,81.98,high,low,8,namecheap,,,
 fe8b597a-0a68-4c50-bfa3-f2729489b7a3,mid.college,available,17.99,59.99,high,low,3,namesilo,,,
 32078890-ae26-4a4e-9d45-94ed3aa32091,camera.college,premium,625,,high,low,6,name.com,,,
-081704f6-0f2f-419d-8a9e-52591a2c6356,organization.college,available,17.99,59.99,medium,low,12,namesilo,,,
-8e75a1c9-0346-4fe4-9474-8e4221176e5e,groovy.college,available,5,81.98,medium,low,6,namecheap,,,08/08/2026 12:35
-3839e332-203e-4a5d-862b-1a5fd5c1cb59,rising.college,available,5,81.98,low,low,6,namecheap,,,
-8b25dace-a16a-41c2-a4bf-d628b3c2038c,detached.college,available,29.99,94.99,medium,low,8,name.com,,,
+8e75a1c9-0346-4fe4-9474-8e4221176e5e,groovy.college,available,5,81.98,high,low,6,namecheap,,,08/08/2026 12:35
+3839e332-203e-4a5d-862b-1a5fd5c1cb59,rising.college,available,5,81.98,high,low,6,namecheap,,,
 3f9d2713-e1b3-4404-b3af-51a4c0fcd421,stops.college,available,29.99,,high,low,5,name.com,,,
-6cdc8f09-badb-4c1c-a80a-fc4f74b9fd20,agamic.college,available,5,81.98,low,low,6,namecheap,,,
-a290c0b8-c5f0-463c-a864-5dfb8371cffc,carsick.college,available,5,81.98,low,low,7,namecheap,,,
-9820b825-c9db-47bc-b37d-20781f1734d6,whitevinegar.college,available,17.99,59.99,low,low,13,namesilo,,,
-3306c984-09fb-477c-b6e7-3bde404abcb1,yawn.college,available,17.99,59.99,medium,low,4,namesilo,,,
-50663fc1-6017-4e4f-a084-17488ae8285f,ancillary.college,available,5,81.98,low,low,9,namecheap,,,
-f146552e-9ebf-4e2d-88a9-e596bffdc3f3,fruitjuice.college,available,17.99,59.99,high,low,11,namesilo,,,
-643c68e7-a383-4c9c-be8f-de968df46698,coffeetablebook.college,available,17.99,59.99,high,low,17,namesilo,,,
-5abe4c22-f30a-4c00-bc03-13b6967a8eb4,antimonic.college,available,5,81.98,low,low,9,namecheap,,,
+6cdc8f09-badb-4c1c-a80a-fc4f74b9fd20,agamic.college,available,5,81.98,medium,low,6,namecheap,,,
+a290c0b8-c5f0-463c-a864-5dfb8371cffc,carsick.college,available,5,81.98,medium,low,7,namecheap,,,
+3306c984-09fb-477c-b6e7-3bde404abcb1,yawn.college,available,17.99,59.99,high,low,4,namesilo,,,
+50663fc1-6017-4e4f-a084-17488ae8285f,ancillary.college,available,5,81.98,high,low,9,namecheap,,,
 99666a33-71dc-453e-afa7-0d8975658cf6,visitor.college,available,17.99,59.99,high,low,7,namesilo,,,
-641c23c5-4d8d-45ff-bcb3-71c8b5738002,eyewitness.college,available,17.99,59.99,medium,low,10,namesilo,,,
-7788ee1f-f8c8-434d-94bd-a1b7cd0f5ef8,arum.college,available,5,81.98,low,low,4,namecheap,,,06/08/2026 20:20
-677df00b-5f2f-482f-b214-7907c0c7365c,talkto.college,available,17.99,59.99,medium,low,7,namesilo,,,
-8c9567d9-81a7-4702-a645-1c47814ae1d4,sestet.college,available,5,81.98,low,low,6,namecheap,,,
+641c23c5-4d8d-45ff-bcb3-71c8b5738002,eyewitness.college,available,17.99,59.99,high,low,10,namesilo,,,
+7788ee1f-f8c8-434d-94bd-a1b7cd0f5ef8,arum.college,available,5,81.98,medium,low,4,namecheap,,,06/08/2026 20:20
+8c9567d9-81a7-4702-a645-1c47814ae1d4,sestet.college,available,5,81.98,medium,low,6,namecheap,,,
 0d25f167-84b5-4045-8404-418da6e470b1,luxury.college,premium,625,,high,low,6,name.com,,,
-c6b71506-fa1f-471c-a501-8723629aabe8,ihearyousay.college,available,17.99,59.99,medium,low,14,namesilo,,,
 b0ff9c07-98dd-451b-82aa-11828e6aa3c5,prominent.college,available,17.99,59.99,high,low,9,namesilo,,,
-1c06167d-38d3-49c9-a08c-4700a2a0598b,corny.college,available,1.5,81.98,low,low,5,namecheap,,,23/09/2026 23:25
 cbd4a4de-3b27-40ed-84bf-ff056d582790,budget.college,available,17.99,59.99,high,low,6,namesilo,,,
-145a932b-5477-45fe-8649-70aaf1a67b00,madeup.college,available,17.99,59.99,high,low,7,namesilo,,,
 93a90419-1c4a-4c2c-be31-de839c84994d,wound.college,available,17.99,59.99,high,low,5,namesilo,,,
-9512cbe2-9901-424a-ae8e-1bcdf89f1e86,demoniac.college,available,5,81.98,low,low,8,namecheap,,,
-346f47f4-c32d-4d2c-8d50-a21f4a801bf8,next.college,premium,12500,12500,medium,high,4,name.com,,,
-54ef17fd-e5df-4e8b-9483-b22809e7bd2e,multiplayer.college,available,17.99,59.99,medium,low,11,namesilo,,,
-543075ad-98cb-4b3a-9ea4-3c91e24387ca,alaskan.college,available,5,81.98,low,low,7,namecheap,,,
-55bb19a8-247c-4c1c-b4bb-fc43f9f8681e,stygian.college,available,5,81.98,low,low,7,namecheap,,,
-d476d9bd-59ae-4b9d-bbc1-9e043a9b6a50,futile.college,available,1.5,81.98,low,low,6,namecheap,,,22/09/2026 23:49
-d1eb0731-c00e-4bae-8672-6748a5f773ef,clumsy.college,available,17.99,59.99,low,low,6,namesilo,,,23/09/2026 11:20
-259d6f9b-7d64-4bcd-a945-f36e011b1826,aeriform.college,available,5,81.98,low,low,8,namecheap,,,
+346f47f4-c32d-4d2c-8d50-a21f4a801bf8,next.college,premium,12500,12500,high,high,4,name.com,,,
+54ef17fd-e5df-4e8b-9483-b22809e7bd2e,multiplayer.college,available,17.99,59.99,high,low,11,namesilo,,,
+543075ad-98cb-4b3a-9ea4-3c91e24387ca,alaskan.college,available,5,81.98,high,low,7,namecheap,,,
+55bb19a8-247c-4c1c-b4bb-fc43f9f8681e,stygian.college,available,5,81.98,medium,low,7,namecheap,,,
+259d6f9b-7d64-4bcd-a945-f36e011b1826,aeriform.college,available,5,81.98,medium,low,8,namecheap,,,
 f3b5a5f1-b6f9-4bdc-ae56-5e9d9c61b255,supper.college,available,29.99,,high,low,6,name.com,,,
-5b49e604-49f2-4b99-8670-eb676eeb86b6,fifteenth.college,available,5,81.98,low,low,9,namecheap,,,
+5b49e604-49f2-4b99-8670-eb676eeb86b6,fifteenth.college,available,5,81.98,high,low,9,namecheap,,,
 604ddee1-8788-49af-a945-484a7d5b02fa,chemistry.college,available,17.99,59.99,high,low,9,namesilo,,,
-8396e66d-5f80-4b78-8dd5-d9adf5bd7cee,recognised.college,available,17.99,59.99,medium,low,10,namesilo,,,21/09/2026 15:30
-c46a9768-6cdc-4fcd-b9c3-8099f84e8a29,hattrick.college,available,17.99,59.99,high,low,9,namesilo,,,
-0cb57f7d-c57a-4a41-8de0-1306bc5eeb67,requested.college,available,17.99,59.99,medium,low,9,namesilo,,,
-0943fab9-b8cd-4526-a811-bcd69f5d4ecc,getright.college,available,17.99,59.99,high,low,9,namesilo,,,
-47086660-926b-4c8f-aaf8-9368dbf77c95,americanenglish.college,available,29.99,,high,low,16,name.com,,,
-f89a1cb0-71a5-4f90-9522-6b09c35eba93,inthecan.college,available,17.99,59.99,medium,low,10,namesilo,,,
-c12ccd35-ada1-4fc1-a5da-483a7179a8f1,neutral.college,available,17.99,59.99,medium,low,7,namesilo,,,21/09/2026 16:07
-0faf50c3-a56d-4e7f-92ff-3de83ee25611,volatile.college,available,17.99,59.99,high,low,8,namesilo,,,
-dca8b979-ecde-445a-9485-32e205c8dee2,xviii.college,available,17.99,59.99,low,low,5,namesilo,,,21/09/2026 12:00
-4bb8f20f-5c3e-4a5b-b5cc-a1cf0dee94df,rednoseday.college,available,29.99,,low,low,12,name.com,,,
-b6153c08-58bc-46d8-abd7-7f3adca0f75c,apneic.college,available,5,81.98,low,low,6,namecheap,,,06/08/2026 00:40
-ab0f2504-ca28-4394-8a96-50eae8c2171b,overtheboard.college,available,17.99,59.99,low,low,14,namesilo,,,
-52822290-2a79-4f28-ae05-1ed57c9bbc35,unpaid.college,available,5,81.98,low,low,6,namecheap,,,
-abf2330e-f4b0-4c5a-bd06-e7f955130256,clown.college,premium,640,640,medium,low,5,namesilo,,,22/09/2026 06:35
-e7a0ea41-dc8b-4c33-8dbe-25a9c4979b19,tobeginwith.college,available,17.99,59.99,low,low,13,namesilo,,,
-f1a94193-5b0d-4345-b15b-53ada6b4722c,digitally.college,available,29.99,,medium,low,9,name.com,,,
-b97e154d-5ba8-42c9-b31f-7e16d02f86df,amoebous.college,available,5,81.98,low,low,8,namecheap,,,
-77a76207-3388-4374-ac82-644b388aa50f,troublemaker.college,available,17.99,59.99,medium,low,13,namesilo,,,
-82bc0fc5-388d-48f5-bd39-bc86db8f86c1,organize.college,available,17.99,59.99,medium,low,8,namesilo,,,23/09/2026 23:13
-4829ef06-c90c-4e22-acde-f926337869c3,aone.college,available,5,81.98,low,low,5,namecheap,,,
-13b85711-44d4-416e-8b95-315fea7b422d,makeright.college,available,17.99,59.99,high,low,10,namesilo,,,
-0ea554f9-4b92-4cf3-b73b-b7fdaa05ce99,intheair.college,available,1.5,81.98,low,low,10,namecheap,,,15/09/2026 05:25
-d616dbf2-24f1-481c-81c6-0adcbccda80e,deuce.college,available,17.99,59.99,low,low,5,namesilo,,,21/09/2026 12:17
-cdf3693f-a4a2-43b4-b9c6-3f781ca11b3b,expire.college,available,29.99,,medium,low,6,name.com,,,
+0cb57f7d-c57a-4a41-8de0-1306bc5eeb67,requested.college,available,17.99,59.99,high,low,9,namesilo,,,
+b6153c08-58bc-46d8-abd7-7f3adca0f75c,apneic.college,available,5,81.98,medium,low,6,namecheap,,,06/08/2026 00:40
+52822290-2a79-4f28-ae05-1ed57c9bbc35,unpaid.college,available,5,81.98,high,low,6,namecheap,,,
+f1a94193-5b0d-4345-b15b-53ada6b4722c,digitally.college,available,29.99,,high,low,9,name.com,,,
+cdf3693f-a4a2-43b4-b9c6-3f781ca11b3b,expire.college,available,29.99,,high,low,6,name.com,,,
 15ee3894-f4ff-4a7e-82b0-dddd479f6061,modeller.college,available,29.99,,high,low,8,name.com,,,
-752d3442-531d-417c-bf31-fbc36b1d7e9c,aug.college,available,5,81.98,low,low,3,namecheap,,,07/08/2026 17:10
+752d3442-531d-417c-bf31-fbc36b1d7e9c,aug.college,available,5,81.98,high,low,3,namecheap,,,07/08/2026 17:10
 5c6cd6e5-78e3-4dd8-a363-ba706c71ac82,cocktail.college,available,17.99,59.99,high,low,8,namesilo,,,
 e530b4f9-f74a-4694-a2fb-f31c746ac0c6,violated.college,available,17.99,59.99,medium,low,8,namesilo,,,
-28916653-7e4c-4131-8d05-b017e7f1a5c4,asteroidal.college,available,5,81.98,low,low,10,namecheap,,,07/08/2026 09:10
-ab6abf10-9516-49be-8d58-753d9c92fbb6,attach.college,available,1.5,81.98,medium,low,6,namecheap,,,23/09/2026 19:57
-d11061ec-f86d-406b-bf14-97214a6d22ad,makemoney.college,available,17.99,59.99,high,low,10,namesilo,,,
 3b564a84-e997-49b5-bfec-60f9caa1b493,applaud.college,available,17.99,59.99,high,low,7,namesilo,,,
-534dfaf7-b693-4a06-9592-f9398a8c93a1,tortoiseshell.college,available,17.99,59.99,medium,low,14,namesilo,,,
-1ac63f17-5d07-4fe8-93c8-61707a8c29d4,flagitious.college,available,5,81.98,low,low,10,namecheap,,,07/08/2026 14:37
-3821a9be-41f0-422f-bf22-0e74cb94a961,sip.college,available,17.99,59.99,medium,low,3,namesilo,,,
+3821a9be-41f0-422f-bf22-0e74cb94a961,sip.college,available,17.99,59.99,high,low,3,namesilo,,,
 dfaab107-b8ac-4867-81d6-b1012fd42c6e,nash.college,available,17.99,59.99,high,low,4,namesilo,,,
-b2108ed2-a1f7-4f2b-80a5-e387abc06be8,jetpack.college,available,17.99,59.99,high,high,8,namesilo,,,
-a99f6ca9-0b45-4d39-820a-84d36d1ec789,ilikethat.college,available,17.99,59.99,medium,low,11,namesilo,,,
-44921d41-7587-4753-b6e4-6d3f9fc6ef3c,avertible.college,available,5,81.98,low,low,9,namecheap,,,07/08/2026 22:56
-cd2b53a7-6f7b-45d4-bdc9-9bb2aa2d2667,power.college,premium,640,640,medium,medium,5,namesilo,,,08/09/2026 07:25
-4c1f0d9e-2576-4275-bf8b-8a87eb2aabfd,approving.college,available,5,81.98,low,low,9,namecheap,,,06/08/2026 08:49
+cd2b53a7-6f7b-45d4-bdc9-9bb2aa2d2667,power.college,premium,640,640,high,medium,5,namesilo,,,08/09/2026 07:25
+4c1f0d9e-2576-4275-bf8b-8a87eb2aabfd,approving.college,available,5,81.98,high,low,9,namecheap,,,06/08/2026 08:49
 11bf9d8a-8c4b-4cfb-89b6-82cf8c2f8a9b,derriere.college,available,5,81.98,low,low,8,namecheap,,,09/08/2026 11:55
-b1fe6a4e-be4d-4d8d-8946-819b7cbab04b,safety.college,premium,640,640,medium,low,6,namesilo,,,08/09/2026 08:04
-b766a3b3-afbe-4337-85a2-143eca67f3c5,routine.college,available,29.99,,high,low,7,name.com,,,
-6ea52ae5-de05-4a6f-8417-be3f2566c13b,ambulant.college,available,5,81.98,low,low,8,namecheap,,,
-8b118cdc-6c73-48e9-834e-d2c68d355f2c,jewel.college,available,17.99,59.99,medium,low,5,namesilo,,,
+b1fe6a4e-be4d-4d8d-8946-819b7cbab04b,safety.college,premium,640,640,high,low,6,namesilo,,,08/09/2026 08:04
+6ea52ae5-de05-4a6f-8417-be3f2566c13b,ambulant.college,available,5,81.98,high,low,8,namecheap,,,
+8b118cdc-6c73-48e9-834e-d2c68d355f2c,jewel.college,available,17.99,59.99,high,low,5,namesilo,,,
 cd36552e-27c0-4e65-8139-8fb2c8fa6d42,seoul.college,premium,625,,high,low,5,name.com,,,
 0c754a3d-4c5d-46c4-96df-addc3c4d4e0b,anagram.college,available,17.99,59.99,high,low,7,namesilo,,,
-a705af29-0f20-4d0c-bdb5-b65d7bd57c1d,thinkabout.college,available,17.99,59.99,medium,low,11,namesilo,,,
 c455384d-fcb1-4ce7-8ece-ac9922b0d462,inconsistent.college,available,17.99,59.99,medium,low,12,namesilo,,,
-283df0ec-181f-4994-8b21-a3d0130ae556,plane.college,available,17.99,59.99,high,low,5,namesilo,,,
-33b00de7-ee74-48c3-8d27-daa94104f539,grabby.college,available,5,81.98,low,low,6,namecheap,,,07/08/2026 21:58
-48e16dc2-edc5-43fa-8d58-d5a01fc5a101,asofright.college,available,17.99,59.99,medium,low,11,namesilo,,,
+33b00de7-ee74-48c3-8d27-daa94104f539,grabby.college,available,5,81.98,medium,low,6,namecheap,,,07/08/2026 21:58
 7eb9fb74-918c-4dfe-8893-1d06af7a56c7,mosquito.college,available,29.99,,medium,low,8,name.com,,,
-60edcf1c-d94b-4a87-97a7-4c90fa7c31f3,iamenglish.college,available,17.99,59.99,medium,low,12,namesilo,,,
 9373da2f-c06c-4887-949e-cc8e556c5f64,dining.college,available,17.99,59.99,high,low,6,namesilo,,,
-093dc65f-108e-4c2a-88f2-0de7b1407dc3,acrogenic.college,available,5,81.98,low,low,9,namecheap,,,
-6fa1e46c-234c-41a3-a2e6-cd33c1030c3e,negotiable.college,available,5,81.98,low,low,10,namecheap,,,07/08/2026 06:30
-057c221a-a7be-4b63-b13a-0959399f6660,comealive.college,available,5,81.98,low,low,10,namecheap,,,08/08/2026 00:03
-6f41afd7-5d3b-477c-abf3-a788d2f7cb51,madison.college,premium,242,242,medium,low,7,namesilo,,,08/09/2026 13:09
-d2a8ffd0-9402-417d-ab71-33e8d401adad,belittling.college,available,5,81.98,low,low,10,namecheap,,,09/08/2026 13:10
-c43e1694-d850-4351-b3ee-bf21ed815b56,thinkof.college,available,17.99,59.99,medium,low,8,namesilo,,,
-d286d840-056e-4e58-84b4-76e9941e506f,twentytwo.college,available,17.99,59.99,medium,low,10,namesilo,,,21/09/2026 12:36
-ee2cac79-ffab-46cb-9ecc-c1036b5194fe,travel.college,premium,13000,13000,high,medium,6,namecheap,,,
-826ea7f6-f636-4440-80da-4128d2452b87,sombody.college,available,17.99,59.99,medium,low,7,namesilo,,,
-f570c918-9d3a-4596-82d1-cf5fa414aa16,onboard.college,available,17.99,59.99,high,low,8,namesilo,,,
+6fa1e46c-234c-41a3-a2e6-cd33c1030c3e,negotiable.college,available,5,81.98,medium,low,10,namecheap,,,07/08/2026 06:30
+6f41afd7-5d3b-477c-abf3-a788d2f7cb51,madison.college,premium,242,242,high,low,7,namesilo,,,08/09/2026 13:09
+d2a8ffd0-9402-417d-ab71-33e8d401adad,belittling.college,available,5,81.98,medium,low,10,namecheap,,,09/08/2026 13:10
 c8493980-8551-4745-9455-5587c3aa3aa9,valid.college,available,17.99,59.99,high,low,5,namesilo,,,
-6e41e08a-d70d-41c9-8433-a09d28a68aee,clxx.college,available,5,81.98,low,low,4,namecheap,,,
-7ab0f4a6-4347-4455-bd6f-af8f3d0e7c32,baptistic.college,available,5,81.98,low,low,9,namecheap,,,08/08/2026 15:11
-4dfec20e-75c8-4b1a-a38c-c517ad6297a4,termination.college,available,1.5,81.98,low,low,11,namecheap,,,04/09/2026 07:49
-046da0bb-eea1-4429-80de-a7e7759021d0,messy.college,available,17.99,59.99,medium,low,5,namesilo,,,
-e06f1d19-7b86-4672-a9ad-b05da8cc6ce6,ascendible.college,available,5,81.98,low,low,10,namecheap,,,07/08/2026 00:40
-e008d9ac-07f2-4a67-a815-10aeab64f706,augmented.college,available,1.5,81.98,low,low,9,namecheap,,,22/09/2026 12:42
-72139179-c01e-4d6b-8eb1-f5c3234c8815,rheumatic.college,available,5,81.98,low,low,9,namecheap,,,06/08/2026 23:05
-1364c6fb-2843-488a-9ea9-83bca97cb8f2,altered.college,available,5,81.98,low,low,7,namecheap,,,
-e0a77839-27a3-4afa-86c5-18f04ae5f6e3,streetcrime.college,available,29.99,,low,low,12,name.com,,,
+6e41e08a-d70d-41c9-8433-a09d28a68aee,clxx.college,available,5,81.98,medium,low,4,namecheap,,,
+4dfec20e-75c8-4b1a-a38c-c517ad6297a4,termination.college,available,1.5,81.98,high,low,11,namecheap,,,04/09/2026 07:49
+046da0bb-eea1-4429-80de-a7e7759021d0,messy.college,available,17.99,59.99,high,low,5,namesilo,,,
+72139179-c01e-4d6b-8eb1-f5c3234c8815,rheumatic.college,available,5,81.98,medium,low,9,namecheap,,,06/08/2026 23:05
+1364c6fb-2843-488a-9ea9-83bca97cb8f2,altered.college,available,5,81.98,high,low,7,namecheap,,,
 128b6c83-f424-470c-81d6-f4cf7b26ebe2,merit.college,available,17.99,59.99,high,low,5,namesilo,,,
 233f2587-c491-4f13-b8f6-15e9eb23e2a0,consulting.college,premium,625,,high,low,10,name.com,,,
-af2bba77-e65c-4f90-85b6-49d42ec59026,appendaged.college,available,5,81.98,low,low,10,namecheap,,,06/08/2026 06:28
-0f4a87e2-9654-4972-a8ee-8633d362666e,olivejuice.college,available,17.99,59.99,medium,low,11,namesilo,,,
-75c318b5-6f2f-48f8-ad34-89779972819a,pompom.college,available,5,81.98,low,low,7,namecheap,,,
-441c7dd3-dd00-4765-bb2d-13b8f89521cb,antiguan.college,available,5,81.98,low,low,8,namecheap,,,
+75c318b5-6f2f-48f8-ad34-89779972819a,pompom.college,available,5,81.98,high,low,7,namecheap,,,
 85b8364a-b9d7-4e59-b9c3-ce911383bc16,finalize.college,available,17.99,59.99,high,low,8,namesilo,,,
-c996b9b8-5ce3-448d-ba77-6cbb50acbc5e,reflexcamera.college,available,17.99,59.99,medium,low,13,namesilo,,,
-b778fe68-9956-4ef8-81f4-add6e32be544,acaudal.college,available,5,81.98,low,low,7,namecheap,,,
-6d6b3f84-a05d-4ccd-84e2-486d9b491a9a,atthedropofahat.college,available,17.99,59.99,high,low,20,namesilo,,,
-6055a1bb-3e36-47ce-968f-74be0ee32a77,allegretto.college,available,5,81.98,low,low,10,namecheap,,,
-adc32116-f106-4007-a16f-f1101b028712,arco.college,available,5,81.98,low,low,4,namecheap,,,06/08/2026 16:02
+6055a1bb-3e36-47ce-968f-74be0ee32a77,allegretto.college,available,5,81.98,high,low,10,namecheap,,,
+adc32116-f106-4007-a16f-f1101b028712,arco.college,available,5,81.98,high,low,4,namecheap,,,06/08/2026 16:02
 5fda0689-edbf-4080-a38d-87450b872b1d,experienced.college,available,17.99,59.99,high,low,11,namesilo,,,
-e0984688-859d-46a5-b100-2c0c3ba73c45,headoverheels.college,available,29.99,,high,low,15,name.com,,,
-75b3fd72-f21a-47f8-8a40-9a3752e46331,ahorseback.college,available,5,81.98,low,low,10,namecheap,,,
-1fa11acc-5347-4a86-a4cf-58d147ca962a,your.college,premium,12500,,medium,medium,4,name.com,,,
-1a9540e7-9eb5-404b-a682-3ee22ee4477d,primetime.college,available,17.99,59.99,high,low,10,namesilo,,,
-9f585517-ae65-4afd-bb1a-c39ba3af48be,relief.college,available,1.5,81.98,medium,low,6,namecheap,,,23/09/2026 07:06
-070b28ab-29d4-4191-859c-8095f45759ea,djia.college,available,17.99,59.99,medium,low,4,namesilo,,,
-76752fdd-1ee5-4f79-9633-ef1d0021bf03,bow.college,available,17.99,59.99,medium,low,3,namesilo,,,23/09/2026 01:50
+75b3fd72-f21a-47f8-8a40-9a3752e46331,ahorseback.college,available,5,81.98,medium,low,10,namecheap,,,
+1fa11acc-5347-4a86-a4cf-58d147ca962a,your.college,premium,12500,,high,medium,4,name.com,,,
+070b28ab-29d4-4191-859c-8095f45759ea,djia.college,available,17.99,59.99,high,low,4,namesilo,,,
 7cd1204f-7ff7-4918-ade8-09b3e5cb7841,pilot.college,resell,,,high,low,5,"Spaceship, Inc.",28/12/2025 20:20,28/12/2026 23:59,
 34802d33-5639-4a1b-9b74-52b696bb7935,would.college,available,17.99,59.99,high,low,5,namesilo,,,
 63a7ee3f-a768-445b-b7be-ea82236988a1,stepson.college,available,29.99,,high,low,7,name.com,,,
-bf926a0e-4bee-4ae5-a337-f8c2568d4bac,fuck.college,premium,12500,,high,high,4,name.com,,,
 299ede6d-2daf-4f2f-834b-93fec7c5d608,surfboard.college,available,29.99,,high,low,9,name.com,,,
-bbceaa70-a892-4d9f-b40f-3b14e6f16b14,carriage.college,available,17.99,59.99,medium,low,8,namesilo,,,
-807fd306-5669-426a-9d49-ab5e4e721899,objects.college,available,29.99,,low,low,7,name.com,,,
-b413d0f5-bc74-4f9b-a905-fd61e5bdd520,acronymous.college,available,5,81.98,low,low,10,namecheap,,,
-143f75ad-1288-4a1e-a839-87ab4f6540b7,avertable.college,available,5,81.98,low,low,9,namecheap,,,07/08/2026 23:01
-7f8918c0-79ca-4dd3-af1b-0a236174373b,commonguineapig.college,available,17.99,59.99,medium,low,17,namesilo,,,
-079d38e2-ceb2-4006-97c3-a6b4c3f6e1c6,letterspatent.college,available,1.5,81.98,low,low,14,namecheap,,,08/09/2026 04:07
+bbceaa70-a892-4d9f-b40f-3b14e6f16b14,carriage.college,available,17.99,59.99,high,low,8,namesilo,,,
+807fd306-5669-426a-9d49-ab5e4e721899,objects.college,available,29.99,,medium,low,7,name.com,,,
+b413d0f5-bc74-4f9b-a905-fd61e5bdd520,acronymous.college,available,5,81.98,medium,low,10,namecheap,,,
 4731e15c-3a4d-4af6-a513-2712117ce3ad,headline.college,available,17.99,59.99,high,low,8,namesilo,,,
 b6f53be0-2349-48b9-96c2-ef02272eec8e,pleasure.college,available,17.99,59.99,high,low,8,namesilo,,,
-56d6d962-28da-4bd2-912f-e253a719914d,sixtyfour.college,available,5,81.98,low,low,10,namecheap,,,
 e1a2b0a9-77d2-4f86-b647-003412332ffa,toddler.college,available,17.99,59.99,high,low,7,namesilo,,,
 60910cb4-9ad6-46e1-a16f-275737ee8a79,phoebe.college,available,,,medium,low,6,,,,
-1f75c615-1bfe-46a8-b4ee-5af711bb2705,ternion.college,available,5,81.98,low,low,7,namecheap,,,
-ec0e267f-fffa-424a-b4d8-139b2ee57ff9,twine.college,available,17.99,59.99,medium,low,5,namesilo,,,
+1f75c615-1bfe-46a8-b4ee-5af711bb2705,ternion.college,available,5,81.98,medium,low,7,namecheap,,,
+ec0e267f-fffa-424a-b4d8-139b2ee57ff9,twine.college,available,17.99,59.99,high,low,5,namesilo,,,
 b38c1332-5021-4884-b9a0-096839b19baf,legend.college,available,17.99,59.99,high,low,6,namesilo,,,
-9130d14e-6b3a-4bb6-ab2b-d62b9f7c253f,pity.college,available,1.5,81.98,medium,low,4,namecheap,,,23/09/2026 16:56
 3491c83a-2b99-4858-b196-bef9137e022b,desktop.college,available,17.99,59.99,high,low,7,namesilo,,,
-d6433cc7-28e2-4ec0-a49f-cf6893d923b3,albinal.college,available,5,81.98,low,low,7,namecheap,,,
 8640152f-3319-4d5c-a75c-0313c6d1d495,citizen.college,available,17.99,59.99,high,low,7,namesilo,,,
-b390c39e-466a-48e2-a8b6-98c103d8472f,badness.college,available,5,81.98,low,low,7,namecheap,,,08/08/2026 07:23
-1cc31068-7c58-4cd0-844b-9b29263a08b6,agential.college,available,5,81.98,low,low,8,namecheap,,,
+b390c39e-466a-48e2-a8b6-98c103d8472f,badness.college,available,5,81.98,medium,low,7,namecheap,,,08/08/2026 07:23
+1cc31068-7c58-4cd0-844b-9b29263a08b6,agential.college,available,5,81.98,medium,low,8,namecheap,,,
 49da7cb7-1ab4-4093-85c9-6651e0768be3,restructure.college,available,17.99,59.99,high,low,11,namesilo,,,
-1d555a69-12dc-4b47-bc6e-bb3894125e2e,arguseyed.college,available,5,81.98,low,low,10,namecheap,,,06/08/2026 18:38
-24046ba5-80d4-4dc1-a2b2-1ea75042da86,informationengine.college,available,17.99,59.99,high,low,18,namesilo,,,
-c465c1e2-ecb8-48f9-8bbf-3b21e801f3be,theirs.college,available,29.99,,low,low,6,name.com,,,
-8f71bcac-6537-49c5-bf8d-d5e812e6db14,souse.college,available,5,81.98,low,low,5,namecheap,,,
-d67d03c0-c950-459f-a222-4325a7372728,briefing.college,available,17.99,59.99,medium,low,8,namesilo,,,
-173089ea-d01b-47ab-b03a-1342a1541879,vanquish.college,available,5,81.98,low,low,8,namecheap,,,09/08/2026 05:32
-1a25c725-60d1-4a72-88bb-eaa00bcff765,giveinto.college,available,17.99,59.99,medium,low,9,namesilo,,,
-cbc3af8a-7672-4689-90fd-1ac138297c13,eightytwo.college,available,5,81.98,low,low,10,namecheap,,,
-73923639-c45c-43d3-88de-064f6b714b07,aboral.college,available,5,81.98,low,low,6,namecheap,,,
-a3f02620-ecd9-4064-9336-51e9ca2c72f5,thisminute.college,available,17.99,59.99,low,low,11,namesilo,,,
+c465c1e2-ecb8-48f9-8bbf-3b21e801f3be,theirs.college,available,29.99,,medium,low,6,name.com,,,
+8f71bcac-6537-49c5-bf8d-d5e812e6db14,souse.college,available,5,81.98,medium,low,5,namecheap,,,
+d67d03c0-c950-459f-a222-4325a7372728,briefing.college,available,17.99,59.99,high,low,8,namesilo,,,
+173089ea-d01b-47ab-b03a-1342a1541879,vanquish.college,available,5,81.98,high,low,8,namecheap,,,09/08/2026 05:32
+73923639-c45c-43d3-88de-064f6b714b07,aboral.college,available,5,81.98,medium,low,6,namecheap,,,
 82c9f574-ed68-46fd-b58c-2336b521e6a5,dispose.college,available,17.99,59.99,high,low,7,namesilo,,,
 fb43c59e-978b-4e36-8841-51d5c0ceecd6,demo.college,premium,242,242,high,medium,4,namesilo,,,
-beff5375-abef-416c-82e4-bf3132f2881e,covetous.college,available,5,81.98,low,low,8,namecheap,,,07/08/2026 21:53
-2e1f9651-4f37-468d-b5bc-530ee81f0838,onthetable.college,available,17.99,59.99,medium,low,12,namesilo,,,
 bce99bc3-4f59-4e34-90a5-a7f216aa3bd8,solvable.college,available,17.99,59.99,high,low,8,namesilo,,,
-8fb0a46a-91e7-450a-aa35-7ad578a56624,ascendable.college,available,5,81.98,low,low,10,namecheap,,,07/08/2026 00:35
-8fa9154d-cdea-4820-b9d7-8099be02578e,nitric.college,available,5,81.98,low,low,6,namecheap,,,08/08/2026 02:58
-6de76b15-b2d8-4604-9e05-c8d87c803a18,flaring.college,available,5,81.98,low,low,7,namecheap,,,
-1198ec99-6756-4706-b52a-13e4fd85cb7e,amazing.college,available,17.99,59.99,medium,low,7,namesilo,,,22/09/2026 03:51
-a16210d3-22c3-40a0-a73a-387c2de8474d,thebahamas.college,available,17.99,59.99,medium,medium,11,namesilo,,,
-e2be6055-ed47-48af-83b7-aee90bf9735e,gowithoutsaying.college,available,17.99,59.99,high,low,17,namesilo,,,
-fd928d64-541e-43cf-8100-2d9b986337e7,anuretic.college,available,5,81.98,low,low,8,namecheap,,,05/08/2026 21:16
-991bb49f-b8af-4836-ab51-94984c33164f,coldwar.college,available,17.99,59.99,medium,low,8,namesilo,,,
-9a55d9b7-382c-4b58-af83-07f4c7a4b405,aid.college,premium,625,,medium,low,3,name.com,,,
+8fb0a46a-91e7-450a-aa35-7ad578a56624,ascendable.college,available,5,81.98,medium,low,10,namecheap,,,07/08/2026 00:35
+8fa9154d-cdea-4820-b9d7-8099be02578e,nitric.college,available,5,81.98,medium,low,6,namecheap,,,08/08/2026 02:58
+6de76b15-b2d8-4604-9e05-c8d87c803a18,flaring.college,available,5,81.98,high,low,7,namecheap,,,
+9a55d9b7-382c-4b58-af83-07f4c7a4b405,aid.college,premium,625,,high,low,3,name.com,,,
 0db86920-59e3-40c1-b296-bbcb4671bc59,punch.college,available,17.99,59.99,high,low,5,namesilo,,,
-01db4b82-9598-4eec-85f7-79efdd6d1cd2,pandabear.college,available,17.99,59.99,high,low,10,namesilo,,,
 6f70dc35-4876-45ea-acb8-d7eb5e7cfc21,recent.college,available,17.99,59.99,high,low,6,namesilo,,,
-8cbe8df5-3fd4-4783-8e4e-aedf0980f27c,gardencentre.college,available,17.99,59.99,high,low,13,namesilo,,,
-511993f6-b61f-4c46-b7d6-89f7d804ed9a,admired.college,available,1.5,81.98,medium,low,7,namecheap,,,21/09/2026 18:53
 a1587892-9ed9-422f-96db-7260f4643c2e,sneeze.college,available,17.99,59.99,high,low,6,namesilo,,,
-2b315b51-6b2f-4474-817b-c4dadf134c3d,mothahfuckah.college,available,17.99,59.99,medium,low,12,namesilo,,,
-8d919871-10f1-4f87-9e78-aaad614d4bbc,motley.college,available,5,81.98,low,low,6,namecheap,,,07/08/2026 07:29
-02353e82-12ff-444c-97ea-592be3f0c09c,adorable.college,available,1.5,81.98,medium,low,8,namecheap,,,21/09/2026 19:18
-542019a9-02dd-4f69-b60f-61367b50dcc7,sierraleone.college,available,,,low,low,12,,,,
-78476bf8-b5f5-44da-9e01-a240b2be8510,feelgood.college,available,17.99,59.99,high,low,9,namesilo,,,
-1fd1472c-1755-4ca3-92b3-e1259e794f5f,appeasable.college,available,5,81.98,low,low,10,namecheap,,,06/08/2026 05:56
+8d919871-10f1-4f87-9e78-aaad614d4bbc,motley.college,available,5,81.98,medium,low,6,namecheap,,,07/08/2026 07:29
 e98d87d8-c83e-44d1-8b7d-0fd774c4d56d,anybody.college,available,29.99,,medium,low,7,name.com,,,
 9ddc6028-4b1c-4828-a6a2-ae0daedb153a,cotton.college,premium,242,242,high,low,6,namesilo,,,
-4c5f6764-63c8-437e-81a6-dc916d584d5b,spf.college,available,17.99,59.99,medium,low,3,namesilo,,,23/09/2026 05:17
-04c1b4dc-b61e-487e-b557-6d4bf26624b8,atsixandseven.college,available,17.99,59.99,medium,low,16,namesilo,,,
-161f8720-28ff-41c2-963a-6d42a5b74b1d,eachandevery.college,available,29.99,,medium,low,14,name.com,,,
-b85550b6-8aa9-4427-a3b4-4334db14ea25,pasta.college,available,17.99,59.99,medium,low,5,namesilo,,,
-7430046c-c0bd-43ee-8f28-b2fb96a2254f,concise.college,available,1.5,81.98,medium,low,7,namecheap,,,23/09/2026 19:03
-de5e68f1-507b-4c44-963a-c297e1f5ebaa,postoffice.college,available,17.99,59.99,medium,low,11,namesilo,,,
-286e20d7-e9e2-465b-9f66-51172402e539,woody.college,available,5,81.98,low,low,5,namecheap,,,06/08/2026 13:08
-ada5f825-d860-4404-859c-bac87dcb4817,smash.college,available,1.5,81.98,low,low,5,namecheap,,,22/09/2026 17:11
-45aac808-0879-4249-84f7-ff8992d3cfe4,alberteinstein.college,available,17.99,59.99,high,low,15,namesilo,,,
+b85550b6-8aa9-4427-a3b4-4334db14ea25,pasta.college,available,17.99,59.99,high,low,5,namesilo,,,
+de5e68f1-507b-4c44-963a-c297e1f5ebaa,postoffice.college,available,17.99,59.99,high,low,11,namesilo,,,
+286e20d7-e9e2-465b-9f66-51172402e539,woody.college,available,5,81.98,high,low,5,namecheap,,,06/08/2026 13:08
 53ed98d3-b889-4624-8fc9-975b7608a69f,attempt.college,available,17.99,59.99,high,low,7,namesilo,,,
-5fe6e750-f7dd-412c-8a0d-7bc9b45966e7,dizzy.college,available,5,81.98,low,low,5,namecheap,,,
-24e64b0f-9ea2-4676-a4c4-a39db0d695a6,childcare.college,premium,625,,high,low,10,name.com,,,
-d480fd2d-9160-4cd4-95df-ca6a6f640992,asunder.college,available,5,81.98,low,low,7,namecheap,,,07/08/2026 10:20
-56359818-e614-45c9-963b-eb6fcbaa5815,goodgame.college,available,17.99,59.99,medium,low,9,namesilo,,,
+5fe6e750-f7dd-412c-8a0d-7bc9b45966e7,dizzy.college,available,5,81.98,high,low,5,namecheap,,,
+d480fd2d-9160-4cd4-95df-ca6a6f640992,asunder.college,available,5,81.98,medium,low,7,namecheap,,,07/08/2026 10:20
 b97dbc9e-afcb-4ab4-b9f3-c3ec265e9c94,basket.college,premium,12500,,high,low,6,name.com,,,
-f282a9fc-1043-405e-b0d1-50b61e42829d,learning.college,premium,640,640,medium,low,8,namesilo,,,23/09/2026 03:00
-bb59e6e4-c36d-47aa-a35c-940a2ecc8a7a,burry.college,available,5,81.98,low,low,5,namecheap,,,08/08/2026 17:29
-00e3d25f-4c0d-4f7f-bbc0-1df1cf7cf7c5,perfervid.college,available,5,81.98,low,low,9,namecheap,,,06/08/2026 16:29
+bb59e6e4-c36d-47aa-a35c-940a2ecc8a7a,burry.college,available,5,81.98,medium,low,5,namecheap,,,08/08/2026 17:29
 fa26ef94-613f-4b10-bf55-938846074ac0,inexpensive.college,available,17.99,59.99,high,low,11,namesilo,,,
-2d4604ab-22a5-4867-8bba-51d6f02827d2,squint.college,available,5,81.98,low,low,6,namecheap,,,07/08/2026 03:15
+2d4604ab-22a5-4867-8bba-51d6f02827d2,squint.college,available,5,81.98,high,low,6,namecheap,,,07/08/2026 03:15
 c4e2d967-0acb-41b2-b300-05d9aefc86eb,come.college,available,17.99,59.99,high,low,4,namesilo,,,
 bcb38212-be77-43c0-8232-2e4bbce1f08f,expose.college,available,17.99,59.99,high,low,6,namesilo,,,
-22b9a908-4339-4d82-a95d-6a1c533ee0b9,rang.college,available,17.99,59.99,low,low,4,namesilo,,,
-9f55b1f3-6a80-4812-bd94-9c99d757ab74,ache.college,available,5,81.98,low,low,4,namecheap,,,
-fee1c30e-98b8-4c09-97d9-c9cd9067d189,letgo.college,available,17.99,59.99,high,low,6,namesilo,,,
-3405b8b9-84ca-4f47-a019-581994309eb3,altissimo.college,available,5,81.98,low,low,9,namecheap,,,
+22b9a908-4339-4d82-a95d-6a1c533ee0b9,rang.college,available,17.99,59.99,medium,low,4,namesilo,,,
+9f55b1f3-6a80-4812-bd94-9c99d757ab74,ache.college,available,5,81.98,high,low,4,namecheap,,,
+3405b8b9-84ca-4f47-a019-581994309eb3,altissimo.college,available,5,81.98,medium,low,9,namecheap,,,
 a55f5c85-0145-4870-879c-fe850b251018,ahuh.college,available,17.99,59.99,high,low,4,namesilo,,,
-2a7ee86a-3cf2-480e-826f-ca3d4483d7eb,rubbishbin.college,available,17.99,59.99,medium,low,11,namesilo,,,
-f027e898-35c3-4104-bfcf-4e976e7436f6,voicecall.college,available,17.99,59.99,high,low,10,namesilo,,,
-e8d1e08e-12b4-4978-8ee4-2be08c0c251e,philippines.college,available,,,low,low,11,,,,
-21118955-19df-4929-b0ff-4d6aa9abe9dc,listed.college,available,17.99,59.99,medium,low,6,namesilo,,,
+e8d1e08e-12b4-4978-8ee4-2be08c0c251e,philippines.college,available,,,high,low,11,,,,
+21118955-19df-4929-b0ff-4d6aa9abe9dc,listed.college,available,17.99,59.99,high,low,6,namesilo,,,
 6cf5bc14-f53f-4751-8e8c-4a7d0108846e,music.college,premium,12500,,high,medium,5,name.com,,,
 895a1e30-dfb4-4b01-b609-b6f9213cfac8,background.college,available,17.99,59.99,high,low,10,namesilo,,,
-af90f9bc-b451-49f9-bae0-11be46bd1f18,foul.college,available,5,81.98,low,low,4,namecheap,,,
-d50b6320-cb01-4199-9aff-6a06b069d546,anaphoric.college,available,5,81.98,low,low,9,namecheap,,,
-6a6e0208-dbec-4cc0-93fb-76b5c40f706f,xxviii.college,available,5,81.98,low,low,6,namecheap,,,
-db460be6-f1ee-4e5d-945b-137cf1858c77,sparkly.college,available,5,81.98,low,low,7,namecheap,,,
+af90f9bc-b451-49f9-bae0-11be46bd1f18,foul.college,available,5,81.98,high,low,4,namecheap,,,
+6a6e0208-dbec-4cc0-93fb-76b5c40f706f,xxviii.college,available,5,81.98,medium,low,6,namecheap,,,
+db460be6-f1ee-4e5d-945b-137cf1858c77,sparkly.college,available,5,81.98,high,low,7,namecheap,,,
 b2a692b8-02a3-4d31-b5ab-562e17b6538d,msg.college,available,29.99,,high,low,3,name.com,,,
-dbf22e08-5625-45b6-8d49-6db4bdf76137,fla.college,available,17.99,59.99,medium,low,3,namesilo,,,
-9f130826-5f74-4cb7-a7e3-e450d59afb95,blessing.college,available,5,81.98,low,low,8,namecheap,,,06/08/2026 09:29
-abb708ab-bd3e-47f7-b815-5c2b25b0b009,frenchloaf.college,available,29.99,,high,low,11,name.com,,,
+dbf22e08-5625-45b6-8d49-6db4bdf76137,fla.college,available,17.99,59.99,high,low,3,namesilo,,,
+9f130826-5f74-4cb7-a7e3-e450d59afb95,blessing.college,available,5,81.98,high,low,8,namecheap,,,06/08/2026 09:29
 75eb2862-4e46-4aea-af6f-bfe1dbeaff0d,shine.college,available,17.99,59.99,high,low,5,namesilo,,,
-d767b55c-c4cc-4315-be9e-9d7f459a75db,yourstruly.college,available,17.99,59.99,medium,low,11,namesilo,,,
 5a0d9bcb-8ce0-4c2f-9b82-0f3cba82ec7f,zen.college,resell,,,high,medium,3,"Spaceship, Inc.",28/04/2025 19:50,28/04/2027 23:59,
-f3e7eda5-42ee-456d-a5f4-e70016c3c1a9,monopoly.college,available,29.99,,medium,low,8,name.com,,,
-c060adff-40e9-4b76-b1ed-4bb56886daf7,postaladdress.college,available,17.99,59.99,medium,low,14,namesilo,,,
-c049ebc1-1a27-4286-8a60-e83bc9c41189,playonwords.college,available,17.99,59.99,low,low,13,namesilo,,,
-2b67906e-a095-4e6f-8b6c-be8a69e1b65c,accountstatement.college,available,29.99,,low,low,17,name.com,,,
+f3e7eda5-42ee-456d-a5f4-e70016c3c1a9,monopoly.college,available,29.99,,high,low,8,name.com,,,
 9546a974-0643-4e2a-abdf-9f87f2375fbd,secondary.college,available,17.99,59.99,high,low,9,namesilo,,,
-a24a2760-e313-4aff-9a95-af375b2a2254,havetherighttime.college,available,29.99,,medium,low,19,name.com,,,
-f892cde9-d736-412c-9d6e-8c8f7a90f893,takebystorm.college,available,17.99,59.99,low,low,13,namesilo,,,
-ed951ea4-908e-4d11-afc2-a4e08e2b82af,xrated.college,available,17.99,59.99,low,low,7,namesilo,,,
-39b376e4-4c52-4c79-a113-65bdb16b9258,trainup.college,available,17.99,59.99,medium,low,8,namesilo,,,
-dc0b1272-7bb6-418b-83de-8ec2d0e4bac1,makelemonade.college,available,17.99,59.99,high,low,13,namesilo,,,
-eae34463-d93e-4707-a088-753d458a6110,lxxviii.college,available,5,81.98,low,low,7,namecheap,,,
-67424a38-28e1-4d47-81cb-8196ba4ba725,stigmatic.college,available,5,81.98,low,low,9,namecheap,,,
 89ca9514-93ef-4c77-b3d0-c90697860057,class.college,premium,3125,,high,low,5,name.com,,,
-55d868da-2b3d-4a64-a114-d843a6686d0e,ancestor.college,available,5,81.98,medium,low,8,namecheap,,,
-cef2b892-4cfb-4540-b19d-c7a29c45bf12,buck.college,available,17.99,59.99,medium,low,4,namesilo,,,
-25e923c1-b3fe-4195-becd-2861746beff3,insulting.college,available,17.99,59.99,low,low,9,namesilo,,,23/09/2026 21:52
+55d868da-2b3d-4a64-a114-d843a6686d0e,ancestor.college,available,5,81.98,high,low,8,namecheap,,,
+cef2b892-4cfb-4540-b19d-c7a29c45bf12,buck.college,available,17.99,59.99,high,low,4,namesilo,,,
 ad7aeeb5-f0a5-441a-be42-be8ef1846e8f,bash.college,available,17.99,59.99,high,low,4,namesilo,,,
 616aa42c-bf63-48bd-9e97-a2060d124176,anniversary.college,available,17.99,59.99,high,low,11,namesilo,,,
 15217000-79ea-42c3-ac67-e70e516e763e,allocate.college,available,17.99,59.99,high,low,8,namesilo,,,
 3fbb9d59-df32-4a06-9745-19e91db43de8,possible.college,available,17.99,59.99,high,low,8,namesilo,,,
-41a80bad-5ef9-4cbe-acf0-25c9905c118e,antidotal.college,available,5,81.98,low,low,9,namecheap,,,
+41a80bad-5ef9-4cbe-acf0-25c9905c118e,antidotal.college,available,5,81.98,medium,low,9,namecheap,,,
 821605e0-5dcb-4fdf-ac06-b1f510060ec2,moving.college,premium,625,,high,low,6,name.com,,,
-143ce845-5da3-4e57-8990-9f38730e6f58,rough.college,available,5,81.98,low,low,5,namecheap,,,06/08/2026 09:39
-83411a6e-5c03-41f3-94b8-aa4524463f97,blooddonation.college,available,29.99,,high,low,14,name.com,,,
-ab8e43a1-0ce6-4450-88a5-92089e962bbe,healthier.college,available,17.99,59.99,high,low,9,namesilo,,,
-cbbca9e0-443f-4164-99fa-b20e6f12a120,generalsurgery.college,available,17.99,59.99,high,low,15,namesilo,,,
-6281981e-61d6-4df8-9a5c-f67d9d54b66d,bags.college,premium,12500,,medium,low,4,name.com,,,
-478215fa-60e8-4442-85c6-f8aeb77e243b,channukkah.college,available,17.99,59.99,medium,low,10,namesilo,,,
+143ce845-5da3-4e57-8990-9f38730e6f58,rough.college,available,5,81.98,high,low,5,namecheap,,,06/08/2026 09:39
+6281981e-61d6-4df8-9a5c-f67d9d54b66d,bags.college,premium,12500,,high,low,4,name.com,,,
 51dce3d4-0efc-408d-b282-4684dfa85f61,driver.college,available,,,high,low,6,,,,
-1f7c37c5-3cee-42e3-a57a-4d53b6f94bc1,letterofwishes.college,available,17.99,59.99,high,low,16,namesilo,,,
 05f23316-65bf-4622-a68f-2a75d214e5fe,pregnant.college,available,17.99,59.99,high,low,8,namesilo,,,
-a9e85eb3-feb3-4dc1-8379-af3e17e7b73a,elsalvador.college,available,,,medium,low,11,,,,
-ec87df17-6816-4b86-853d-cb1cfb0b2e0f,chickendance.college,available,29.99,,high,low,13,name.com,,,
-125e516f-3927-4230-a250-626418e5d9cf,safesex.college,available,17.99,59.99,medium,low,8,namesilo,,,
 9d17fa8e-53dd-43ea-baab-96efb48d41fe,polo.college,available,29.99,,high,high,4,name.com,,,
-1672a045-bf34-4eb2-8b15-fa6d5a319465,areolar.college,available,5,81.98,low,low,7,namecheap,,,06/08/2026 17:41
-8c7624df-2e82-40c5-981d-af90e0eedcb1,apiculate.college,available,5,81.98,low,low,9,namecheap,,,06/08/2026 00:03
-b9a1922e-453a-42e5-8434-7844468e4ddb,peremptory.college,available,5,81.98,low,low,10,namecheap,,,07/08/2026 19:45
-ac03d206-ceff-421f-822b-2420dcfcb527,rearmost.college,available,5,81.98,low,low,8,namecheap,,,08/08/2026 06:09
 2916eed9-587c-4e73-a929-5e52cdf0114a,seized.college,available,29.99,,medium,low,6,name.com,,,
 2e7ef60e-bb43-4fe8-9705-788e2509c7e9,diva.college,available,17.99,59.99,high,low,4,namesilo,,,
-551de713-eb05-4022-9238-df7a61904672,upwards.college,available,17.99,59.99,medium,low,7,namesilo,,,
-c12007c2-793b-40ba-91b2-474888c8a4a8,exercise.college,available,17.99,59.99,medium,low,8,namesilo,,,19/09/2026 09:45
+551de713-eb05-4022-9238-df7a61904672,upwards.college,available,17.99,59.99,high,low,7,namesilo,,,
 36b0c600-ec9a-448c-a125-bd5a7c9e51dc,snicker.college,available,17.99,59.99,high,low,7,namesilo,,,
 09620099-ffd3-4612-ab09-866178c5d403,fog.college,available,17.99,59.99,high,low,3,namesilo,,,
-df16cc02-d1ac-479e-a9c0-dd60d9a9ad88,harrowing.college,available,5,81.98,low,low,9,namecheap,,,
+df16cc02-d1ac-479e-a9c0-dd60d9a9ad88,harrowing.college,available,5,81.98,medium,low,9,namecheap,,,
 496de7a7-1f21-4e47-9bd6-63bec5109a70,travelling.college,available,17.99,59.99,high,low,10,namesilo,,,
-8d015344-f8e7-4d70-92e8-1dc3a8fd2839,pressed.college,available,17.99,59.99,medium,low,7,namesilo,,,
-4b10a17a-2dc0-473e-91dd-914e5ec2c877,atrophied.college,available,5,81.98,low,low,9,namecheap,,,07/08/2026 14:56
-f5428975-7e86-47e4-bf75-25523bde3774,desire.college,available,1.5,81.98,medium,low,6,namecheap,,,19/09/2026 18:10
+8d015344-f8e7-4d70-92e8-1dc3a8fd2839,pressed.college,available,17.99,59.99,high,low,7,namesilo,,,
 25144415-288f-445e-a5d0-4b53946585fa,sep.college,available,17.99,59.99,high,low,3,namesilo,,,
 5a58133b-77ca-4bed-b71c-8e1d3597dd1a,soldiers.college,available,17.99,59.99,medium,low,8,namesilo,,,
-a368c1a7-c469-406d-8977-6fc66aee9e47,beardless.college,available,5,81.98,low,low,9,namecheap,,,09/08/2026 04:43
+a368c1a7-c469-406d-8977-6fc66aee9e47,beardless.college,available,5,81.98,medium,low,9,namecheap,,,09/08/2026 04:43
 ca01d916-6aa7-4b2a-ae33-40e23264cfc2,bedhead.college,available,29.99,,medium,low,8,name.com,,,
-800e4051-b825-43a6-a1b5-f92321641b83,scarlett.college,available,17.99,59.99,medium,low,8,namesilo,,,
-7ff12a79-32f7-448f-8d1f-c56ab592686e,balzacian.college,available,5,81.98,low,low,9,namecheap,,,08/08/2026 10:50
-499bbe2c-926e-4ba6-9b95-45933bcc1b84,pointless.college,available,17.99,59.99,medium,low,9,namesilo,,,
+800e4051-b825-43a6-a1b5-f92321641b83,scarlett.college,available,17.99,59.99,high,low,8,namesilo,,,
+499bbe2c-926e-4ba6-9b95-45933bcc1b84,pointless.college,available,17.99,59.99,high,low,9,namesilo,,,
 25f34d14-d6a0-413f-b6a0-34c1a82626f6,london.college,premium,625,,high,medium,6,name.com,,,
-758d952a-e1c6-4e9c-a9e6-157c7f96f3d5,transient.college,available,17.99,59.99,high,low,9,namesilo,,,
-49024e2e-8421-4544-b49c-140be8ee8938,buttin.college,available,1.5,81.98,low,low,7,namecheap,,,08/09/2026 04:04
-fb442594-2676-4c6e-9494-cfed15bd11d3,sundayroast.college,available,17.99,59.99,high,low,12,namesilo,,,
-8cd9a7e3-18ed-4a8b-bfb1-6ddc2b069888,detergent.college,available,29.99,94.99,high,low,9,name.com,,,
-05f0d57b-1b4c-4961-a0cd-5cadeab13f2c,phony.college,available,5,81.98,low,low,5,namecheap,,,08/08/2026 23:09
-88f4ee45-c970-4b74-9495-ee0a7b7e8000,wall.college,available,17.99,59.99,low,low,4,namesilo,,,23/09/2026 16:20
-1b2c7043-c4dd-490e-8273-15faee2aeb98,mail.college,premium,13800,13800,medium,low,4,namesilo,,,23/09/2026 04:59
-e18282ca-b0c1-4c2d-9ef3-6cf9f4d93e15,binary.college,available,17.99,59.99,medium,low,6,namesilo,,,22/09/2026 20:45
-6285b74b-bd07-417d-9d17-e103de283cd3,childpornography.college,available,17.99,59.99,medium,low,17,namesilo,,,
-87cb3152-ab22-4b8e-afc1-082f7ea4151e,rag.college,available,29.99,94.99,medium,low,3,name.com,,,
-21404a34-8da5-41cd-a710-bf0f7b71e8e4,airfilled.college,available,5,81.98,low,low,10,namecheap,,,
-92793bc4-9e2d-47f2-9c39-18a1a40278ce,buggy.college,available,17.99,59.99,low,low,5,namesilo,,,22/09/2026 08:13
+05f0d57b-1b4c-4961-a0cd-5cadeab13f2c,phony.college,available,5,81.98,high,low,5,namecheap,,,08/08/2026 23:09
 c793bcec-67cb-4f44-bb63-baee63e83b7b,peninsula.college,available,17.99,59.99,high,low,9,namesilo,,,
 0cd3b9d6-c53d-45eb-9f2b-b94643dffb02,buttons.college,available,17.99,59.99,high,low,7,namesilo,,,
-1a9018e5-113d-4c39-b09b-e556645dadf2,underwear.college,available,17.99,59.99,medium,low,9,namesilo,,,
-0667e809-efb8-45a2-9875-59c01c7aa28e,consumption.college,available,17.99,59.99,medium,low,11,namesilo,,,
+1a9018e5-113d-4c39-b09b-e556645dadf2,underwear.college,available,17.99,59.99,high,low,9,namesilo,,,
+0667e809-efb8-45a2-9875-59c01c7aa28e,consumption.college,available,17.99,59.99,high,low,11,namesilo,,,
 b6e28d35-0758-430c-a056-773dfbebdb00,skilled.college,available,17.99,59.99,high,low,7,namesilo,,,
-ee770932-451a-4188-9e13-da5e99f844c5,fortyfive.college,available,5,81.98,low,low,10,namecheap,,,
-cb073f41-be54-4c0e-836b-ca24c0616d79,indianajones.college,available,29.99,,high,low,13,name.com,,,
-05024e8a-4707-42d8-8e7b-82e6710bff95,zoologicalpark.college,available,17.99,59.99,high,low,15,namesilo,,,
-22c68a64-7b36-4aa9-98d2-6c8b63831c37,eyetoeye.college,available,17.99,59.99,medium,low,10,namesilo,,,
-baa4fff4-c3cb-48d7-b503-ee42b3b6e7a2,beaded.college,available,5,81.98,low,low,6,namecheap,,,09/08/2026 03:18
-eaf15ba0-04f5-435b-b016-7f36c8281c3f,austenitic.college,available,5,81.98,low,low,10,namecheap,,,07/08/2026 18:21
-5090d777-6613-4b9d-a7af-f047a8b767a4,untypical.college,available,5,81.98,low,low,9,namecheap,,,07/08/2026 16:10
+baa4fff4-c3cb-48d7-b503-ee42b3b6e7a2,beaded.college,available,5,81.98,medium,low,6,namecheap,,,09/08/2026 03:18
+5090d777-6613-4b9d-a7af-f047a8b767a4,untypical.college,available,5,81.98,medium,low,9,namecheap,,,07/08/2026 16:10
 adb7851f-f581-477c-975b-1bdc24113932,evaluate.college,available,17.99,59.99,high,low,8,namesilo,,,
 2125753e-ee5f-4c60-a475-553531159825,asked.college,available,17.99,59.99,high,low,5,namesilo,,,
-8043628b-deda-4469-919f-f533ad43c632,bush.college,available,17.99,59.99,low,low,4,namesilo,,,23/09/2026 11:53
-ed744044-4730-4fb5-a6c7-bf07aebc6dfe,back.college,available,17.99,59.99,medium,low,4,namesilo,,,22/09/2026 15:40
-137ad921-b2e1-4acc-8687-44fca4c6bccd,indiana.college,premium,12500,,medium,low,7,name.com,,,
-f9f48443-e917-4ec7-b358-d91035f40990,champagne.college,available,17.99,59.99,medium,low,9,namesilo,,,23/09/2026 10:06
-f4d96331-f04d-4238-a5a2-d81f52587186,new.college,premium,12500,,high,medium,3,name.com,,,
-c8619d74-b134-4c8d-897d-5ccf443acd2b,scorched.college,available,5,81.98,low,low,8,namecheap,,,
-cd9bf40d-427b-44a5-a852-9a20d37fd006,consultive.college,available,5,81.98,low,low,10,namecheap,,,
-357ef9ef-ddbe-4c04-9a5c-4f477a568a13,angry.college,available,5,81.98,low,low,5,namecheap,,,
-fcb6a9da-8f34-4cc1-b232-875de927b97c,hardy.college,available,17.99,59.99,low,low,5,namesilo,,,22/09/2026 12:21
-12c19f77-9765-45b0-865a-e07e436230e3,structure.college,available,1.5,81.98,medium,low,9,namecheap,,,08/09/2026 05:05
-6b7608ee-6803-4eac-8e18-2f3ad46d74a8,hourly.college,available,17.99,59.99,high,low,6,namesilo,,,
+137ad921-b2e1-4acc-8687-44fca4c6bccd,indiana.college,premium,12500,,high,low,7,name.com,,,
+c8619d74-b134-4c8d-897d-5ccf443acd2b,scorched.college,available,5,81.98,medium,low,8,namecheap,,,
+cd9bf40d-427b-44a5-a852-9a20d37fd006,consultive.college,available,5,81.98,high,low,10,namecheap,,,
+357ef9ef-ddbe-4c04-9a5c-4f477a568a13,angry.college,available,5,81.98,high,low,5,namecheap,,,
 6074af6d-26e7-4cf8-9e2c-90c19905f446,andromeda.college,available,29.99,,high,low,9,name.com,,,
-a71c19e8-8eb1-443a-a485-40a9f8ffc559,chinesenewyear.college,available,17.99,59.99,high,low,16,namesilo,,,
-4da2b778-1d43-4314-83ff-0585537037b9,stockexchange.college,available,17.99,59.99,high,low,14,namesilo,,,
-c1270673-e177-4ca0-b722-acddef6b32fd,stretch.college,available,1.5,81.98,medium,low,7,namecheap,,,21/09/2026 20:13
-ba3fa230-9c74-4776-b753-5adcdd1793c8,athousand.college,available,17.99,59.99,medium,low,10,namesilo,,,
-5cb36704-642e-4e9d-bb95-c9f07b87bcab,anechoic.college,available,5,81.98,low,low,8,namecheap,,,
-15a6757a-51f8-483d-8e62-209760b405c7,alterative.college,available,5,81.98,low,low,10,namecheap,,,
+5cb36704-642e-4e9d-bb95-c9f07b87bcab,anechoic.college,available,5,81.98,medium,low,8,namecheap,,,
 e1ec44c4-ef09-4c49-8f38-262e2c16370e,midday.college,available,17.99,59.99,high,low,6,namesilo,,,
-3f1c1b6a-08d9-411d-be7e-3aecbb3332c4,boundary.college,available,1.5,81.98,low,low,8,namecheap,,,23/09/2026 01:32
-71a22dbf-3e67-40a9-b443-2b79d0ac6d97,produced.college,available,1.5,81.98,low,low,8,namecheap,,,19/09/2026 16:32
 422558ae-8f20-496a-8409-ab96c59abf0c,susan.college,available,17.99,59.99,high,low,5,namesilo,,,
 ac6ea179-9c50-4786-900d-ce651717623d,wife.college,available,29.99,,high,low,4,name.com,,,
-7e44cf6a-68e9-4463-acb6-383f2d96f0a4,unsatisfactory.college,available,17.99,59.99,medium,low,14,namesilo,,,
-c09be164-08e9-4962-8828-a352b794f198,bare.college,available,17.99,59.99,low,low,4,namesilo,,,22/09/2026 11:54
-c36e6df3-8d36-4328-a5de-ce4ac79c28d1,youguys.college,available,17.99,59.99,low,low,8,namesilo,,,
-23a14357-f683-4c4b-9563-1a9205876b83,frame.college,available,17.99,59.99,medium,low,5,namesilo,,,
+23a14357-f683-4c4b-9563-1a9205876b83,frame.college,available,17.99,59.99,high,low,5,namesilo,,,
 4808e120-2cd9-4067-8287-40660cdbdbc3,cockpit.college,available,17.99,59.99,high,low,7,namesilo,,,
 3283cbdc-86f9-4f0e-bb09-d4afda7481f7,addresses.college,available,29.99,,medium,low,9,name.com,,,
-d7c8b335-ae5c-4bad-876b-104032514108,nationwide.college,available,17.99,59.99,low,low,10,namesilo,,,24/09/2026 00:32
 419a1224-2f87-44d0-b649-b36d325f9209,arbitrarily.college,available,29.99,,medium,low,11,name.com,,,
-cdd633e0-e7ca-470d-8516-97923b2bd367,bronze.college,available,17.99,59.99,low,low,6,namesilo,,,23/09/2026 09:58
 57797479-b41f-4a54-bd6c-c3dced574cf9,lion.college,available,17.99,59.99,high,low,4,namesilo,,,
-ce177939-b9fb-4513-a6a3-7c3d1da4ab8a,closest.college,available,17.99,59.99,medium,low,7,namesilo,,,
-fe233fc7-3159-486c-b61d-c1708aca888e,tomboy.college,available,29.99,,medium,low,7,name.com,,,
+ce177939-b9fb-4513-a6a3-7c3d1da4ab8a,closest.college,available,17.99,59.99,high,low,7,namesilo,,,
+fe233fc7-3159-486c-b61d-c1708aca888e,tomboy.college,available,29.99,,high,low,7,name.com,,,
 ba569807-4164-4b68-838e-0ebe67af712c,cucumber.college,available,29.99,,high,low,8,name.com,,,
 b6a8fee9-dbbe-434e-b81e-adeb744578c4,deliver.college,premium,625,,high,low,7,name.com,,,
 0ae5150e-4614-4ed1-8d4b-f1acc634d51f,islands.college,available,17.99,59.99,high,low,7,namesilo,,,
-9e32df9a-1b45-40ff-9908-853d3b71c4ea,claire.college,available,17.99,59.99,medium,low,6,namesilo,,,
-df405cb7-94f5-44db-9faf-d3293a4a177b,special.college,premium,625,,high,low,7,name.com,,,
-9e321204-eaea-4347-ab54-21309fb007f8,maketime.college,available,29.99,,high,low,9,name.com,,,
-f7f0f072-ed2e-4882-b970-a9f56c276ec7,spiderweb.college,available,17.99,59.99,high,low,10,namesilo,,,
+9e32df9a-1b45-40ff-9908-853d3b71c4ea,claire.college,available,17.99,59.99,high,low,6,namesilo,,,
 50e80224-ee82-4d6f-b848-67b774a44758,asia.college,premium,625,,high,low,4,name.com,,,
 1418dd1d-f8c7-498e-a3a3-e8890fdf407c,lorry.college,available,17.99,59.99,high,low,5,namesilo,,,
-e2317406-ebfe-4577-a967-ee00cde7cccd,arrhythmic.college,available,5,81.98,low,low,10,namecheap,,,06/08/2026 21:53
-9d46da97-2333-4198-944d-a21fa636f3eb,baptismal.college,available,5,81.98,low,low,9,namecheap,,,08/08/2026 15:05
-f8c3e76b-0b52-44ac-8b61-9e41ec6da933,inturn.college,available,17.99,59.99,high,low,7,namesilo,,,
-c5a39e8b-b179-4327-af2c-f59a9cbbb453,monumental.college,available,17.99,59.99,medium,low,10,namesilo,,,
-81f8b9ef-c82c-4bf8-9b05-d88de5004cb4,exalt.college,available,5,81.98,medium,low,5,namecheap,,,
-1eedadd5-09e5-49f1-9a8b-fa27b69a2362,pushabout.college,available,17.99,59.99,low,low,10,namesilo,,,
-9e24f981-f994-42d8-b670-3a3731c9ac8c,wax.college,available,17.99,59.99,medium,low,3,namesilo,,,
-2d76e3b6-71f8-49f1-afe5-6baaa5e1fb00,quartet.college,available,5,81.98,low,low,7,namecheap,,,
-927c7000-a574-44b3-8e95-7838a5d35dd7,rheumy.college,available,5,81.98,low,low,6,namecheap,,,06/08/2026 23:15
-e3322cf9-3a26-4dea-adb5-8f9851078386,airworthy.college,available,5,81.98,low,low,9,namecheap,,,
-1d493b28-c41d-48c9-9401-31afb327c145,popquiz.college,available,17.99,59.99,low,low,8,namesilo,,,
-b874e5f6-ba03-49f6-ac71-d1b5924f97e7,thankyou.college,available,29.99,,high,low,9,name.com,,,
-e4b024b6-9793-420a-a310-271d9872c386,smelling.college,available,17.99,59.99,medium,low,8,namesilo,,,
-3211faea-b24d-4de7-b159-f1669904d705,restrain.college,available,17.99,59.99,medium,low,8,namesilo,,,
-9dc06d78-cda4-43ae-a6b4-536f944d844c,ststephen.college,available,17.99,59.99,medium,low,10,namesilo,,,
-975c4ca3-de03-4243-bc1e-c5ac3decb6b4,crabby.college,available,5,81.98,low,low,6,namecheap,,,08/08/2026 07:43
+c5a39e8b-b179-4327-af2c-f59a9cbbb453,monumental.college,available,17.99,59.99,high,low,10,namesilo,,,
+81f8b9ef-c82c-4bf8-9b05-d88de5004cb4,exalt.college,available,5,81.98,high,low,5,namecheap,,,
+9e24f981-f994-42d8-b670-3a3731c9ac8c,wax.college,available,17.99,59.99,high,low,3,namesilo,,,
+2d76e3b6-71f8-49f1-afe5-6baaa5e1fb00,quartet.college,available,5,81.98,high,low,7,namecheap,,,
+e3322cf9-3a26-4dea-adb5-8f9851078386,airworthy.college,available,5,81.98,high,low,9,namecheap,,,
+e4b024b6-9793-420a-a310-271d9872c386,smelling.college,available,17.99,59.99,high,low,8,namesilo,,,
+3211faea-b24d-4de7-b159-f1669904d705,restrain.college,available,17.99,59.99,high,low,8,namesilo,,,
+975c4ca3-de03-4243-bc1e-c5ac3decb6b4,crabby.college,available,5,81.98,medium,low,6,namecheap,,,08/08/2026 07:43
 5b3f5b86-5754-45c2-a6b5-126923d64eea,redo.college,available,17.99,59.99,high,low,4,namesilo,,,
-e7b2eea7-5763-4c75-bcaa-3dbf216a089f,golfgame.college,available,29.99,,high,low,9,name.com,,,
 df05f721-c2f2-4f8a-b88d-a79f2d819087,excursion.college,available,17.99,59.99,high,low,9,namesilo,,,
-686e5f83-3825-4214-aad8-d4cc31f627a9,aramean.college,available,5,81.98,low,low,7,namecheap,,,06/08/2026 12:02
+686e5f83-3825-4214-aad8-d4cc31f627a9,aramean.college,available,5,81.98,medium,low,7,namecheap,,,06/08/2026 12:02
 808eedcc-090d-49c2-87c2-9c7709ebdf10,hic.college,available,17.99,59.99,high,low,3,namesilo,,,
-8025e5df-3fb0-49aa-a8b8-51330e14a413,lazuline.college,available,5,81.98,low,low,8,namecheap,,,08/08/2026 03:18
-c95d7162-1b72-4d9f-b6f7-c767063d8e6b,justification.college,available,17.99,59.99,medium,low,13,namesilo,,,
-7bbb7ebc-01b3-4d1d-83ef-e7db1c1d65e3,aslope.college,available,5,81.98,low,low,6,namecheap,,,07/08/2026 04:02
-217e6357-a10e-4a67-8e67-71eece8537b2,leavethedooropen.college,available,17.99,59.99,high,low,19,namesilo,,,
-b8551bf7-0436-498d-9665-44a3b5b5420e,energizing.college,available,5,81.98,medium,low,10,namecheap,,,
-d30f90f0-1770-435b-b7b7-6ca31fff8669,recumbent.college,available,5,81.98,low,low,9,namecheap,,,
-8a48d3d2-9899-4565-b363-7cb9f17c019c,wonderful.college,available,17.99,59.99,high,low,9,namesilo,,,
-3e89970c-20d6-434d-a4de-73534f4817e9,scheme.college,available,17.99,59.99,medium,low,6,namesilo,,,
+8025e5df-3fb0-49aa-a8b8-51330e14a413,lazuline.college,available,5,81.98,medium,low,8,namecheap,,,08/08/2026 03:18
+c95d7162-1b72-4d9f-b6f7-c767063d8e6b,justification.college,available,17.99,59.99,high,low,13,namesilo,,,
+b8551bf7-0436-498d-9665-44a3b5b5420e,energizing.college,available,5,81.98,high,low,10,namecheap,,,
+d30f90f0-1770-435b-b7b7-6ca31fff8669,recumbent.college,available,5,81.98,high,low,9,namecheap,,,
+3e89970c-20d6-434d-a4de-73534f4817e9,scheme.college,available,17.99,59.99,high,low,6,namesilo,,,
 7fe1d7e1-f798-4568-8ea4-90e600bfb002,april.college,available,17.99,59.99,high,medium,5,namesilo,,,
-752da33b-fadd-4316-82b0-5b3c5d8e3290,pizzapie.college,available,17.99,59.99,high,low,9,namesilo,,,
 07a7a2a1-7891-4ea3-b75c-1548a1cf3e01,grandad.college,available,29.99,,high,low,7,name.com,,,
-4c080784-1c39-4b44-b454-007f7e3e2a6a,acroscopic.college,available,5,81.98,low,low,10,namecheap,,,
-8b7464c0-9b61-4c7c-9e8d-5a832a98cde6,heavyhanded.college,available,17.99,59.99,medium,low,12,namesilo,,,
-a3eaa44f-8dda-4c51-9fab-f6258ac70bdb,front.college,available,17.99,59.99,high,low,5,namesilo,,,
-800f578f-9f8d-45f6-af71-48bb0956bf24,tasking.college,available,17.99,59.99,medium,low,7,namesilo,,,
-809f56b6-7318-444f-9a75-0c2c4b23309a,getthepoint.college,available,17.99,59.99,high,low,13,namesilo,,,
-e41053b2-30bc-42de-9892-62f738f1d68d,mixedgrill.college,available,17.99,59.99,high,low,11,namesilo,,,
+800f578f-9f8d-45f6-af71-48bb0956bf24,tasking.college,available,17.99,59.99,high,low,7,namesilo,,,
 57efa57b-625f-4948-8555-40b70ebfa445,integrated.college,available,17.99,59.99,high,low,10,namesilo,,,
-01fd92da-21ab-4f75-a908-a52a924c4582,redpanda.college,available,17.99,59.99,high,low,9,namesilo,,,
-714db1f7-cd66-4dc7-ae42-9c90f5dedf13,adust.college,available,5,81.98,low,low,5,namecheap,,,
-8cd8ce8a-40da-4f0f-95cf-8bce4e7131ba,chill.college,available,17.99,59.99,low,low,5,namesilo,,,23/09/2026 23:04
-9bac6964-2084-49a7-8b39-633835f0d347,schoolboard.college,available,17.99,59.99,high,low,12,namesilo,,,
-db296bbf-db2d-481e-b435-5ee2447d1d4e,informing.college,available,17.99,59.99,medium,low,9,namesilo,,,
-f3b82ada-e7b8-4917-a5ae-e6b9fde4c8c6,favorable.college,available,17.99,59.99,medium,low,9,namesilo,,,
-c16b2c61-38c4-41e5-bb7a-3ab178243815,alkylic.college,available,5,81.98,low,low,7,namecheap,,,
-8ddac35e-b8d2-4231-91c8-07f4bd2077e7,generically.college,available,29.99,,medium,low,11,name.com,,,
+714db1f7-cd66-4dc7-ae42-9c90f5dedf13,adust.college,available,5,81.98,medium,low,5,namecheap,,,
+db296bbf-db2d-481e-b435-5ee2447d1d4e,informing.college,available,17.99,59.99,high,low,9,namesilo,,,
 f14f4360-da43-48c4-a8b5-7ab67e9eb4a8,sentence.college,available,17.99,59.99,high,low,8,namesilo,,,
-5093fd60-99ed-43cc-8cea-045e526000d8,shoulderblade.college,available,29.99,,medium,low,14,name.com,,,
-cf4cbda8-9a45-4318-8fac-0a3f80cff70c,givesomeoneahand.college,available,17.99,59.99,high,low,19,namesilo,,,
 5a77345b-8b87-4124-b614-9d3c55cf5c8f,incline.college,available,17.99,59.99,high,low,7,namesilo,,,
-c1657eb0-48e1-4cdc-b10a-ec88e22fabf5,track.college,available,17.99,59.99,medium,low,5,namesilo,,,24/09/2026 02:07
 751cf47f-2dbb-4e2e-aaa5-a44f6e6da350,fasten.college,available,17.99,59.99,high,low,6,namesilo,,,
 7c3f1efe-0ffc-4ea3-add0-601f84917e33,awareness.college,available,17.99,59.99,high,low,9,namesilo,,,
-fbac8d57-b077-49fe-b8db-95cb4e63817f,obese.college,available,17.99,59.99,low,low,5,namesilo,,,23/09/2026 23:32
-5f48e218-994f-4c6f-bd42-ab30a48f19ec,assertable.college,available,5,81.98,low,low,10,namecheap,,,
 6a79cc69-4c9a-4377-b8b5-6a051fefc202,proclaim.college,available,17.99,59.99,high,low,8,namesilo,,,
-0b73083b-3beb-4711-8cec-800b88a41bbb,announced.college,available,17.99,59.99,low,low,9,namesilo,,,22/09/2026 05:10
-1df00c2d-9ddb-4dd5-8119-734ade78954a,firm.college,premium,650,650,medium,low,4,namecheap,,,23/09/2026 04:32
-47ff8b5e-f06c-402e-b5a2-9cb4dc63bcb5,tickledpink.college,available,17.99,59.99,medium,low,12,namesilo,,,
-16024e62-74d9-4219-9d23-78d4515f9110,corrected.college,available,1.5,81.98,medium,low,9,namecheap,,,23/09/2026 23:45
 8309080f-47c6-4735-b407-4b7bc66d4145,intend.college,available,17.99,59.99,high,low,6,namesilo,,,
-5a6bef2b-81f4-4362-ab53-3ede1faabdf9,strained.college,available,1.5,81.98,low,low,8,namecheap,,,23/09/2026 21:17
-19f27335-734a-45f6-9392-7a0aafd6e05d,truthordare.college,available,17.99,59.99,low,low,13,namesilo,,,
-1223925c-acf2-47a1-82ed-433a4a9fa968,angulate.college,available,5,81.98,low,low,8,namecheap,,,
+1223925c-acf2-47a1-82ed-433a4a9fa968,angulate.college,available,5,81.98,high,low,8,namecheap,,,
 5540e7be-915b-4285-b0d3-0e1b6ed7260b,insist.college,available,17.99,59.99,high,low,6,namesilo,,,
-cd6e0fc2-ed27-4fd8-ae69-af56440c058c,lxii.college,available,5,81.98,low,low,4,namecheap,,,
-0ee099d2-1cff-4b84-ad99-02c4bb5f83f5,barbecued.college,available,5,81.98,low,low,9,namecheap,,,08/08/2026 16:25
-44c84b69-d302-4a36-b185-4095fcf441f5,apparent.college,available,5,81.98,low,low,8,namecheap,,,06/08/2026 05:08
-cc0e4f84-968b-40c8-997b-f8863692b35a,mad.college,available,29.99,94.99,low,low,3,name.com,,,23/09/2026 02:06
-20b2b26d-0f30-4307-b58c-8daa0fb8777f,animist.college,available,5,81.98,low,low,7,namecheap,,,
-4211f9aa-0c1b-4ca5-af74-67df2ec1b806,godgiven.college,available,17.99,59.99,medium,low,9,namesilo,,,
-4283ab95-8fd3-49dc-a86d-03bd61c36d6f,newyear.college,available,17.99,59.99,medium,low,8,namesilo,,,
-f711a24e-9bd1-4537-9bb3-c04605b6dce4,drive.college,premium,12500,12500,high,low,5,name.com,,,
+cd6e0fc2-ed27-4fd8-ae69-af56440c058c,lxii.college,available,5,81.98,medium,low,4,namecheap,,,
+0ee099d2-1cff-4b84-ad99-02c4bb5f83f5,barbecued.college,available,5,81.98,high,low,9,namecheap,,,08/08/2026 16:25
+44c84b69-d302-4a36-b185-4095fcf441f5,apparent.college,available,5,81.98,high,low,8,namecheap,,,06/08/2026 05:08
+20b2b26d-0f30-4307-b58c-8daa0fb8777f,animist.college,available,5,81.98,high,low,7,namecheap,,,
 02caff98-3739-42ff-bee3-7c6a5bd49f14,embracing.college,available,17.99,59.99,high,low,9,namesilo,,,
-2e317593-fc6d-4c69-a453-de0866c1cc23,working.college,available,17.99,59.99,medium,low,7,namesilo,,,19/09/2026 07:09
-01ea528f-fdff-4441-9747-18e031745fc8,release.college,available,17.99,59.99,high,low,7,namesilo,,,
-e01a81d0-f582-41cd-abe7-3d69637e1edc,dynamic.college,available,29.99,94.99,high,low,7,name.com,,,
 f5cac9a2-919f-489c-9c53-798c98b0017e,transparent.college,available,29.99,,high,low,11,name.com,,,
-4a16993d-1773-4e23-aa58-fdc039326a7d,hardcoded.college,available,17.99,59.99,medium,low,10,namesilo,,,
-4a9a490f-156a-4408-b5b8-92f643857485,select.college,premium,640,640,medium,low,6,namesilo,,,22/09/2026 23:07
-7c3cd5b6-fb6c-40d9-a015-fc34f242f1eb,dreamup.college,available,17.99,59.99,high,low,8,namesilo,,,
-87a2cbbb-fa9f-45f9-a7fd-7da84a8c5c15,shiftabout.college,available,17.99,59.99,low,low,11,namesilo,,,
 32397b44-1828-463f-8536-26cc47628d04,pizzeria.college,available,17.99,59.99,high,low,8,namesilo,,,
-8ec0febe-28a8-4b90-8b9e-492bf7801d1b,accurate.college,available,17.99,59.99,medium,low,8,namesilo,,,21/09/2026 15:59
-3ef05bd5-869a-4e00-89fd-2ad7f7c25fe9,airdry.college,available,5,81.98,low,low,7,namecheap,,,
 5e63e139-0f82-40fe-bad8-5d5597f4e2d8,supreme.college,available,17.99,59.99,high,low,7,namesilo,,,
-796be56e-649a-40ef-adf1-6ebf4a049ed7,recognisable.college,available,17.99,59.99,high,low,12,namesilo,,,
 d034c960-865f-41e7-a15b-3fdf43fa83dd,employment.college,premium,625,,high,low,10,name.com,,,
-240554d8-c191-4666-b861-e161dfbbdf06,algerian.college,available,5,81.98,low,low,8,namecheap,,,
-c72df364-a7a4-4193-9596-4379d875f3e1,tomhanks.college,available,17.99,59.99,high,low,9,namesilo,,,
-d08375f0-37a1-4a51-90f6-9f7dc5c1b3e9,brute.college,available,5,81.98,low,low,5,namecheap,,,
-d067a270-fd85-46e4-8e06-02a4abb49e25,agelong.college,available,5,81.98,low,low,7,namecheap,,,
-2097bbfe-9899-44f6-824f-92f53b323986,readfor.college,available,17.99,59.99,low,low,8,namesilo,,,
+240554d8-c191-4666-b861-e161dfbbdf06,algerian.college,available,5,81.98,high,low,8,namecheap,,,
+d08375f0-37a1-4a51-90f6-9f7dc5c1b3e9,brute.college,available,5,81.98,high,low,5,namecheap,,,
+d067a270-fd85-46e4-8e06-02a4abb49e25,agelong.college,available,5,81.98,medium,low,7,namecheap,,,
 dddc8773-efa8-4825-ab90-04f9acde6441,explore.college,available,17.99,59.99,high,medium,7,namesilo,,,
-fde2c4ba-a2a4-4e88-990c-5f7ac671b859,amphoric.college,available,5,81.98,low,low,8,namecheap,,,
-0d66de4c-6681-4cc4-adf6-c728281434ac,les.college,available,17.99,59.99,medium,low,3,namesilo,,,
-5ce31a70-7ec1-4ca6-a293-e61ab41d35ea,comparatively.college,available,17.99,59.99,medium,low,13,namesilo,,,
-9dd89a9d-6ad9-4b54-b5b0-c998f9c472e1,drinkup.college,available,17.99,59.99,high,low,8,namesilo,,,
-0f424dfb-9528-4c88-8e46-6a72cd6c14b5,acerose.college,available,5,81.98,low,low,7,namecheap,,,
-573dc33d-2607-4304-985e-8f6c98cd0900,makesure.college,available,17.99,59.99,high,low,9,namesilo,,,
-9e5404ca-503d-484e-8a0e-01b137300840,turmeric.college,available,17.99,59.99,medium,low,8,namesilo,,,19/09/2026 15:28
-486d38ca-2a9f-4e9d-83ab-c604ff956947,thousandth.college,available,5,81.98,low,low,10,namecheap,,,
-d9f6cadb-6c3c-4dd2-85d6-9c9671046918,onehalf.college,available,17.99,59.99,medium,low,8,namesilo,,,
+0d66de4c-6681-4cc4-adf6-c728281434ac,les.college,available,17.99,59.99,high,low,3,namesilo,,,
+0f424dfb-9528-4c88-8e46-6a72cd6c14b5,acerose.college,available,5,81.98,medium,low,7,namecheap,,,
+486d38ca-2a9f-4e9d-83ab-c604ff956947,thousandth.college,available,5,81.98,high,low,10,namecheap,,,
 b5f90415-1ad5-45da-beea-6dce26c631a6,impractical.college,available,17.99,59.99,medium,low,11,namesilo,,,
-f9450914-7f29-4e14-b29f-40259c8bff59,askance.college,available,5,81.98,low,low,7,namecheap,,,07/08/2026 02:56
-437e3848-0d0d-4762-be41-ab7a08755f8a,lisboa.college,available,17.99,59.99,medium,low,6,namesilo,,,
-15375685-c52e-4526-aa9a-2f8f2e2a83a9,content.college,resell,29.99,,medium,low,7,"GoDaddy.com, LLC",16/04/2026 13:55,16/04/2027 23:59,23/09/2026 03:42
-cfb5be16-6790-4e2f-8352-be66575df7f7,kilogramme.college,available,29.99,,medium,low,10,name.com,,,
-e9034bfa-0e42-4fd5-b771-61c162e31562,appealing.college,available,5,81.98,low,low,9,namecheap,,,06/08/2026 05:51
-1d1493fa-6863-4fc4-93c8-5b019e04d93e,wide.college,available,17.99,59.99,low,low,4,namesilo,,,21/09/2026 16:15
-0a7056b7-ebcb-4023-843d-8f4ccfbd9b94,buried.college,available,1.5,81.98,low,low,6,namecheap,,,23/09/2026 11:29
-d980f8c8-ee29-4e7d-9ddc-c4a5de546125,ifnot.college,available,17.99,59.99,medium,low,6,namesilo,,,
-583b91f7-21eb-4820-a716-f6d050d3355e,apophyseal.college,available,5,81.98,low,low,10,namecheap,,,06/08/2026 03:24
-3759163a-ba91-4bba-aa4e-12a190d4801c,cxxx.college,available,5,81.98,low,low,4,namecheap,,,
+f9450914-7f29-4e14-b29f-40259c8bff59,askance.college,available,5,81.98,medium,low,7,namecheap,,,07/08/2026 02:56
+437e3848-0d0d-4762-be41-ab7a08755f8a,lisboa.college,available,17.99,59.99,high,low,6,namesilo,,,
+cfb5be16-6790-4e2f-8352-be66575df7f7,kilogramme.college,available,29.99,,high,low,10,name.com,,,
+e9034bfa-0e42-4fd5-b771-61c162e31562,appealing.college,available,5,81.98,high,low,9,namecheap,,,06/08/2026 05:51
+3759163a-ba91-4bba-aa4e-12a190d4801c,cxxx.college,available,5,81.98,high,low,4,namecheap,,,
 e2ad73d6-7d2e-4151-b239-ad6317ae19dc,iphone.college,resell,,,high,high,6,"Go Daddy, LLC",11/09/2025 20:58,11/09/2026 23:59,
-3a364d4f-73ad-4a64-b2e6-fe6ae291326f,practiced.college,available,1.5,81.98,medium,low,9,namecheap,,,21/09/2026 17:21
-4bc99a09-1c63-4ef7-95a3-10445201d69e,earshaped.college,available,5,81.98,low,low,10,namecheap,,,07/08/2026 18:02
-1b0f6b1b-68bd-421a-b79e-d3eeadcc2a05,givesomeonealift.college,available,17.99,59.99,high,low,19,namesilo,,,
-144165b1-3873-4797-a331-bcb9574cf6d6,round.college,premium,242,242,low,low,5,namesilo,,,09/08/2026 05:09
-72c989ee-efe6-4c2b-b418-72a973196d30,captive.college,available,5,81.98,low,low,7,namecheap,,,
-10851da3-695c-4d10-879f-3f0934105266,headup.college,available,29.99,,high,low,7,name.com,,,
+144165b1-3873-4797-a331-bcb9574cf6d6,round.college,premium,242,242,high,low,5,namesilo,,,09/08/2026 05:09
+72c989ee-efe6-4c2b-b418-72a973196d30,captive.college,available,5,81.98,high,low,7,namecheap,,,
 2bf42ec1-8a9a-4bfd-964c-63b64bf0c787,coffin.college,available,17.99,59.99,medium,low,6,namesilo,,,
-817d27ad-db2b-4c2a-ac80-978fc8e2028c,veggie.college,available,17.99,59.99,medium,low,6,namesilo,,,19/09/2026 06:34
 2dfb1806-51e3-4356-8e5f-46303a4908ae,crab.college,available,17.99,59.99,high,low,4,namesilo,,,
-46811353-746a-44ad-931c-625a71129433,amoebic.college,available,5,81.98,low,low,7,namecheap,,,
 3d9c20d5-4f07-418f-8ed7-a0f51abd5100,sandwich.college,available,17.99,59.99,high,low,8,namesilo,,,
-31e1fcac-53b8-4416-b617-f764a6f927d2,daily.college,premium,625,625,high,low,5,name.com,,,
-13bd1282-39dd-4159-a74b-72ef61fdf9fd,beborn.college,available,17.99,59.99,medium,low,7,namesilo,,,
-2c58c12f-8b0a-4933-9ad8-b77b4cd3c178,thelike.college,available,17.99,59.99,medium,low,8,namesilo,,,
-aa85a43a-04f3-4ccd-811f-21734a5b7d02,biting.college,available,5,81.98,low,low,6,namecheap,,,08/08/2026 16:41
-9c71d91a-3886-4727-a34c-aad98268fbde,aphotic.college,available,5,81.98,low,low,7,namecheap,,,05/08/2026 23:37
-9c9e74d1-0b69-42e1-83d1-4361dfb03dbe,alary.college,available,5,81.98,low,low,5,namecheap,,,
-e32c5b31-a612-4c1c-ba78-9e841406e565,towed.college,available,29.99,,low,low,5,name.com,,,
-686e6466-78d8-4b22-970e-bd48b2dd23b9,boots.college,premium,650,650,medium,low,5,namecheap,,,
-f6a44b3f-025c-4fdf-bef7-42ed92faeef5,accusative.college,available,5,81.98,low,low,10,namecheap,,,
-318badb7-e3b8-4740-85b4-d0d5515fbf93,stood.college,available,17.99,59.99,low,low,5,namesilo,,,
-9be446a4-2a20-4c48-85b2-39510e2c0b97,questionmark.college,available,29.99,,medium,low,13,name.com,,,
-4504ba44-0626-4518-8c24-c7c653e3d6b6,vicious.college,available,5,81.98,low,low,7,namecheap,,,08/08/2026 16:00
-120e886d-a655-459e-8121-7288c569896e,grilled.college,available,5,81.98,low,low,7,namecheap,,,08/08/2026 16:31
-37fc0f69-c770-48ad-8ddc-3f4ab7a227c3,concealed.college,available,1.5,81.98,low,low,9,namecheap,,,23/09/2026 18:33
+aa85a43a-04f3-4ccd-811f-21734a5b7d02,biting.college,available,5,81.98,high,low,6,namecheap,,,08/08/2026 16:41
+9c71d91a-3886-4727-a34c-aad98268fbde,aphotic.college,available,5,81.98,medium,low,7,namecheap,,,05/08/2026 23:37
+9c9e74d1-0b69-42e1-83d1-4361dfb03dbe,alary.college,available,5,81.98,medium,low,5,namecheap,,,
+e32c5b31-a612-4c1c-ba78-9e841406e565,towed.college,available,29.99,,medium,low,5,name.com,,,
+686e6466-78d8-4b22-970e-bd48b2dd23b9,boots.college,premium,650,650,high,low,5,namecheap,,,
+f6a44b3f-025c-4fdf-bef7-42ed92faeef5,accusative.college,available,5,81.98,high,low,10,namecheap,,,
+318badb7-e3b8-4740-85b4-d0d5515fbf93,stood.college,available,17.99,59.99,medium,low,5,namesilo,,,
+4504ba44-0626-4518-8c24-c7c653e3d6b6,vicious.college,available,5,81.98,medium,low,7,namecheap,,,08/08/2026 16:00
+120e886d-a655-459e-8121-7288c569896e,grilled.college,available,5,81.98,high,low,7,namecheap,,,08/08/2026 16:31
 5f6b7b17-6bbb-48db-a41f-c196c4a0b55b,side.college,available,17.99,59.99,high,low,4,namesilo,,,
-d0dff58d-4669-4688-b98e-1cdb7e93e40b,younameit.college,available,17.99,59.99,medium,low,11,namesilo,,,
-67cf559e-1132-4a28-bd1d-c2377e183be4,abloom.college,available,5,81.98,low,low,6,namecheap,,,
-9f079afe-91f3-4f69-9328-0b9dd81a14f2,costarica.college,available,,,high,low,10,,,,
-9abcd679-0aa3-41bd-9daa-a416a75a9de5,wicked.college,available,29.99,94.99,high,low,6,name.com,,,
-d73952d2-ca7b-4a4c-bace-26b28186e250,rules.college,available,17.99,59.99,medium,low,5,namesilo,,,
-caedee40-211f-4d13-8d0a-1776676eacdf,sinners.college,available,17.99,59.99,low,low,7,namesilo,,,
+67cf559e-1132-4a28-bd1d-c2377e183be4,abloom.college,available,5,81.98,medium,low,6,namecheap,,,
+d73952d2-ca7b-4a4c-bace-26b28186e250,rules.college,available,17.99,59.99,high,low,5,namesilo,,,
+caedee40-211f-4d13-8d0a-1776676eacdf,sinners.college,available,17.99,59.99,medium,low,7,namesilo,,,
 b6d1d655-a31f-4a63-9a92-4ed9e8d0d7e9,bio.college,premium,242,242,high,medium,3,namesilo,,,
-d360f854-557b-4383-aaba-8347c7215f8c,admonitory.college,available,5,81.98,low,low,10,namecheap,,,
-a56c2c46-6fee-4c16-a17d-af6f75e4ba63,disorganised.college,available,17.99,59.99,medium,low,12,namesilo,,,
-5ca6f8e7-c83d-4339-9ed6-6446a79fe11e,releasecandidate.college,available,17.99,59.99,high,low,17,namesilo,,,
-7b3d73a3-624a-4211-8ce1-90da8f4996d5,harleydavidson.college,available,17.99,59.99,high,low,15,namesilo,,,
-39941a91-5870-464c-86d7-6c17f4d54429,pronouncing.college,available,17.99,59.99,medium,low,11,namesilo,,,
-45a7ca39-b604-4536-8697-d2466e40235a,arty.college,available,5,81.98,low,low,4,namecheap,,,06/08/2026 23:51
-07bcb281-d62b-4fd0-989a-9e35c5975b5b,havewords.college,available,17.99,59.99,medium,low,10,namesilo,,,
-68cf5a89-3ef9-4582-aa8c-6775d2ebe4fa,germanreich.college,available,17.99,59.99,medium,low,12,namesilo,,,
-9ca07733-3831-48f6-afff-7cfd4a39a4d3,chemicaltoilet.college,available,29.99,,medium,low,15,name.com,,,
+45a7ca39-b604-4536-8697-d2466e40235a,arty.college,available,5,81.98,high,low,4,namecheap,,,06/08/2026 23:51
 1f495673-08c3-4391-b93f-3f114509d493,noon.college,available,17.99,59.99,high,low,4,namesilo,,,
-810c0415-7e76-47d9-95ae-ad8e35ba55e1,inhibit.college,available,17.99,59.99,medium,low,7,namesilo,,,
+810c0415-7e76-47d9-95ae-ad8e35ba55e1,inhibit.college,available,17.99,59.99,high,low,7,namesilo,,,
 70057ffa-1dbb-4efd-a536-7d272ec6cd50,irrational.college,available,17.99,59.99,high,low,10,namesilo,,,
-c44bbd82-db38-4fcf-9d1a-884c29bde77f,polonecksweater.college,available,17.99,59.99,high,low,17,namesilo,,,
-22c923f5-ee9b-433a-bc60-ef924913c080,thanksto.college,available,17.99,59.99,medium,low,9,namesilo,,,
 2fc4224f-8cfc-49a0-a6f0-f17ee376fb97,refreshed.college,available,17.99,59.99,high,low,9,namesilo,,,
-878f5cb3-4cfa-48fa-8761-02af628a1617,cherry.college,available,17.99,59.99,medium,low,6,namesilo,,,22/09/2026 22:25
-1c9d8e44-9714-479b-85a6-8161f7ddf912,petite.college,available,5,81.98,low,low,6,namecheap,,,08/08/2026 14:24
-aac095ea-713d-4627-9e0e-0378f14d7782,acaudate.college,available,5,81.98,low,low,8,namecheap,,,
-efbfa716-a82d-4153-9677-171602db9d73,completely.college,available,17.99,59.99,low,low,10,namesilo,,,22/09/2026 00:16
-088da0da-6dd2-43a0-8881-50e96c05d849,appetizing.college,available,5,81.98,low,low,10,namecheap,,,06/08/2026 06:45
-978e8889-4b7c-422a-84eb-c3d4c84f4315,oldhat.college,available,5,81.98,low,low,7,namecheap,,,08/08/2026 11:01
-6772a4ff-0eed-44d5-a5f2-c6642173280d,fungicide.college,available,5,81.98,low,low,9,namecheap,,,
-60e9159f-93d6-470f-acd0-b41d42dd5720,streetnumber.college,available,17.99,59.99,medium,low,13,namesilo,,,
-a552de72-63c4-4a2f-ab11-6e7f1c8e81f5,durable.college,available,29.99,94.99,high,low,7,name.com,,,
-71fd09fe-09da-49ea-883f-2f17e5a0b055,olive.college,available,17.99,59.99,medium,low,5,namesilo,,,
-40fe984c-0cfe-4556-9034-07251fde5c08,bodycavity.college,available,17.99,59.99,medium,low,11,namesilo,,,
-8dce0bf4-aa7f-4d63-98be-49772cb07521,whatiswhat.college,available,17.99,59.99,low,low,12,namesilo,,,
-66634450-ede5-47ba-92c3-48f2c862b5da,racist.college,available,5,81.98,low,low,6,namecheap,,,
+1c9d8e44-9714-479b-85a6-8161f7ddf912,petite.college,available,5,81.98,medium,low,6,namecheap,,,08/08/2026 14:24
+088da0da-6dd2-43a0-8881-50e96c05d849,appetizing.college,available,5,81.98,high,low,10,namecheap,,,06/08/2026 06:45
+6772a4ff-0eed-44d5-a5f2-c6642173280d,fungicide.college,available,5,81.98,high,low,9,namecheap,,,
+71fd09fe-09da-49ea-883f-2f17e5a0b055,olive.college,available,17.99,59.99,high,low,5,namesilo,,,
+66634450-ede5-47ba-92c3-48f2c862b5da,racist.college,available,5,81.98,medium,low,6,namecheap,,,
 74a6403e-f3ca-4215-87e8-854744fdd6b4,vodka.college,premium,242,242,high,low,5,namesilo,,,
 58a64a0d-4f3f-4a27-a25b-d74be3cf0482,links.college,available,29.99,,high,low,5,name.com,,,
-67cb7884-4a41-4b62-a1cb-8c4f26d5cb90,amoristic.college,available,5,81.98,low,low,9,namecheap,,,
 45d7dd5c-95ab-41ea-8158-25f587be828c,refresh.college,available,17.99,59.99,high,low,7,namesilo,,,
-c8321f88-737f-466b-bfa4-726a166687af,holly.college,available,17.99,59.99,medium,low,5,namesilo,,,
-a4e35751-c542-4573-ba9f-af574c134db0,aftermost.college,available,5,81.98,low,low,9,namecheap,,,
-69b49364-95e6-4567-8e2b-786adf292ebf,farmer.college,available,1.5,81.98,medium,low,6,namecheap,,,08/09/2026 06:02
-a830df66-26bf-4dd5-b248-d7a44b041542,excusatory.college,available,5,81.98,low,low,10,namecheap,,,06/08/2026 02:16
-34fa59bc-d4ab-4482-9e41-4ddbd02163ed,adolescent.college,available,1.5,81.98,medium,low,10,namecheap,,,21/09/2026 19:03
+c8321f88-737f-466b-bfa4-726a166687af,holly.college,available,17.99,59.99,high,low,5,namesilo,,,
+69b49364-95e6-4567-8e2b-786adf292ebf,farmer.college,available,1.5,81.98,high,low,6,namecheap,,,08/09/2026 06:02
 f3226d99-0c40-4e5d-b773-b720705cd696,stan.college,available,17.99,59.99,high,low,4,namesilo,,,
-197ee253-bda7-4e5d-ac0b-dd9338832501,adpressed.college,available,5,81.98,low,low,9,namecheap,,,
 794e8dad-a883-47b0-bbb6-af1491aaa31c,ava.college,available,17.99,59.99,high,medium,3,namesilo,,,
-1c5bbee3-16d0-4bde-a2c7-df6e5ab28f04,childsexualabuse.college,available,17.99,59.99,medium,low,18,namesilo,,,
-c26b748b-08f1-4238-86e2-32b62da9b0d4,whitehot.college,available,17.99,59.99,medium,low,9,namesilo,,,
-3978eb58-27d7-4e33-bb64-23fc98bf441b,adopted.college,available,5,81.98,low,low,7,namecheap,,,
-6330b66e-c1c9-453f-a8d4-d34018f89740,hockeyplayer.college,available,29.99,,high,low,13,name.com,,,
-942dda22-d8fe-4914-8d25-83603492cfcb,closeorder.college,available,17.99,59.99,medium,low,11,namesilo,,,
-55072532-b673-4a1c-8894-533dee4e1436,aggressive.college,available,17.99,59.99,medium,low,10,namesilo,,,21/09/2026 22:59
-4ecbec1b-ce49-4d5b-9402-9a42216e0527,tabletennis.college,available,17.99,59.99,medium,low,12,namesilo,,,
-cf8cfaed-362e-4c50-88f3-ec15017e413d,clergy.college,available,17.99,59.99,medium,low,6,namesilo,,,
-73637f56-66d3-458d-80b0-e25dce7e0fea,cooldown.college,available,1.5,81.98,medium,low,9,namecheap,,,23/09/2026 23:06
-770185f1-0fbc-4df1-a10a-43953c8a496c,sedative.college,available,1.5,81.98,low,low,8,namecheap,,,22/09/2026 10:55
+3978eb58-27d7-4e33-bb64-23fc98bf441b,adopted.college,available,5,81.98,high,low,7,namecheap,,,
+cf8cfaed-362e-4c50-88f3-ec15017e413d,clergy.college,available,17.99,59.99,high,low,6,namesilo,,,
 42f6712f-d32b-49c8-ab8e-c753c1c54ba9,currency.college,available,29.99,,high,low,8,name.com,,,
-81393d4d-a6fb-445c-abd9-b059212123c5,blank.college,available,17.99,59.99,low,low,5,namesilo,,,22/09/2026 21:48
 05d4d33d-8e17-4724-8bd9-e9fd42340813,capone.college,available,17.99,59.99,medium,low,6,namesilo,,,
-d8267302-ce1d-4e7c-aea2-cb9242099506,legalheir.college,available,17.99,59.99,medium,low,10,namesilo,,,
-87d06bf7-a5e1-4e16-843b-33c1875d7585,acknowledge.college,available,29.99,,medium,low,11,name.com,,,
-0a95b53c-dee3-4a45-a27e-d983eb8f7347,peachy.college,available,5,81.98,low,low,6,namecheap,,,08/08/2026 12:41
-d930bdfc-27a4-465f-a348-db25dd2273f5,anticipant.college,available,5,81.98,low,low,10,namecheap,,,
+87d06bf7-a5e1-4e16-843b-33c1875d7585,acknowledge.college,available,29.99,,high,low,11,name.com,,,
+0a95b53c-dee3-4a45-a27e-d983eb8f7347,peachy.college,available,5,81.98,high,low,6,namecheap,,,08/08/2026 12:41
+d930bdfc-27a4-465f-a348-db25dd2273f5,anticipant.college,available,5,81.98,medium,low,10,namecheap,,,
 54b0febf-8983-48b4-85fc-ed35c383f704,untrue.college,available,17.99,59.99,medium,low,6,namesilo,,,
-9ccbcfaa-464c-441c-b5e0-fb2b72258bfa,confounded.college,available,5,81.98,low,low,10,namecheap,,,07/08/2026 11:57
-30337356-68f3-4197-86f2-c515693a59f1,haiti.college,available,,,medium,low,5,,,,
+9ccbcfaa-464c-441c-b5e0-fb2b72258bfa,confounded.college,available,5,81.98,medium,low,10,namecheap,,,07/08/2026 11:57
+30337356-68f3-4197-86f2-c515693a59f1,haiti.college,available,,,high,low,5,,,,
 ad0fe787-adc9-45c7-86d5-93509bb0c929,soundlike.college,available,17.99,59.99,low,low,10,namesilo,,,
-8405587c-9acf-4d68-998a-5df8a6ca6c6e,solongas.college,available,17.99,59.99,low,low,10,namesilo,,,
-dcdd8e2b-181f-4ea0-a0f6-18c3cae5f1c0,lyric.college,available,17.99,59.99,medium,low,5,namesilo,,,
-c566d7b0-1fe1-4e11-86a1-7debd38342d2,newsmedia.college,available,17.99,59.99,high,low,10,namesilo,,,
-2464c0db-e714-4ace-ad6d-070a6b32975c,abyssal.college,available,5,81.98,low,low,7,namecheap,,,
-bbf46c3c-8176-4587-95ee-c0353fb7a720,ascribable.college,available,5,81.98,low,low,10,namecheap,,,07/08/2026 01:17
-3a67de57-3ce5-4d4b-a79a-20c8ff50b932,ribald.college,available,5,81.98,low,low,6,namecheap,,,09/08/2026 02:15
-1ac10017-2ea5-463f-a361-e238313678d3,textbook.college,premium,640,640,medium,low,8,namesilo,,,23/09/2026 13:09
-29b58050-4d41-4593-ae48-4bb93bed2cfd,directing.college,available,29.99,94.99,medium,low,9,name.com,,,
-d355afc9-8a24-43a2-8d00-875564cf5ad4,letterruling.college,available,17.99,59.99,medium,low,13,namesilo,,,
-791392fd-0751-4bc7-87d1-b3837de3528c,seventy.college,available,5,81.98,low,low,7,namecheap,,,
-930f972b-aa0e-4400-abc3-37d7f045e253,weakened.college,available,17.99,59.99,low,low,8,namesilo,,,22/09/2026 11:29
-69f54066-f87f-4ef6-93b2-aa1ada924b78,verymuch.college,available,17.99,59.99,high,low,9,namesilo,,,
-c5b1860f-242b-44c2-8796-7c309d2443eb,astylar.college,available,5,81.98,low,low,7,namecheap,,,07/08/2026 10:15
-55b4b693-566c-48a0-99d7-827c8537a194,soundout.college,available,17.99,59.99,low,low,9,namesilo,,,
+dcdd8e2b-181f-4ea0-a0f6-18c3cae5f1c0,lyric.college,available,17.99,59.99,high,low,5,namesilo,,,
+2464c0db-e714-4ace-ad6d-070a6b32975c,abyssal.college,available,5,81.98,medium,low,7,namecheap,,,
+791392fd-0751-4bc7-87d1-b3837de3528c,seventy.college,available,5,81.98,high,low,7,namecheap,,,
+c5b1860f-242b-44c2-8796-7c309d2443eb,astylar.college,available,5,81.98,medium,low,7,namecheap,,,07/08/2026 10:15
 cc15752c-de08-4172-938c-32cd97f27b65,spend.college,available,17.99,59.99,high,low,5,namesilo,,,
-5ad3058f-76f3-4e09-b1ec-148dbfd0b45a,bothered.college,available,17.99,59.99,low,low,8,namesilo,,,23/09/2026 01:08
-4b30f7b6-8641-48c2-ad42-e54b5eaa0f76,teeshirt.college,available,29.99,,high,low,9,name.com,,,
 87288f71-9993-46f3-a6a9-a56750983e22,outdoor.college,available,17.99,59.99,high,low,7,namesilo,,,
-7c66951f-cb7b-4626-801e-c70b41558940,queenelizabeth.college,available,17.99,59.99,high,low,15,namesilo,,,
-ba2ec3fa-935d-414f-8e7b-0685b37d11e4,reflexively.college,available,17.99,59.99,low,low,11,namesilo,,,
-948a484e-519b-4800-8c4c-3d58841a2ba1,albinotic.college,available,5,81.98,low,low,9,namecheap,,,
+948a484e-519b-4800-8c4c-3d58841a2ba1,albinotic.college,available,5,81.98,medium,low,9,namecheap,,,
 44bc662e-4a2f-4920-9648-d4d0b0b15251,join.college,available,17.99,59.99,high,medium,4,namesilo,,,
 ebceb3c6-cbc1-48ab-913a-e4ea648dff7b,media.college,premium,3250,3250,high,medium,5,namecheap,,,
-ff9df703-d29f-4618-8128-8e8791f9ebb4,february.college,available,17.99,59.99,medium,low,8,namesilo,,,
-40679808-c7cd-4c6c-ae52-fa945f95d0f0,putaway.college,available,17.99,59.99,medium,low,8,namesilo,,,
-a47715ce-ac27-4c18-a0d0-a0f8a13445eb,asoneman.college,available,17.99,59.99,medium,low,10,namesilo,,,
-7288c76d-2ac0-49db-bf0a-9d1246886af3,commonlaw.college,available,17.99,59.99,medium,low,10,namesilo,,,
-749186a1-06c0-4ce0-b93b-8a96365e5029,letterpatent.college,available,17.99,59.99,medium,low,13,namesilo,,,
-26f4710b-fe9c-44f0-a9dd-68fd63dcba98,howldown.college,available,17.99,59.99,medium,low,9,namesilo,,,
-dc820621-1e2a-474e-b6b0-51fef05723d4,attable.college,available,17.99,59.99,medium,low,8,namesilo,,,
-f9ce4212-da58-4d60-a521-03b4fc2c91b1,tothinkthat.college,available,17.99,59.99,low,low,13,namesilo,,,
-7e5db181-ac47-4cf7-90fd-5a619608e3ea,distribute.college,available,17.99,59.99,medium,low,10,namesilo,,,
-a3d8636c-07fb-48e2-86b1-0f5abe58536f,vouchfor.college,available,29.99,,low,low,9,name.com,,,
+ff9df703-d29f-4618-8128-8e8791f9ebb4,february.college,available,17.99,59.99,high,low,8,namesilo,,,
+7e5db181-ac47-4cf7-90fd-5a619608e3ea,distribute.college,available,17.99,59.99,high,low,10,namesilo,,,
 1c7050ee-a83b-4fb6-83d1-64dfdd4b8267,nan.college,available,29.99,,high,low,3,name.com,,,
 5ce999d5-05be-4068-9c7c-a0a8597268e0,elvis.college,available,17.99,59.99,high,low,5,namesilo,,,
 6fd606c5-40ea-4438-a330-137e73bce174,wiring.college,available,17.99,59.99,high,low,6,namesilo,,,
-534de9a2-9850-4522-94e1-a9aee353003d,autogenous.college,available,5,81.98,low,low,10,namecheap,,,07/08/2026 20:16
-9dbe5142-f259-4e52-885f-db0b33fee960,ariled.college,available,5,81.98,low,low,6,namecheap,,,06/08/2026 19:09
-ec64d988-5bcd-4151-b53f-9b458ac10f48,shaky.college,available,29.99,,medium,low,5,name.com,,,
+534de9a2-9850-4522-94e1-a9aee353003d,autogenous.college,available,5,81.98,medium,low,10,namecheap,,,07/08/2026 20:16
+9dbe5142-f259-4e52-885f-db0b33fee960,ariled.college,available,5,81.98,medium,low,6,namecheap,,,06/08/2026 19:09
+ec64d988-5bcd-4151-b53f-9b458ac10f48,shaky.college,available,29.99,,high,low,5,name.com,,,
 920960a4-e5b5-4e7d-9c95-a9dc7dc2e904,write.college,premium,625,,high,low,5,name.com,,,
-1622dd55-ab87-4bba-9668-ee0b3681c35c,anosmic.college,available,5,81.98,low,low,7,namecheap,,,
-434519f4-a9e8-4afc-8e34-28d9945f4a93,analyzed.college,available,5,81.98,low,low,8,namecheap,,,
+1622dd55-ab87-4bba-9668-ee0b3681c35c,anosmic.college,available,5,81.98,medium,low,7,namecheap,,,
+434519f4-a9e8-4afc-8e34-28d9945f4a93,analyzed.college,available,5,81.98,high,low,8,namecheap,,,
 a8653c77-d6c8-4d41-8f46-9e86c949bd5f,enlighten.college,available,17.99,59.99,high,low,9,namesilo,,,
-a43784fc-928f-4ce9-92bf-f90feebb91db,goodbye.college,available,1.5,81.98,medium,low,8,namecheap,,,08/09/2026 03:25
-0ebc7881-13ec-4fc7-8d4e-99bf0b0f7feb,receptionchair.college,available,17.99,59.99,medium,low,15,namesilo,,,
-032dbe74-1b8c-4027-a31c-ea74314ae075,bigben.college,available,17.99,59.99,high,low,7,namesilo,,,
-22d6544f-9527-4e7b-9445-86af0f2952d4,putonthemap.college,available,17.99,59.99,low,low,14,namesilo,,,
-81cc47e7-94e4-4af4-a3c0-fd8a9ffaae29,asternal.college,available,5,81.98,low,low,8,namecheap,,,07/08/2026 09:06
 dd1c9f4b-b38c-4a6c-a75b-55598acbbdff,automobile.college,available,17.99,59.99,high,low,10,namesilo,,,
 1e9faa1c-16bf-4253-b14e-e7a82457bbdb,kinda.college,available,29.99,,high,low,5,name.com,,,
 3fb51316-9990-4df3-9b84-bfecfdeb1f32,trophy.college,available,17.99,59.99,high,low,6,namesilo,,,
 41bfd25e-24eb-4700-b4cd-26b3f1ba60eb,whether.college,available,17.99,59.99,high,low,7,namesilo,,,
-4bc43f0c-bbe5-4e6a-94c0-7ec2a0537b0c,replacement.college,available,17.99,59.99,medium,low,11,namesilo,,,
+4bc43f0c-bbe5-4e6a-94c0-7ec2a0537b0c,replacement.college,available,17.99,59.99,high,low,11,namesilo,,,
 fb164276-886e-4f73-b19d-ef3f9d57cf0d,hotel.college,resell,,,high,medium,5,"Go Daddy, LLC",11/01/2026 08:03,11/01/2027 23:59,
-fc506036-4879-4826-82db-eae3fbe0eb7a,caracas.college,premium,625,,medium,low,7,name.com,,,
-ce6281c4-ffa9-482c-8410-cb4fba994d9c,impromptu.college,available,5,81.98,medium,low,9,namecheap,,,
-de16b09d-712c-40a5-9f6f-c2f0757f4b1f,alkalic.college,available,5,81.98,low,low,7,namecheap,,,
-4f5608a1-ec92-4979-89c8-c17ef6c57537,occupy.college,available,17.99,59.99,low,low,6,namesilo,,,23/09/2026 12:12
-fecd5494-1aa8-4388-b709-15dda8aa0d84,incase.college,available,29.99,,high,low,7,name.com,,,
+fc506036-4879-4826-82db-eae3fbe0eb7a,caracas.college,premium,625,,high,low,7,name.com,,,
+ce6281c4-ffa9-482c-8410-cb4fba994d9c,impromptu.college,available,5,81.98,high,low,9,namecheap,,,
+de16b09d-712c-40a5-9f6f-c2f0757f4b1f,alkalic.college,available,5,81.98,medium,low,7,namecheap,,,
 59a846be-8b8c-4e04-8884-60b057f367f6,landing.college,available,17.99,59.99,high,low,7,namesilo,,,
 fc93aa8f-88b4-4f39-8aee-8f089f5b0f9f,russian.college,available,29.99,,high,low,7,name.com,,,
-7b34cf8e-6eee-4e7e-a34e-a72f308f0045,boomorbust.college,available,17.99,59.99,high,low,12,namesilo,,,
-ddce1779-ce71-4681-bb1a-ac6a3381df62,discbrake.college,available,17.99,59.99,medium,low,10,namesilo,,,
-11d21cc7-ba6f-4258-9868-68e229f88bb1,fascinated.college,available,17.99,59.99,high,low,10,namesilo,,,
-737c3c63-f527-4184-a21c-540cbd3ee7dc,bloodtyping.college,available,29.99,,high,low,12,name.com,,,
 6b97af62-f3b8-4e35-9742-c0565f76b03a,director.college,available,17.99,59.99,high,low,8,namesilo,,,
 cf2ce863-d6f7-492f-9e0f-270520475976,profile.college,available,17.99,59.99,high,low,7,namesilo,,,
 3f01cf98-3670-4292-9ba8-32e94062af04,advice.college,premium,17.99,59.99,high,low,6,namesilo,,,
-5ce5e763-7651-420f-b7b5-e3b9f80f4442,urban.college,premium,625,,medium,low,5,name.com,,,
+5ce5e763-7651-420f-b7b5-e3b9f80f4442,urban.college,premium,625,,high,low,5,name.com,,,
 3527aaf7-82a7-4c73-9637-db19737de772,struggle.college,available,17.99,59.99,high,low,8,namesilo,,,
-6059249a-b9c7-471a-9128-d25bd869e482,notguilty.college,available,5,81.98,low,low,10,namecheap,,,
-9ad75858-dca1-4c5e-adc8-48cd1ca6f128,hellothere.college,available,17.99,59.99,high,low,11,namesilo,,,
 7fe8491f-71bc-43c5-abd6-2e37cbe5fc00,vandalism.college,available,17.99,59.99,medium,low,9,namesilo,,,
 3e50e20a-0e9f-40fc-96a7-a3eb24c3fc62,moldy.college,available,17.99,59.99,medium,low,5,namesilo,,,
-26c3ff09-dfc8-4ddb-87a0-78d1a9947397,cuisine.college,resell,,,high,low,7,"Go Daddy, LLC",29/09/2015 18:34,29/09/2026 23:59,
-b43e3e6a-b165-47fa-92d5-6e79d16ab4df,makehaste.college,available,17.99,59.99,high,low,10,namesilo,,,
-57e4b83d-6601-44ac-b53f-a0a704942c49,illusion.college,available,17.99,59.99,medium,low,8,namesilo,,,
-29e5c005-989f-4d8f-9713-aa3da5fe544d,enterinto.college,available,17.99,59.99,medium,low,10,namesilo,,,
-5a38b738-e092-4e6f-b27d-58318f3a4f61,amitotic.college,available,5,81.98,low,low,8,namecheap,,,
-b9470db8-f9f3-4dc3-b585-839e371e4140,abactinal.college,available,5,81.98,low,low,9,namecheap,,,
+b9470db8-f9f3-4dc3-b585-839e371e4140,abactinal.college,available,5,81.98,medium,low,9,namecheap,,,
 8b8415a2-56e9-42fb-9c2e-82fdb5bdcde4,booklist.college,available,17.99,59.99,high,low,8,namesilo,,,
 9e7ba2e8-d5a1-43af-b4d0-c81eed4a7451,browser.college,available,17.99,59.99,high,low,7,namesilo,,,
-7e4a6d49-90de-4528-a581-242bead35a5e,affirmable.college,available,5,81.98,low,low,10,namecheap,,,
-e277f4b3-044b-41bf-ae4a-e08b51256013,aestival.college,available,5,81.98,low,low,8,namecheap,,,
-b4181859-d000-4bea-a1b1-a74dea0fe5b6,atthesametime.college,available,17.99,59.99,high,low,16,namesilo,,,
-9321cd13-845d-4f9f-b27b-a19b5710f937,lettersize.college,available,17.99,59.99,medium,low,11,namesilo,,,
+7e4a6d49-90de-4528-a581-242bead35a5e,affirmable.college,available,5,81.98,medium,low,10,namecheap,,,
+e277f4b3-044b-41bf-ae4a-e08b51256013,aestival.college,available,5,81.98,medium,low,8,namecheap,,,
 5fa8301c-39b6-4834-b115-aa7f2a33bf1e,courtyard.college,available,17.99,59.99,high,low,9,namesilo,,,
-971efda6-266e-4f4c-97b3-31426be3d818,workethic.college,available,17.99,59.99,high,low,10,namesilo,,,
-7fef0abe-2b7f-4c78-bb7d-08cf1f9f703f,buzzing.college,available,5,81.98,low,low,7,namecheap,,,
-7f740e84-c128-4e08-8ca7-78e62597b0cb,journal.college,available,1.5,81.98,medium,low,7,namecheap,,,19/09/2026 18:05
-726b0f6e-484a-4947-92f4-cb996c3545e7,physically.college,available,1.5,81.98,low,low,10,namecheap,,,19/09/2026 14:53
-07f5d6c4-33a2-4020-a84b-c3dc32058b48,punk.college,available,17.99,59.99,low,low,4,namesilo,,,23/09/2026 11:14
+7fef0abe-2b7f-4c78-bb7d-08cf1f9f703f,buzzing.college,available,5,81.98,high,low,7,namecheap,,,
 1b01abe2-a839-47a0-87b4-ae2cabc1e0c1,strong.college,available,17.99,59.99,high,low,6,namesilo,,,
-e660e77d-e5fe-46ad-b20b-e09917c81022,playing.college,available,17.99,59.99,medium,low,7,namesilo,,,21/09/2026 16:27
-cf7994a2-ac5e-4835-b3d5-fe5d0f859d24,liveblog.college,available,17.99,59.99,high,low,9,namesilo,,,
-0caf9653-2a14-4cee-8afb-e66e3fdcd056,whocares.college,available,29.99,,low,low,9,name.com,,,
-82a7a1d5-d687-4a85-8055-bf320a295c62,backhand.college,available,5,81.98,low,low,8,namecheap,,,08/08/2026 05:43
-f9781123-aeb0-40da-8364-9afde41d8e15,takeonboard.college,available,17.99,59.99,medium,low,13,namesilo,,,
+82a7a1d5-d687-4a85-8055-bf320a295c62,backhand.college,available,5,81.98,high,low,8,namecheap,,,08/08/2026 05:43
 1deed266-1803-42fd-8df0-54caf0da369c,profess.college,available,17.99,59.99,high,low,7,namesilo,,,
-54089056-e060-4abc-86dd-8a40667713e2,alley.college,available,17.99,59.99,medium,low,5,namesilo,,,
+54089056-e060-4abc-86dd-8a40667713e2,alley.college,available,17.99,59.99,high,low,5,namesilo,,,
 20d63fe1-f9d1-4327-91d4-2f2cb3434dcd,discredit.college,available,17.99,59.99,high,low,9,namesilo,,,
-35e6a16b-2cea-41b1-a237-9a3db25f5deb,allovertheboard.college,available,17.99,59.99,medium,low,18,namesilo,,,
-e811cc74-771c-4ac0-ba0f-eb82fbbede37,xxii.college,available,17.99,59.99,low,low,4,namesilo,,,21/09/2026 12:40
-5ae46028-dae9-4d1d-86b3-e1c4bfd9198e,pissedoff.college,available,,,low,low,10,,,,
-6def2c5b-efff-4d4d-a2e4-f08873d3d5ab,ixc.college,available,5,81.98,low,low,3,namecheap,,,
+6def2c5b-efff-4d4d-a2e4-f08873d3d5ab,ixc.college,available,5,81.98,medium,low,3,namecheap,,,
 158a2eae-49b3-4585-89f9-dfb54143b118,granny.college,available,29.99,,high,low,6,name.com,,,
-25ce1606-430e-4305-ba56-90a7dae3e036,whogoesthere.college,available,29.99,,low,low,14,name.com,,,
 a6d53657-0b89-46ac-a4ee-a8966aa95e74,slide.college,available,17.99,59.99,high,low,5,namesilo,,,
-2b9311d9-5b1a-4f47-bff5-19e9cc249a40,mouthoff.college,available,29.99,,low,low,9,name.com,,,
 5734c55c-77ef-48d3-a406-9e4d0a40b6e6,boo.college,available,29.99,,high,low,3,name.com,,,
-94fbf7de-9a31-46a6-aab3-abc8d2a0b31d,deviate.college,available,5,81.98,low,low,7,namecheap,,,
+94fbf7de-9a31-46a6-aab3-abc8d2a0b31d,deviate.college,available,5,81.98,high,low,7,namecheap,,,
 f5f9ab89-af96-41dc-b70e-1d4b13648cf9,nightmare.college,available,17.99,59.99,high,low,9,namesilo,,,
-8247b661-6fc0-4d2f-ad13-c21a8ea096b5,dough.college,available,1.5,81.98,medium,low,5,namecheap,,,08/09/2026 03:53
-a2347f2a-795b-4564-b8a8-0da5b16fd671,vincible.college,available,5,81.98,low,low,8,namecheap,,,09/08/2026 05:42
-33942413-8100-48f3-9cbc-07f2b43196d9,closein.college,available,17.99,59.99,high,low,8,namesilo,,,
-db4b2e1d-728d-4303-b573-dadc48cd075b,sleepwith.college,available,29.99,,low,low,10,name.com,,,
-aef0dbdb-c3ed-469f-8c27-d3ca02222d57,southafrica.college,available,,,low,low,12,,,,
-e46c87c1-9602-4199-b2b9-daa3e92824b9,givenotice.college,available,17.99,59.99,medium,low,11,namesilo,,,
-f09a391a-2240-4c3a-816c-63cb20b08213,ankledeep.college,available,5,81.98,low,low,10,namecheap,,,
+8247b661-6fc0-4d2f-ad13-c21a8ea096b5,dough.college,available,1.5,81.98,high,low,5,namecheap,,,08/09/2026 03:53
+a2347f2a-795b-4564-b8a8-0da5b16fd671,vincible.college,available,5,81.98,medium,low,8,namecheap,,,09/08/2026 05:42
 71a42157-28ca-404a-a00a-a16949c6ce44,loyal.college,available,17.99,59.99,high,low,5,namesilo,,,
 45831c1b-e8dc-449c-ba44-4afeab705598,icu.college,premium,242,242,high,low,3,namesilo,,,
 2b833334-b929-4fc9-afd5-12c768a9a5cd,explain.college,available,17.99,59.99,high,low,7,namesilo,,,
 80d81a95-1a07-4f80-b134-3dda24eab84b,mode.college,available,17.99,59.99,high,low,4,namesilo,,,
-002a325c-6988-4402-ada3-640b982b231c,foodbank.college,available,17.99,59.99,high,low,9,namesilo,,,
-bea78ba0-4b35-4ba8-b0b6-b988a926ed63,actable.college,available,5,81.98,low,low,7,namecheap,,,
-24ac4677-6709-45ec-b259-f2a45a019f28,appendant.college,available,5,81.98,low,low,9,namecheap,,,06/08/2026 06:34
-54157fcb-166f-4c33-acad-323c740f518b,creepy.college,available,17.99,59.99,low,low,6,namesilo,,,24/09/2026 01:42
-198274f2-8146-41cc-b4dd-0395e73af05f,balticsea.college,available,5,81.98,low,low,10,namecheap,,,08/08/2026 10:45
-f72e0ae4-eed4-4862-ab44-3b1f621dcfe0,northkorea.college,available,17.99,59.99,low,low,11,namesilo,,,
-76f9c21b-256d-455b-8bb9-cb64af0bd478,ilx.college,available,5,81.98,low,low,3,namecheap,,,
+bea78ba0-4b35-4ba8-b0b6-b988a926ed63,actable.college,available,5,81.98,medium,low,7,namecheap,,,
+76f9c21b-256d-455b-8bb9-cb64af0bd478,ilx.college,available,5,81.98,medium,low,3,namecheap,,,
 04e49863-1c22-4365-9623-79e99e13abcb,pita.college,available,17.99,59.99,high,low,4,namesilo,,,
-feadd854-0735-4529-b507-147ff8b4fc5c,seventeen.college,available,17.99,59.99,medium,low,9,namesilo,,,19/09/2026 06:27
-2217a7e3-6b45-4bf0-918f-fd4d62b89a03,inplaceof.college,available,17.99,59.99,medium,low,11,namesilo,,,
-95290939-79d7-42a6-92b1-f17b26a3c618,basaltic.college,available,5,81.98,low,low,8,namecheap,,,08/08/2026 21:29
-a34fa4f8-4cab-407f-ba06-16e5318f8148,flee.college,available,17.99,59.99,medium,low,4,namesilo,,,
-af04ae53-09fb-4c16-a6ae-37b53d7b1b26,actiondoll.college,available,17.99,59.99,high,low,11,namesilo,,,
-caa79e38-897a-40ee-9d39-7adc60195344,bones.college,available,29.99,,medium,low,5,name.com,,,
-ad8fdc22-94d6-4efb-8e68-37bec4794b9a,fellowtravel.college,available,17.99,59.99,medium,low,13,namesilo,,,
-3c587582-524c-4aa1-92bf-b1ed68e0fe51,rgb.college,available,17.99,59.99,medium,low,3,namesilo,,,
-18cafa19-9257-4488-9126-8f959957b151,spaceshuttle.college,available,17.99,59.99,high,low,13,namesilo,,,
-52f522f7-ad2a-4e6c-b33e-0efa26fd674d,ethnic.college,available,29.99,,high,low,6,name.com,,,
-16f3b05e-6553-4010-950c-3340d751cd6f,heavyhearted.college,available,17.99,59.99,medium,low,13,namesilo,,,
-7859a38d-a03e-4de7-9b32-d3b4f4fd5245,animals.college,available,29.99,,medium,low,7,name.com,,,
-47349765-829b-4cc8-8ddc-92a6de0c5400,lovesome.college,available,5,81.98,low,low,8,namecheap,,,
+95290939-79d7-42a6-92b1-f17b26a3c618,basaltic.college,available,5,81.98,medium,low,8,namecheap,,,08/08/2026 21:29
+a34fa4f8-4cab-407f-ba06-16e5318f8148,flee.college,available,17.99,59.99,high,low,4,namesilo,,,
+caa79e38-897a-40ee-9d39-7adc60195344,bones.college,available,29.99,,high,low,5,name.com,,,
+3c587582-524c-4aa1-92bf-b1ed68e0fe51,rgb.college,available,17.99,59.99,high,low,3,namesilo,,,
+7859a38d-a03e-4de7-9b32-d3b4f4fd5245,animals.college,available,29.99,,high,low,7,name.com,,,
+47349765-829b-4cc8-8ddc-92a6de0c5400,lovesome.college,available,5,81.98,high,low,8,namecheap,,,
 896de3cb-dcda-4f5b-bd8f-b90d8557c128,qualitative.college,available,17.99,59.99,high,low,11,namesilo,,,
-46e1651c-1ab4-4d43-b2bf-00a02afcf4ce,themasses.college,available,17.99,59.99,low,low,10,namesilo,,,
-68b5d788-00a8-44c9-88de-f2d6feff8220,acronymic.college,available,5,81.98,low,low,9,namecheap,,,
-1757a299-9951-4eee-9231-9baf6a0bcf0a,sighted.college,available,17.99,59.99,medium,low,7,namesilo,,,
-5526e397-bc39-49f5-829d-82c608e61e2f,westlake.college,available,17.99,59.99,medium,low,8,namesilo,,,
-9b62fd4e-65eb-455a-8368-a97b006704cd,siamesecat.college,available,17.99,59.99,high,low,11,namesilo,,,
+1757a299-9951-4eee-9231-9baf6a0bcf0a,sighted.college,available,17.99,59.99,high,low,7,namesilo,,,
+5526e397-bc39-49f5-829d-82c608e61e2f,westlake.college,available,17.99,59.99,high,low,8,namesilo,,,
 57d105a5-b77a-4f51-bdb9-b2023e9969b6,kind.college,resell,,,high,low,4,"Go Daddy, LLC",25/01/2024 16:55,25/01/2027 23:59,
 f378ab91-e16b-4f2e-bdca-f642b989c3fd,send.college,available,29.99,,high,low,4,name.com,,,
+31bcb970-eeaa-45df-9aed-e1b61e9df88e,reporting.college,available,17.99,59.99,high,low,9,namesilo,,,
+a3e9b670-160b-4522-89e5-1dcc53368d76,atomistic.college,available,5,81.98,low,low,9,namecheap,,,07/08/2026 13:42
+7cd6b739-6f46-4f53-ad0a-22f99954d4aa,indentured.college,available,5,81.98,medium,low,10,namecheap,,,06/08/2026 08:34
+5b57b0ea-206c-4653-8a53-b4b16950eb2e,attraction.college,available,17.99,59.99,high,low,10,namesilo,,,
+3b2820ae-db3b-423d-b9ec-90a3b2ac0939,cement.college,available,17.99,59.99,high,low,6,namesilo,,,
+06178e07-eb02-43b0-9177-072869a3ca3c,enraged.college,available,5,81.98,medium,low,7,namecheap,,,
+3c289ee2-f141-4bbb-9753-d456553053ab,fictive.college,available,5,81.98,medium,low,7,namecheap,,,07/08/2026 07:55
+1baec816-3169-4376-81eb-757833548597,alamo.college,available,17.99,59.99,high,medium,5,namesilo,,,
+875a2674-1599-4990-be74-34d86b9171de,coast.college,available,17.99,59.99,high,low,5,namesilo,,,
+b69d8939-c996-4149-bb9f-3b3068a9ad67,inviting.college,available,17.99,59.99,high,low,8,namesilo,,,
+c653de1a-8383-49f9-a0a1-687671d9d5bb,locally.college,available,29.99,,high,low,7,name.com,,,
+f0265900-7670-4ecd-826b-c6b263e5d0d7,yelled.college,available,17.99,59.99,high,low,6,namesilo,,,
+a38fb5a5-5778-4796-93ec-0e251ffc2694,grouchy.college,available,5,81.98,medium,low,7,namecheap,,,08/08/2026 07:52
+ce3f8509-b0a2-4337-9569-b19ba876683a,anymore.college,available,17.99,59.99,high,low,7,namesilo,,,
+00a1d711-f054-47c9-b0ce-c566e24674ca,unique.college,available,17.99,59.99,high,medium,6,namesilo,,,
+53ce00c7-3bf6-4dda-b686-93a8b4c0aca8,spreadsheet.college,available,17.99,59.99,high,low,11,namesilo,,,
+6868c247-4b94-4a47-8128-1d024f8113f5,bothersome.college,available,5,81.98,medium,low,10,namecheap,,,
+11d86e44-cc31-4fbe-97f7-e64a9e70567b,loosely.college,available,17.99,59.99,medium,low,7,namesilo,,,
+91f56d3d-bb06-49e7-9e7f-543ddacd7e0b,highly.college,available,17.99,59.99,high,low,6,namesilo,,,
+69408be9-3242-4cfd-992b-9a5428fa9707,nowadays.college,available,17.99,59.99,high,low,8,namesilo,,,
+c11baf4b-87dd-4e97-bcc3-8609332ad464,aboulic.college,available,5,81.98,medium,low,7,namecheap,,,
+4e0a6107-c47f-4e0a-acf5-45a9d5b08ac3,fig.college,available,17.99,59.99,high,low,3,namesilo,,,
+6e8edf58-a9d0-4d06-8b68-f2a67a413afc,province.college,available,17.99,59.99,high,low,8,namesilo,,,
+2e448ced-73a6-4366-829c-083b72df7666,retain.college,available,17.99,59.99,high,low,6,namesilo,,,
+1c4a2cf1-8281-4470-80f5-242f248ced9d,wholesome.college,available,17.99,59.99,high,low,9,namesilo,,,
+24f37493-68f2-44af-ba33-cbcf16c3dba7,shall.college,available,17.99,59.99,high,low,5,namesilo,,,
+23a542d9-3cd9-45dc-a831-e35f0f863567,shaft.college,available,17.99,59.99,high,low,5,namesilo,,,
+03f26f67-4f6d-488c-bde8-294a44961a29,follower.college,available,17.99,59.99,high,low,8,namesilo,,,
+f574726d-816c-4756-9e8d-153d0987b35b,overjoy.college,available,17.99,59.99,high,low,7,namesilo,,,
+7f8ca4c8-b42d-41ee-a414-a838235b0d5d,thirty.college,available,5,81.98,high,low,6,namecheap,,,
+7c451bcc-2d25-4f05-b587-3197f2ec9032,anodic.college,available,5,81.98,high,low,6,namecheap,,,
+5c464aca-7bac-4af2-ac19-c639f184535f,pollen.college,available,17.99,59.99,high,low,6,namesilo,,,
+c1e25a05-df3c-4223-b654-8bb1a4bc0e77,streets.college,available,17.99,59.99,high,low,7,namesilo,,,
+00fa961c-647d-4f8b-b0ec-ff446c2c5824,mediocre.college,available,17.99,59.99,high,low,8,namesilo,,,
+abb2691f-c43d-4546-898e-92d549fa5310,danger.college,available,29.99,,high,low,6,name.com,,,
+4df189c9-4615-49d0-9c7e-c47df208eb8a,ashen.college,available,5,81.98,medium,low,5,namecheap,,,07/08/2026 02:09
+a9c08f44-7d03-4c39-b6b2-44f599933030,rare.college,available,17.99,59.99,high,medium,4,namesilo,,,
+2e89882d-7975-4394-a994-dc7d13282757,outlook.college,available,,,high,low,7,,,,
+86bfbfb9-b50d-4cf2-a67a-14f675290785,along.college,available,17.99,59.99,high,high,5,namesilo,,,
+38aa9ba2-dbd4-4c97-b8a3-fee1087b9e99,apiarian.college,available,5,81.98,medium,low,8,namecheap,,,05/08/2026 23:53
+3f31cca1-5d40-48f0-9872-abd44a5b4da9,acetic.college,available,5,81.98,medium,low,6,namecheap,,,
+1f864301-99cd-42cb-b26b-1fbe712d893a,tks.college,available,17.99,59.99,high,low,3,namesilo,,,
+faedda78-056f-4807-9d0a-d92443856679,grape.college,available,29.99,,high,low,5,name.com,,,
+1b14ffe2-a514-433a-bede-18f6a4aa05a9,advertisement.college,premium,625,,high,low,13,name.com,,,
+09b78b42-ea0f-49a9-94f0-f92a44019844,panoplied.college,available,5,81.98,medium,low,9,namecheap,,,06/08/2026 21:42
+3621e0ea-7935-4bce-9507-df53db01c60c,lunar.college,available,17.99,59.99,high,low,5,namesilo,,,
+ca1ebda1-8222-409d-a1e1-6a354dfeea8c,accurst.college,available,5,81.98,medium,low,7,namecheap,,,
+46fa118d-8f0c-461c-8768-d3c4e724c828,annalistic.college,available,5,81.98,high,low,10,namecheap,,,
+bf6e86ff-0c39-454d-a57b-8de20916e07c,affinal.college,available,5,81.98,medium,low,7,namecheap,,,
+b50f7f91-12e0-4fcf-8848-e0795aa1ea75,painkiller.college,available,5,81.98,high,low,10,namecheap,,,
+f6079584-a75f-4a83-a7f7-1f4ab52235d2,varied.college,available,17.99,59.99,high,low,6,namesilo,,,
+3976681a-52a4-4e8e-a0fb-9598ba695c00,anti.college,available,5,81.98,high,low,4,namecheap,,,
+cf656cfb-c25c-4fff-89cd-769c1a2d339b,hence.college,available,29.99,,high,low,5,name.com,,,
+9ca7507f-0bfb-44dd-b53d-438b98027c86,california.college,premium,12500,,high,low,10,name.com,,,
+eac3c4ba-1920-4fc5-a4db-650195d02a17,analog.college,available,5,81.98,high,low,6,namecheap,,,
+e6aab83b-7888-4004-810b-9c60ff79f74a,dubstep.college,available,17.99,59.99,high,low,7,namesilo,,,
+e547681b-0035-474d-b43b-ece098bac5c9,achromic.college,available,5,81.98,medium,low,8,namecheap,,,
+a7bc5b73-4da7-4d0c-9e8a-fee769204094,beady.college,available,5,81.98,medium,low,5,namecheap,,,09/08/2026 03:23
+23bf3e55-b963-483c-b226-835f6ea6e4c6,viewer.college,available,17.99,59.99,high,low,6,namesilo,,,
+1cc68c58-9921-4634-90c9-702b1ac237a9,allotropic.college,available,5,81.98,medium,low,10,namecheap,,,
+b70c7935-3c4f-419f-9832-00dca46046cc,call.college,premium,12500,,high,low,4,name.com,,,
+931dce91-a53c-41bb-9ace-3b0ecf0a626e,length.college,available,17.99,59.99,high,low,6,namesilo,,,
+bbcdabca-4d2b-4c92-a982-2c858396f40c,exhibition.college,available,17.99,59.99,high,low,10,namesilo,,,
+0add6cf2-ad0f-4615-8cdf-8301a580c53a,keep.college,available,29.99,,high,low,4,name.com,,,
+f30524d7-60e2-4056-8ad7-8e4c8b4d89c6,arouse.college,available,5,81.98,high,low,6,namecheap,,,07/08/2026 23:59
+b127a21a-ddab-4b88-9bfb-09bc7c81078b,cxv.college,available,5,81.98,high,low,3,namecheap,,,
+2fb95423-f284-495c-b27e-7aedaf1eb5e3,work.college,premium,12500,,high,medium,4,name.com,,,
+a7c8a505-8810-482e-a1db-600c000f0fa1,provoke.college,available,17.99,59.99,high,low,7,namesilo,,,
+afc07cbd-bee8-46e3-8b0c-920937eed49a,minute.college,available,17.99,59.99,high,low,6,namesilo,,,
+fe35e820-af0e-44f7-9fda-331092fb1318,fate.college,available,17.99,59.99,high,low,4,namesilo,,,
+9ce3e6fc-8c3f-4831-85e1-b29720157ce3,zesty.college,available,5,81.98,high,low,5,namecheap,,,08/08/2026 20:02
+7fa618d7-b6b9-4c52-bd82-5a255498c50c,chairwoman.college,available,17.99,59.99,high,low,10,namesilo,,,
+6f5cd9b0-53fd-4c66-9fd3-c2f9cf45c97a,retarded.college,available,29.99,,high,low,8,name.com,,,
+38bf2081-192c-47c2-99fb-7b41e20c72fa,anecdotal.college,available,5,81.98,high,low,9,namecheap,,,
+2a48e419-262c-41aa-8fab-f1000963f18c,apologize.college,available,17.99,59.99,high,low,9,namesilo,,,
+209df84f-2911-49c6-8635-c7666b4e5a11,territory.college,available,17.99,59.99,high,low,9,namesilo,,,
+ec7d91c4-cbf3-42c6-b00d-b078f21e1d1a,appeal.college,available,29.99,,high,low,6,name.com,,,
+f2ea7750-7f67-46ec-bbab-cb09069f1bfc,sophisticated.college,available,17.99,59.99,high,low,13,namesilo,,,
+ec8a8085-5fad-4396-8ce4-023561bcc9b7,martha.college,available,17.99,59.99,high,low,6,namesilo,,,
+26d5d6b9-7fdd-494d-ab49-5fe9f2f1b773,aroid.college,available,5,81.98,medium,low,5,namecheap,,,06/08/2026 11:30
+be6214e0-7718-4f94-b96a-3b8b29ac80ec,clowning.college,available,17.99,59.99,high,low,8,namesilo,,,
+ed087435-5f4e-482a-8e1f-8f347097a2fc,turnabout.college,available,17.99,59.99,high,low,10,namesilo,,,
+b3731bcf-4fa8-40d0-aff6-c4f4c2160ecb,hands.college,available,1.5,81.98,high,low,5,namecheap,,,08/09/2026 04:01
+29293cd8-c676-4e59-b23c-28be4a49c759,vegetarian.college,available,17.99,59.99,high,low,10,namesilo,,,
+31014a9a-3c23-4cbd-a57f-e4f4918e330e,compete.college,available,17.99,59.99,high,low,7,namesilo,,,
+a74f11b4-21e1-4b5c-bda1-bcea7f07a560,felt.college,available,17.99,59.99,high,low,4,namesilo,,,
+56cde97c-e26a-4956-a5a5-50508a797aaf,nearest.college,available,17.99,59.99,high,low,7,namesilo,,,
+981adf76-01eb-4cfa-ac22-291bbb128f13,bricks.college,available,17.99,59.99,high,low,6,namesilo,,,
+25df2028-e465-4ec0-b0c0-796b8b42471e,bruise.college,available,17.99,59.99,high,low,6,namesilo,,,
+2e5f9b78-7f97-4268-b32a-f086988a47d9,wish.college,available,17.99,59.99,high,low,4,namesilo,,,
+eeecd8b3-04ba-4856-937f-a5ac083193e2,worked.college,available,17.99,59.99,high,low,6,namesilo,,,
+57ec1567-f5f8-4a0c-80ab-4dcfe631d2c3,lxxxvi.college,available,5,81.98,medium,low,6,namecheap,,,
+d56bca49-0d13-48a7-90dc-749df0a2eb1b,alkalizer.college,available,5,81.98,medium,low,9,namecheap,,,
+bd048ad8-bc0b-4db1-aa1c-c7671c01b3b3,punter.college,available,17.99,59.99,high,low,6,namesilo,,,
+b0c999a1-7b63-4880-9594-bc9c49a01f6b,principal.college,available,17.99,59.99,high,low,9,namesilo,,,
+8f099a9d-9b2d-479d-b240-ee3a0a073336,priceless.college,available,17.99,59.99,high,medium,9,namesilo,,,
+02e17c4f-a0b4-4434-96c2-05ff26d00182,value.college,available,17.99,59.99,high,low,5,namesilo,,,
+6e15309f-8870-4edf-ae96-2c56ff1be5e2,aspirer.college,available,5,81.98,medium,low,7,namecheap,,,07/08/2026 05:12
+dfadd8c7-b7d4-437c-b17f-3a261423ca52,everyone.college,available,29.99,,high,low,8,name.com,,,
+8befd486-ba4a-4e22-846d-ece7706c96de,especially.college,available,29.99,,high,low,10,name.com,,,
+4768bc5a-2b06-40d8-9290-d7888c2efb17,clash.college,available,17.99,59.99,high,low,5,namesilo,,,
+da5ae0e5-f96b-4b41-b428-e0c134e7c74f,dollar.college,available,17.99,59.99,high,low,6,namesilo,,,
+a159325a-983a-492b-a064-8379646a0a34,flowers.college,premium,12500,,high,medium,7,name.com,,,
+895573a9-6744-4967-aa98-d5bcf50690a8,rhythmic.college,available,29.99,,high,low,8,name.com,,,
+6dadf21c-910f-486b-a0bb-8e0266be4b55,indifferent.college,available,17.99,59.99,high,low,11,namesilo,,,
+14576cdf-2e45-40b4-8186-1af1a4039837,someone.college,available,17.99,59.99,high,low,7,namesilo,,,
+3abcdfa9-d868-4660-8e9b-e4e0c822ab57,physic.college,available,5,81.98,high,low,6,namecheap,,,05/08/2026 22:25
+e832b71d-011c-45e3-99de-1834dde56f6f,acronym.college,available,17.99,59.99,high,low,7,namesilo,,,
+06f53bb0-edf2-4a10-a135-f5d117018ba8,selected.college,available,17.99,59.99,high,low,8,namesilo,,,
+5d4c8aef-bcfe-4d00-b9fe-0bd85c975296,adding.college,available,17.99,59.99,high,low,6,namesilo,,,
+0150cbd7-5997-42e0-9c45-c47499a1fb25,aware.college,available,17.99,59.99,high,low,5,namesilo,,,
+847ebe4c-e6e5-454e-a292-812207619665,insufficient.college,available,17.99,59.99,medium,low,12,namesilo,,,
+11ef097b-6308-496a-8d38-fbe5fc96651e,acetabular.college,available,5,81.98,medium,low,10,namecheap,,,
+21a77812-7acb-46b5-a501-b7e5c821358a,aired.college,available,5,81.98,high,low,5,namecheap,,,
+6222d885-f475-46c7-a999-d78ee480a77a,brightness.college,available,29.99,,high,low,10,name.com,,,
+a678e65f-a73b-492d-94c0-a33d896a4fd2,flush.college,available,5,81.98,high,low,5,namecheap,,,
+291cf887-91f4-49ed-a2fc-a9fd9d412d8d,flack.college,available,5,81.98,medium,low,5,namecheap,,,
+588b6817-768d-4d89-ad0a-0a2476eaf9a2,heel.college,available,17.99,59.99,high,low,4,namesilo,,,
+fa2c715c-6b18-4857-bb9d-f63caa1f6384,torn.college,available,17.99,59.99,high,low,4,namesilo,,,
+5e8f0a3c-a732-4169-8d97-520a21d36bfa,satisfy.college,available,17.99,59.99,high,low,7,namesilo,,,
+b93bdca2-3f32-4bd6-9cfb-3a89c160a83a,kamikaze.college,available,17.99,59.99,medium,low,8,namesilo,,,
+79325c82-8318-47e1-b90f-f168315e50dd,departed.college,available,5,81.98,medium,low,8,namecheap,,,07/08/2026 11:31
+463bc47a-8d28-4ed2-8348-8ea476125155,bearded.college,available,5,81.98,high,low,7,namecheap,,,08/08/2026 16:05
+ecb4a949-e86b-497c-85ba-8f3ff1a8e69a,gramme.college,available,17.99,59.99,high,low,6,namesilo,,,
+38505949-d526-44bd-b881-4fa80ed64a8d,maddened.college,available,5,81.98,medium,low,8,namecheap,,,
+22a49fa7-05fd-43b2-83b6-09c26cfe1613,gandhi.college,available,17.99,59.99,high,low,6,namesilo,,,
+f2ec3f2a-6b39-41de-8c87-e9fcbd8244b8,fibre.college,available,17.99,59.99,high,low,5,namesilo,,,
+4912a784-ecac-4bb2-a8d2-6762bc990b20,wakening.college,available,17.99,59.99,high,low,8,namesilo,,,
+a9e7ecc4-4982-4b8c-974d-66b7e1329725,whereas.college,available,29.99,,high,low,7,name.com,,,
+8555ae87-5ccf-4208-98ac-d6955126b895,tip.college,available,17.99,59.99,high,low,3,namesilo,,,
+21a96b9a-bad2-45c6-ba21-8af37fdf35db,bern.college,available,17.99,59.99,high,low,4,namesilo,,,
+57c31b1b-9108-473e-92c2-bbf67021cef8,suppose.college,available,17.99,59.99,high,low,7,namesilo,,,
+73f5b22b-9d73-41d6-bdab-4ed24e38a983,lake.college,available,17.99,59.99,high,low,4,namesilo,,,
+d06bfb86-5849-4020-88e4-8e22179ecbad,adient.college,available,5,81.98,medium,low,6,namecheap,,,
+1d8dac8d-c2ef-4f11-85c7-db8f74dfaf35,scarface.college,available,17.99,59.99,high,low,8,namesilo,,,
+848eacfd-3ca7-4bb8-b071-61a32665e13c,escaped.college,available,5,81.98,medium,low,7,namecheap,,,07/08/2026 11:22
+86f24287-455a-4073-88af-89fbdde324df,abounding.college,available,5,81.98,high,low,9,namecheap,,,
+9bc7986f-4273-40be-92d8-4e9791d7e490,neighbour.college,available,17.99,59.99,high,low,9,namesilo,,,
+20c5746d-44e2-42d4-b2b3-940f6fc15de4,hannukah.college,available,17.99,59.99,high,low,8,namesilo,,,
+110bde52-fd43-4382-8482-51b8f4b471b4,nates.college,available,5,81.98,medium,low,5,namecheap,,,09/08/2026 10:31
+c202cbc5-2c9e-4c91-b9db-ab07ebbfd1c0,services.college,premium,260,260,high,low,8,namecheap,,,
+3f2dd23d-2f22-4856-94a9-9d5675f2e41c,abaft.college,available,5,81.98,low,low,5,namecheap,,,
+b32506f2-6daf-4829-abb2-ef19c8d30741,belt.college,available,17.99,59.99,high,low,4,namesilo,,,
+df89f60b-d1bd-4a87-a892-694b0dabae6f,musical.college,available,17.99,59.99,high,low,7,namesilo,,,
+a3e1c9d0-aa13-441f-a8b2-4b7f403cb1da,awe.college,available,17.99,59.99,high,low,3,namesilo,,,
+20a54fee-62bc-4bb0-bd1a-8d16d2ae0cc6,beneath.college,available,17.99,59.99,medium,low,7,namesilo,,,
+526f60d4-8f72-466a-9cbb-1c3586720f0d,field.college,available,17.99,59.99,high,low,5,namesilo,,,
+4b288407-e97f-44fc-8ccf-b3e52ad1ff4a,bearish.college,available,5,81.98,medium,low,7,namecheap,,,09/08/2026 04:48
+2f97ebaf-c300-499a-8d06-5b76d5f33756,function.college,available,17.99,59.99,high,low,8,namesilo,,,
+1fbef568-90df-4a93-9076-2e526a465a71,aluminous.college,available,5,81.98,medium,low,9,namecheap,,,
+d8f8862f-f6e8-4c27-8df8-2b30a8166ce0,universally.college,available,17.99,59.99,high,low,11,namesilo,,,
+87df067e-dbd1-40b7-a2e5-242ec7e3eaea,swastika.college,available,29.99,,medium,low,8,name.com,,,
+46335563-5ae5-48bc-87bd-158466bc95e8,buzzed.college,available,17.99,59.99,high,low,6,namesilo,,,
+10396aed-e997-434b-8c2d-c95c37016884,lower.college,available,17.99,59.99,high,low,5,namesilo,,,
+08d57b20-0067-4f78-b1c4-558dd36485c0,location.college,available,17.99,59.99,high,low,8,namesilo,,,
+ed13d475-ca8b-42ef-81d7-1d9856ef919b,consultant.college,available,17.99,59.99,high,low,10,namesilo,,,
+d3a6c80b-c13e-46da-a592-eb48b224a853,concluded.college,available,5,81.98,high,low,9,namecheap,,,
+1286d1b6-09b8-4dc1-9c0c-f8e64e5481fb,covering.college,available,17.99,59.99,high,low,8,namesilo,,,
+b463ddda-1354-40c1-bd3a-dce98160e9d2,huge.college,available,17.99,59.99,high,low,4,namesilo,,,
+193bb1a8-7d12-4645-8d1d-a5c53ae4d476,lap.college,available,17.99,59.99,high,low,3,namesilo,,,
+78104ade-d018-4d06-a3ce-2205debb12ca,apostate.college,available,5,81.98,medium,low,8,namecheap,,,06/08/2026 03:35
+bfd30124-d88f-4be4-8b25-a88d0d5b8748,apophatic.college,available,5,81.98,medium,low,9,namecheap,,,06/08/2026 02:27
+3867b01b-62d2-45cd-8b1d-7fe3995c838a,saturday.college,available,17.99,59.99,high,low,8,namesilo,,,
+9dc57630-4edc-448f-b8e4-0e6423fc906b,adulterous.college,available,5,81.98,medium,low,10,namecheap,,,
+4697cf16-252f-4a3b-9a9d-053e0674feca,assure.college,available,17.99,59.99,high,low,6,namesilo,,,
+1c56bd30-863e-4fb8-85ec-83c6c3599d30,youth.college,resell,,,high,low,5,Namecheap,22/09/2025 20:09,22/09/2026 23:59,
+6234b221-10d7-413d-aa87-cf0872cb2d91,forty.college,available,5,81.98,high,low,5,namecheap,,,
+6691718f-dfe8-42de-928c-4197d49704dd,hover.college,available,17.99,59.99,high,low,5,namesilo,,,
+94737691-3f9e-47ca-a337-ef83bd6065f6,lying.college,available,17.99,59.99,high,low,5,namesilo,,,
+731806c5-c9b3-4631-9dcc-ebd8c41d36f1,eighth.college,available,5,81.98,high,low,6,namecheap,,,
+d67be1ce-e9df-4213-89c8-cca740682efd,linear.college,available,5,81.98,high,low,6,namecheap,,,
+cad6c806-3eb2-4105-ab8b-8fd83471c1c3,rebellion.college,available,17.99,59.99,high,low,9,namesilo,,,
+1efad98b-b9fe-409f-acc9-687ebc5437cf,enwrapped.college,available,5,81.98,medium,low,9,namecheap,,,
+9a55c9e2-d5ba-46aa-947e-b7c130f70c8b,builder.college,available,17.99,59.99,high,low,7,namesilo,,,
+65d23ef8-0b8f-409b-beed-e21691bca320,running.college,premium,242,242,high,low,7,namesilo,,,
+446904ae-3caa-459e-8f35-feb26d2d0641,attention.college,available,17.99,59.99,high,low,9,namesilo,,,
+92754c6d-3c7e-412b-a4d7-2458ca7a4618,sloth.college,available,17.99,59.99,high,low,5,namesilo,,,
+d2bb55a4-a6f2-4a31-9c53-4558a207b416,retirement.college,premium,625,,high,low,10,name.com,,,
+02a92ad8-1b9f-4759-af9b-dab99f83bfa4,paddle.college,premium,242,242,high,high,6,namesilo,,,
+fbe2db28-5acc-4ee6-a9d5-67280ad1ef4c,eased.college,available,5,81.98,high,low,5,namecheap,,,
+a85b28a0-dc71-4716-b07d-d923e93eab38,tilted.college,available,5,81.98,high,low,6,namecheap,,,07/08/2026 13:29
+355b9e93-2b4a-4206-9934-8969c63e5c01,sleeping.college,available,17.99,59.99,high,low,8,namesilo,,,
+b1cf9a41-1b34-4166-9c5d-62a7389f899c,quote.college,available,17.99,59.99,high,low,5,namesilo,,,
+8e0a0be4-d7f5-490a-a711-691c4c47321d,maintain.college,available,17.99,59.99,high,low,8,namesilo,,,
+7162dc83-b534-4e60-ab23-c252993ad969,affidavit.college,available,17.99,59.99,high,low,9,namesilo,,,
+dcf781d2-d7f3-4532-a2cd-d35e3a07da9f,blackmailing.college,available,17.99,59.99,medium,low,12,namesilo,,,
+789d69c9-84ad-4106-9306-c2a3e468bfd2,pillowcase.college,available,29.99,,high,low,11,name.com,,,
+9268e742-ed75-4a6c-8a66-908a440fe74f,backstage.college,available,5,81.98,high,low,9,namecheap,,,08/08/2026 06:18
+470b5795-47c2-4966-97b0-44a42ee1f723,deposits.college,available,17.99,59.99,medium,low,8,namesilo,,,
+3e5bd796-611e-4afe-afd3-1cd46e5cff91,arrayed.college,available,5,81.98,medium,low,7,namecheap,,,06/08/2026 21:37
+a27dd5e2-fc8f-496c-85c5-59250e704f04,cxl.college,available,5,81.98,high,low,3,namecheap,,,
+59f11a87-0453-4766-b36a-fc27150ed4ae,behave.college,available,17.99,59.99,high,low,6,namesilo,,,
+2621ca70-9d13-4d3e-9b28-7302dc1a81dd,who.college,available,,,medium,low,3,,,,
+96e50540-82b0-41a0-bd72-efe843fdb86c,hoops.college,available,17.99,59.99,high,low,5,namesilo,,,
+117165f2-682b-43a5-b016-3b69d1fa8abe,nation.college,available,17.99,59.99,high,low,6,namesilo,,,
+7a4362d3-eca7-4bf6-a2b2-45307606c1a5,abide.college,available,29.99,,high,low,5,name.com,,,
+f824f02f-22ef-4fcd-96b4-3612f528888f,andante.college,available,5,81.98,high,low,7,namecheap,,,
+4b298532-ce25-4082-8ea9-f599d965a3da,winner.college,available,17.99,59.99,high,low,6,namesilo,,,
+90e7671e-d1c8-446b-acf9-1560ca452b13,arguable.college,available,5,81.98,medium,low,8,namecheap,,,06/08/2026 18:32
+b5545f06-55d9-4c92-a527-d52e3c750fde,thrown.college,available,17.99,59.99,high,low,6,namesilo,,,
+63047a98-6221-410e-9b41-1c2f33936dbc,balky.college,available,5,81.98,medium,low,5,namecheap,,,08/08/2026 09:55
+01dce94b-7cdc-4886-8e85-deb35ac3d57e,challenge.college,premium,625,,high,low,9,name.com,,,
+e3496410-73a1-42d9-a84b-4ca5d4392ee7,laborious.college,available,5,81.98,high,low,9,namecheap,,,06/08/2026 17:00
+4da70477-62d0-472c-bec6-1d227fe61cdf,exercising.college,available,17.99,59.99,high,low,10,namesilo,,,
+c5a09191-5139-4639-9769-1451f91aba94,mouthguard.college,available,29.99,,medium,low,11,name.com,,,
+074b3955-a2fd-40d6-9cd8-cf305145dae3,sworn.college,available,17.99,59.99,high,low,5,namesilo,,,
+dec6db3e-1f6a-41eb-bdce-7e14958800c9,attic.college,available,5,81.98,high,low,5,namecheap,,,07/08/2026 15:46
+8dad39ae-ea2d-4f9a-8301-29ab30c6922d,refine.college,available,17.99,59.99,high,low,6,namesilo,,,
+b1c019fb-6beb-4f74-9fed-f9ff0321262e,insurance.college,premium,13000,13000,high,medium,9,namecheap,,,
+6a262ecf-842d-405d-b490-dcb6682d395d,student.college,premium,650,650,high,low,7,namecheap,,,
+bd7d55dc-4eec-4c1d-a8c2-ed16b83b5329,teeth.college,available,29.99,,high,low,5,name.com,,,
+06785656-ec96-44fd-b63a-741a1fd8192e,barrier.college,available,17.99,59.99,high,low,7,namesilo,,,
+3d0a6f84-a6a8-48dd-b0b5-378bfaf94b61,ruined.college,available,29.99,,high,low,6,name.com,,,
+4ea629da-598b-47f7-b5b9-8a2b24c65dc4,wages.college,available,17.99,59.99,high,low,5,namesilo,,,
+700cac58-7032-44aa-9ab6-4b44f4d1acc5,valuable.college,available,17.99,59.99,high,low,8,namesilo,,,
+af576565-5d7b-45ec-9439-e5bad9ed6d89,flexing.college,available,29.99,,high,low,7,name.com,,,
+9936891b-9d10-4778-97aa-36ec2e5ff355,organised.college,available,17.99,59.99,high,low,9,namesilo,,,
+f74b22a3-38ff-4df8-a6fe-628895e0815d,opinion.college,available,29.99,,high,low,7,name.com,,,
+543e502f-9203-4e63-a5fd-7a56386a9395,arboreal.college,available,5,81.98,high,low,8,namecheap,,,06/08/2026 13:18
+ae026f30-07ec-403d-9d03-9a38c7c255dd,detestable.college,available,5,81.98,medium,low,10,namecheap,,,
+61a3da8e-ddd7-41d4-a378-6fc2d60d5cf3,axonal.college,available,5,81.98,medium,low,6,namecheap,,,08/08/2026 02:01
+268d3149-f8cd-485b-88f7-4b4e0ca58a73,aquiline.college,available,5,81.98,medium,low,8,namecheap,,,06/08/2026 11:01
+49874897-0e0f-415f-8a9a-a01e65ac282f,grocery.college,premium,242,242,high,low,7,namesilo,,,08/09/2026 13:48
+5ac7a4f4-80a1-4468-aee9-584152a018a6,barebacked.college,available,5,81.98,medium,low,10,namecheap,,,08/08/2026 18:44
+b0cc63f6-4473-4a68-a474-1c7ba0620b84,vent.college,available,17.99,59.99,high,low,4,namesilo,,,
+409dc8a2-491f-483f-b0cb-d0c80eb65c53,milk.college,available,29.99,,high,low,4,name.com,,,
+dd5ced86-fade-4970-9027-bd180f93d326,serve.college,available,17.99,59.99,high,low,5,namesilo,,,
+ab312539-fe09-4ed6-9143-6ab49c1a839f,revolved.college,available,29.99,,high,low,8,name.com,,,
+5d2affe9-375b-4ddf-b5b6-5ed176e4d619,restricted.college,available,29.99,,high,low,10,name.com,,,
+95007d00-69fc-4d29-af94-8052ac469fae,idle.college,available,5,81.98,high,low,4,namecheap,,,08/08/2026 21:52
+ef8c3e84-9e35-4bda-81c8-33256c28974c,masses.college,available,17.99,59.99,high,low,6,namesilo,,,
+b18c6347-af06-4f7b-a793-18213fc3d6e1,supra.college,available,5,81.98,high,low,5,namecheap,,,
+4998d706-b8e3-4b14-bc21-d0541f6dec8d,promoter.college,available,17.99,59.99,high,low,8,namesilo,,,
+e50e1a43-973e-4fb2-bd6e-54bd1141e496,discerning.college,available,5,81.98,high,low,10,namecheap,,,06/08/2026 08:23
+90812d5a-2a56-4265-8ece-c3eab8d7bedb,devotion.college,available,17.99,59.99,high,low,8,namesilo,,,
+99ddff0c-af1b-448a-b2eb-7e7afc99e7f6,resignation.college,available,29.99,,high,low,11,name.com,,,
+0119b55d-c80c-4aaa-af01-e5249e7632bf,tentative.college,available,17.99,59.99,high,low,9,namesilo,,,
+7c15a5de-45b8-4e97-9707-983ea17c59a7,affectionate.college,available,29.99,,high,low,12,name.com,,,
+5efa563f-c7ed-4c1e-ad1d-a392f5939ec3,appearance.college,available,1.5,81.98,high,low,10,namecheap,,,08/09/2026 12:55
+3e478b4d-26e9-4835-9f5e-21e27cf8c6f2,president.college,premium,12500,,high,low,9,name.com,,,
+e0f67da8-2621-4934-903b-a4cbaf9dde29,peel.college,available,17.99,59.99,high,low,4,namesilo,,,
+e07944c9-8166-42be-8d4b-6c5ec3263979,respected.college,available,17.99,59.99,high,low,9,namesilo,,,
+356c1a6f-9ba3-4280-8d3e-bdad9aec2330,manual.college,available,17.99,59.99,high,low,6,namesilo,,,
+057a0ce6-087a-485d-87a0-aeef15e86fd8,opt.college,available,17.99,59.99,high,low,3,namesilo,,,
+2c30c1f2-7294-47db-be3e-4197cd8272c6,era.college,available,17.99,59.99,high,medium,3,namesilo,,,
+9ef1a01d-b85c-4746-958f-192f209a41e4,net.college,premium,12500,,high,medium,3,name.com,,,
+89aa1ae6-edb1-484b-a208-edbee6b67593,challenging.college,available,17.99,59.99,high,low,11,namesilo,,,
+50107c0f-8e6c-48fa-ab45-ab833126f8f1,archetypal.college,available,5,81.98,high,low,10,namecheap,,,06/08/2026 15:32
+9fac1db6-acc6-46cc-824b-7c9cca8265eb,profound.college,available,17.99,59.99,high,low,8,namesilo,,,
+790cb942-a2c7-4fab-b34a-4df6bdeb8485,nitrous.college,available,5,81.98,high,low,7,namecheap,,,08/08/2026 03:03
+1955ab32-7450-4afb-8fa8-bcaa67734873,anionic.college,available,5,81.98,medium,low,7,namecheap,,,
+33500d04-9db9-4f38-beeb-161b772fbc3a,rhianna.college,available,17.99,59.99,high,low,7,namesilo,,,
+921b919e-9ebe-47be-8f39-8822a494f31a,leadership.college,premium,12500,,high,low,10,name.com,,,
+44c7a280-cb15-41b7-93ea-1e6601c97d12,description.college,available,17.99,59.99,high,low,11,namesilo,,,
+2042b925-58c9-4790-8db1-a69366e4977f,saint.college,available,17.99,59.99,high,low,5,namesilo,,,
+90a9af6d-146b-472f-bc5f-8da349f0db94,acetous.college,available,5,81.98,medium,low,7,namecheap,,,
+17d73314-bbc6-4a47-97a8-076764dd7bc5,alacritous.college,available,5,81.98,medium,low,10,namecheap,,,
+9fe68fc8-2f4f-4822-a40a-fe3087fcc121,must.college,available,17.99,59.99,high,low,4,namesilo,,,
+901aa945-be0d-446d-b141-81cff4023d33,initially.college,available,17.99,59.99,high,low,9,namesilo,,,
+199330ad-aa38-4f36-8f7c-3cc8bd2b07ac,interpersonal.college,available,17.99,59.99,high,low,13,namesilo,,,
+4f681938-d953-4302-ac97-3057aa7a9e57,slim.college,available,17.99,59.99,high,low,4,namesilo,,,
+70233c2e-7743-4bbe-a02c-e9181b2a683a,intelligent.college,available,29.99,,high,low,11,name.com,,,
+963baee2-0273-4d66-b4d1-488fa9494709,cooking.college,premium,13000,13000,high,low,7,namecheap,,,08/09/2026 08:19
+54a28a66-a996-4c69-9542-6454ba4f5686,commentate.college,available,17.99,59.99,high,low,10,namesilo,,,
+bd7441cb-ecf8-471c-a9e0-cb263d67c3d1,ocean.college,premium,625,,high,low,5,name.com,,,
+ff444aa2-b2fd-45f0-992e-4a9758c491e7,take.college,available,17.99,59.99,high,low,4,namesilo,,,
+c2bebb35-1836-42de-8a09-abd1d232771b,foot.college,available,29.99,,high,low,4,name.com,,,
+9477c84e-4474-4620-a31f-c2ec27c2d197,committing.college,available,17.99,59.99,high,low,10,namesilo,,,
+3f943e4f-4eb9-45d4-a9dc-7c33e5b14a60,avid.college,available,5,81.98,high,low,4,namecheap,,,07/08/2026 23:21
+84f43efd-5dfe-4fb3-bde5-1d2e7ee46ad3,packed.college,available,17.99,59.99,high,low,6,namesilo,,,
+9c3d6162-942d-40a0-a2b9-538e68ca7761,fee.college,available,17.99,59.99,high,low,3,namesilo,,,
+f5a6caca-0ed2-4689-bb1f-73db1a318338,rushed.college,available,29.99,,high,low,6,name.com,,,
+81d408f8-aef4-4dd8-a0fa-984fe460d2aa,anamorphic.college,available,5,81.98,medium,low,10,namecheap,,,
+24637b50-c015-4638-9ea6-5063bc98360a,ennead.college,available,5,81.98,medium,low,6,namecheap,,,
+9c7ec9fd-59b6-443a-8cd4-d541c8f73c65,aids.college,available,17.99,59.99,high,low,4,namesilo,,,
+057a4ad3-0761-48f0-87e8-756371d0bbdf,bahamian.college,available,5,81.98,medium,low,8,namecheap,,,08/08/2026 08:31
+d0881828-2536-46d7-a87b-a9087e7055ae,toothcare.college,available,29.99,,medium,low,9,name.com,,,
+ece7760f-8e20-40e5-97e8-445362d43fb8,confetti.college,available,17.99,59.99,high,low,8,namesilo,,,
+d0bb5e4f-726d-4021-87a7-5c587155a89b,dwelling.college,available,17.99,59.99,high,low,8,namesilo,,,
+0e750503-0d78-4b3a-bf4c-5bcbb2d7c731,eating.college,available,1.5,81.98,high,low,6,namecheap,,,08/09/2026 13:35
+a8e4ab4d-ef23-4315-8510-85d3db7ed556,extend.college,available,17.99,59.99,high,low,6,namesilo,,,
+e6b78232-5242-4190-b24b-f6011127825a,boom.college,available,,,high,low,4,,,,
+180876b7-c4e8-4deb-9c99-a953e0dd3530,annoyance.college,available,,,high,low,9,,,,
+aaace240-3dd6-4d07-88e7-181aa466a9ab,restless.college,available,29.99,,high,low,8,name.com,,,
+ee36a460-4315-47b8-8466-3c7b75c860e2,conform.college,available,17.99,59.99,high,low,7,namesilo,,,
+8828bab8-6f55-447f-a0d3-d7a05928d29e,agape.college,available,5,81.98,high,low,5,namecheap,,,
+ec67319b-1f16-4cb9-931d-30dd639193b2,boot.college,available,17.99,59.99,high,low,4,namesilo,,,
+d359544e-a0a5-4970-b5e9-99f001da2f5e,yeasty.college,available,5,81.98,medium,low,6,namecheap,,,08/08/2026 19:56
+2f8936d6-7279-4abc-aee5-d2d52cf4fed9,atypical.college,available,5,81.98,high,low,8,namecheap,,,07/08/2026 16:06
+a14b41d5-7829-4fd7-9aea-6bcde634be0c,mobile.college,premium,12500,,high,medium,6,name.com,,,
+76f5f467-764f-4c6b-88e0-f0fba6ddbebb,ascensive.college,available,5,81.98,medium,low,9,namecheap,,,07/08/2026 00:46
+843a2739-5b1e-417c-bf7d-d875fc43b499,paunchy.college,available,5,81.98,medium,low,7,namecheap,,,
+04bb8d05-1e89-4043-a353-f6625ca476bc,largely.college,available,29.99,,medium,low,7,name.com,,,
+4dc27fb8-2b85-4d62-8d37-cc4c45ca23cb,plastic.college,available,17.99,59.99,high,low,7,namesilo,,,
+08ff3842-a89d-40cb-af08-743154393ed4,grass.college,available,17.99,59.99,high,low,5,namesilo,,,
+0f990270-f9d0-4e7a-bc13-bfc98cb563cf,affiliation.college,available,17.99,59.99,high,low,11,namesilo,,,
+cc5c514b-4e67-4bb4-b184-66d084fdbc12,athletics.college,premium,650,650,high,medium,9,namecheap,,,
+361e9803-0175-49c2-abf6-1833c7dce757,anhydrous.college,available,5,81.98,medium,low,9,namecheap,,,
+0c8aa91d-ed46-459d-a7c9-e2bc8239f7d4,beaten.college,available,5,81.98,medium,low,6,namecheap,,,09/08/2026 05:47
+a2784b10-be50-4f15-94b2-e1bfc041d9b3,humanities.college,available,17.99,59.99,high,low,10,namesilo,,,
+bc1753d8-be19-4d59-b14a-8960ee1c6525,journeyman.college,available,17.99,59.99,high,low,10,namesilo,,,
+3c554056-e4c3-4aac-b258-d19b90365669,dickens.college,available,17.99,59.99,high,low,7,namesilo,,,
+f3b6a99e-0639-4267-8835-70710983b80b,rogue.college,available,17.99,59.99,high,low,5,namesilo,,,
+778feee9-b0b5-46b9-a7bf-e21e3b4a6e5e,sunbaked.college,available,5,81.98,medium,low,8,namecheap,,,
+9d52e3d0-7fb4-412d-933b-d6acd0377668,usual.college,available,17.99,59.99,high,low,5,namesilo,,,
+12d04508-d482-479d-a95c-dfd17f86f366,avellan.college,available,5,81.98,medium,low,7,namecheap,,,07/08/2026 22:24
+f331db09-d302-46e5-87b2-7c248f2e9201,speeding.college,available,17.99,59.99,high,low,8,namesilo,,,
+4bdfc670-3ad1-4942-86e2-2cc8667a8eef,agronomic.college,available,5,81.98,medium,low,9,namecheap,,,
+667742eb-3159-4eed-bc15-329c437b48cb,baguette.college,available,17.99,59.99,high,low,8,namesilo,,,
+2650259f-f7d2-4025-966a-f426c73a2a4f,mechanic.college,available,17.99,59.99,high,low,8,namesilo,,,
+535f1720-0298-43bd-abcb-7b83ba1aba13,whenever.college,available,17.99,59.99,medium,low,8,namesilo,,,
+c029d438-da6b-40ac-841b-c4e5f65a9a64,daniel.college,premium,625,,high,medium,6,name.com,,,
+064ea816-ec87-4fb7-aa83-611a509f253d,accusing.college,available,5,81.98,high,low,8,namecheap,,,
+560d6bc7-4373-4661-bb10-a863eedf1508,chair.college,available,17.99,59.99,high,low,5,namesilo,,,
+560f86f5-f215-419a-b92d-80f3efcab69e,painted.college,available,17.99,59.99,high,low,7,namesilo,,,
+649fc0d8-561d-454d-9dcb-80d88a211ad5,removal.college,available,17.99,59.99,high,low,7,namesilo,,,
+697c59b3-c65e-4411-8e00-b076200c769a,posterior.college,available,5,81.98,medium,low,9,namecheap,,,09/08/2026 11:12
+d1b65b0a-800d-4b07-af56-d52c50c1b585,alight.college,available,5,81.98,high,low,6,namecheap,,,
+5c7a3ef6-f1d0-485a-8ab9-518d7f8a88dd,problem.college,available,17.99,59.99,high,low,7,namesilo,,,
+07337dcb-ea93-4db0-a73a-69e6b57e6d6a,pub.college,premium,250,,high,low,3,name.com,,,
+251b6206-2a93-46f5-878b-52d7839a2dd8,animistic.college,available,5,81.98,medium,low,9,namecheap,,,
+d0a5523d-f7b7-45c0-8c38-ee9b6f211a75,impressed.college,available,17.99,59.99,high,low,9,namesilo,,,
+94f984d6-eb21-4617-811d-3d096ab0f462,greedy.college,available,5,81.98,high,low,6,namecheap,,,07/08/2026 22:09
+2937cd0a-4b5a-415c-bd59-f9747681795b,fictitious.college,available,5,81.98,medium,low,10,namecheap,,,07/08/2026 07:50
+680116df-3bbb-486a-9e1f-881409aa4789,stubborn.college,available,17.99,59.99,high,low,8,namesilo,,,
+8b6200bc-afbc-4b3b-a7db-fcaedfe34b3c,posting.college,available,17.99,59.99,high,low,7,namesilo,,,
+c32bbc59-4016-40cb-ac1e-3c9369480199,afferent.college,available,5,81.98,high,low,8,namecheap,,,
+bb94cec2-9263-4fe1-a368-31f1f2478ea3,tuesday.college,available,17.99,59.99,high,low,7,namesilo,,,
+b3aacd80-98fe-48a4-9356-00324728b11f,vacuous.college,available,5,81.98,low,low,7,namecheap,,,07/08/2026 02:52
+87a1868b-92e3-4e77-9826-b68d7966420b,repeated.college,available,17.99,59.99,high,low,8,namesilo,,,
+d2c26fe1-34d3-4050-a32c-1c3c18e94c1e,details.college,available,17.99,59.99,high,low,7,namesilo,,,
+0a384c90-1a37-4c0f-86b8-039b80348ac5,profitable.college,available,17.99,59.99,high,low,10,namesilo,,,
+e010fe0d-98c3-414a-b46a-a60854f2b56f,during.college,available,17.99,59.99,medium,low,6,namesilo,,,
+dd652102-c7e0-4730-84dd-8a591274d527,chambers.college,available,1.5,81.98,high,low,8,namecheap,,,08/09/2026 06:47
+5d677214-9abe-4bb4-9e59-028ef49169b9,adobe.college,available,,,high,low,5,,,,
+ad6c280a-73fe-47aa-b7ed-c065682f4190,pay.college,premium,625,,high,medium,3,name.com,,,
+e56650a3-a48e-4f46-bf2d-26c17d17bb6e,lacking.college,available,17.99,59.99,high,low,7,namesilo,,,
+ecad2559-7eef-4ef9-9075-3f801dfc90e5,alloyed.college,available,5,81.98,high,low,7,namecheap,,,
+ce747690-545b-40e4-b5c7-f196c78b07c9,grown.college,available,1.5,81.98,high,low,5,namecheap,,,08/09/2026 15:16
+6944bc80-5594-4cbf-a8cb-75d1e298dab3,constructive.college,available,29.99,,high,low,12,name.com,,,
+4812c171-ad62-4b88-8b17-f301479534a9,itchy.college,available,5,81.98,high,low,5,namecheap,,,05/08/2026 20:43
+40c16f78-220d-4527-8624-6ee68ee7a879,despite.college,available,17.99,59.99,high,low,7,namesilo,,,
+35cb4adb-6250-44f1-9b56-5610349a8317,westwood.college,available,17.99,59.99,high,low,8,namesilo,,,
+5873a16d-f84b-4b4f-bda6-e0d21bfec294,union.college,resell,,,high,low,5,"Spaceship, Inc.",05/07/2024 15:49,05/07/2027 23:59,17/09/2026 17:50
+913fb46f-9352-4a87-9312-1ca4a3faf47c,packing.college,available,17.99,59.99,high,low,7,namesilo,,,
+4046c377-2ca3-4f0b-8076-828495867e69,liam.college,available,17.99,59.99,high,low,4,namesilo,,,
+4b9524c8-13d4-4fa1-b914-68996001e525,amort.college,available,5,81.98,medium,low,5,namecheap,,,
+d6d1e8cc-867d-437b-917c-6ac93df6679e,performs.college,available,29.99,,medium,low,8,name.com,,,
+5b6622ed-4e3c-4757-b2c3-b774e21a076d,supporting.college,available,17.99,59.99,high,low,10,namesilo,,,
+92158f54-d594-44d2-9f41-c3d0afa63728,bullet.college,available,17.99,59.99,high,low,6,namesilo,,,
+7759ec67-e68e-4b3d-ad32-37072c17d789,trolling.college,available,17.99,59.99,high,low,8,namesilo,,,
+21a6882d-cafd-408b-a079-a60024c5caab,bahai.college,available,5,81.98,high,low,5,namecheap,,,08/08/2026 08:27
+39276977-d3d2-4d4a-8804-8534bf771480,stopped.college,available,17.99,59.99,high,low,7,namesilo,,,
+7423b738-57a7-4bda-93cc-1456f128bc97,playacting.college,available,5,81.98,medium,low,10,namecheap,,,
+d6b8e97c-c30d-430c-b38e-c73660a94315,orca.college,available,29.99,,high,medium,4,name.com,,,
+5821724b-726d-430b-8d39-d5b56424204c,didnt.college,available,17.99,59.99,medium,low,5,namesilo,,,
+c4df2bb3-cd39-40d4-ba29-acd5053c6bbf,alligator.college,available,17.99,59.99,high,low,9,namesilo,,,
+21844550-d112-4b1f-bcf3-07bab7e6c2fe,warranty.college,available,29.99,,high,low,8,name.com,,,
+60b2b856-1912-4f39-b788-ce02fa6d1474,dji.college,available,17.99,59.99,high,low,3,namesilo,,,
+7391e6ca-a3d6-4e95-9cbf-3120d34653fd,polythene.college,available,17.99,59.99,high,low,9,namesilo,,,
+c552fcba-9ea8-4325-a2f9-f00644f8173c,anaemia.college,available,17.99,59.99,medium,low,7,namesilo,,,
+1f339f51-a6cb-4162-a920-b6fe115ef472,appointive.college,available,5,81.98,medium,low,10,namecheap,,,06/08/2026 07:16
+79435c44-d23f-4923-8cea-d9f1ded96a1f,top.college,premium,3125,,high,medium,3,name.com,,,
+8dfbcbd3-f609-4f01-8a48-061a9a87f301,already.college,available,17.99,59.99,high,low,7,namesilo,,,
+d46f5a57-4718-4195-892a-3fb8fdea4d05,solely.college,available,5,81.98,high,low,6,namecheap,,,
+cef1107f-319a-48c4-8428-692b892e0659,atp.college,available,17.99,59.99,high,low,3,namesilo,,,
+a4e1351d-0d95-4b2b-b69a-3f30e90b3767,destructive.college,available,29.99,,medium,low,11,name.com,,,
+608bf8a3-310c-411b-a26d-f0bf3938c88b,antioxidant.college,available,17.99,59.99,high,low,11,namesilo,,,
+88f9986a-5b5a-4837-9ef0-5dbc02ce29f7,hardworking.college,available,17.99,59.99,high,low,11,namesilo,,,
+3ccd1f01-1056-42f3-a5d1-f3b10ad9946b,nassau.college,available,17.99,59.99,high,low,6,namesilo,,,
+e395640f-56f4-4b93-ba11-cb79ddcdd598,stat.college,available,,,high,low,4,,,,
+16f949ae-f6c9-472d-a493-a95579a48954,husky.college,available,5,81.98,high,medium,5,namecheap,,,09/08/2026 07:59
+09430ac7-8384-4a80-9cd2-ea60b78fddba,kangeroo.college,available,17.99,59.99,high,low,8,namesilo,,,
+e12f8795-2cf9-4632-9371-0c73216e0bd4,fiber.college,available,17.99,59.99,high,low,5,namesilo,,,
+5c80c4b3-dc09-4037-bacb-dad84ab0ada3,facing.college,available,17.99,59.99,high,low,6,namesilo,,,
+839b01ca-1263-4871-97db-0126922ac958,alienate.college,available,5,81.98,medium,low,8,namecheap,,,
+5b9a4696-c342-454c-901a-481c793f4ec4,dandy.college,available,5,81.98,high,low,5,namecheap,,,08/08/2026 12:30
+14a3dc6b-a91f-410a-b3f1-a4d7df873647,peeled.college,available,5,81.98,medium,low,6,namecheap,,,08/08/2026 18:24
+6b4a5d5a-c97e-40e3-89db-3f4d5aa0c171,shoe.college,available,29.99,,high,low,4,name.com,,,
+ddb5b0ad-b956-42f9-af49-a2ab339cdc52,size.college,available,17.99,59.99,high,low,4,namesilo,,,
+e0392223-517c-420d-9c1e-0dfa54459412,goods.college,available,29.99,,high,low,5,name.com,,,
+1e3bf7b6-546f-4e4e-b94a-c2ca0d012fcb,baseless.college,available,5,81.98,medium,low,8,namecheap,,,08/08/2026 21:44
+0f0ce67e-d713-4665-85a6-f9e72c6c3ded,shortfall.college,available,17.99,59.99,high,low,9,namesilo,,,
+7aceecae-2708-48aa-857c-038701b764c9,discomfort.college,available,17.99,59.99,high,low,10,namesilo,,,
+78a473de-8b26-4de0-82f7-9172a4c9792e,duracell.college,available,29.99,,high,low,8,name.com,,,
+67573554-6a3f-4add-92e8-1d5c58f43a50,credible.college,available,5,81.98,high,low,8,namecheap,,,09/08/2026 12:56
+9f280a56-f7d4-4c82-ae31-e513cfc47317,sing.college,premium,242,242,high,low,4,namesilo,,,
+922b6bfd-7308-4707-b006-bbc329da2793,stray.college,available,17.99,59.99,high,low,5,namesilo,,,
+6c93866a-f921-4433-a1b0-2516210e69a2,armoured.college,available,5,81.98,high,low,8,namecheap,,,06/08/2026 20:10
+fd09bbb5-35f1-40da-850c-03aaaf25abc2,page.college,premium,625,,high,low,4,name.com,,,
+7450cb21-ac7c-4b1d-ae84-ede2660ddc75,intercultural.college,available,17.99,59.99,high,low,13,namesilo,,,
+3fbd6308-bb2a-4d8b-94aa-519473eccafe,trounce.college,available,5,81.98,medium,low,7,namecheap,,,09/08/2026 05:27
+ee1a1194-562b-4918-a7d8-37444ed51643,arced.college,available,5,81.98,medium,low,5,namecheap,,,06/08/2026 14:28
+ca281510-6493-48fc-8ff2-cdcef7f7db74,marines.college,available,29.99,,high,low,7,name.com,,,
+826974af-c076-4981-88ad-4ab2fcbce7aa,literally.college,available,29.99,,high,low,9,name.com,,,
+729b48b2-f148-45d8-9709-a387e2ca7c96,savage.college,available,5,81.98,high,low,6,namecheap,,,08/08/2026 15:36
+de3daa2e-7ecc-44d3-9d99-5f0955f0ee1b,cannabis.college,available,,,high,medium,8,,,,
+e5fab192-7247-4fc8-9dd6-4439fbc0376f,customize.college,available,17.99,59.99,high,low,9,namesilo,,,
+e8c8e21c-9e4f-449f-87f9-23e545ea2772,polygon.college,available,17.99,59.99,high,low,7,namesilo,,,
+c96db303-d619-46f9-8c3b-53a4d3e38da3,declining.college,available,29.99,,high,low,9,name.com,,,
+d7f85a7e-3e0d-44fb-bad2-9c33e7dd9657,anile.college,available,5,81.98,medium,low,5,namecheap,,,
+10b64048-717e-4749-b2d3-1112c43e5cf0,fourscore.college,available,5,81.98,high,low,9,namecheap,,,
+fc061193-3ae4-4a7b-ae11-e2a93764392b,attitude.college,available,17.99,59.99,high,low,8,namesilo,,,
+2d4084a5-7935-4255-b022-5cd1dde16ccf,tap.college,available,17.99,59.99,high,medium,3,namesilo,,,
+dc952f3a-027a-4011-b53d-77f7347525ce,intricate.college,available,17.99,59.99,high,low,9,namesilo,,,
+7847f7ca-45d0-4a1e-a608-663465da43aa,lace.college,available,17.99,59.99,high,low,4,namesilo,,,
+b2c320b0-78a9-4f08-b6a8-2889a5f8b051,wrench.college,available,17.99,59.99,high,low,6,namesilo,,,
+d199206a-bf16-416e-827a-f1548706a562,troika.college,available,5,81.98,high,low,6,namecheap,,,
+d0dce250-eb77-4d85-99e9-b2384c740a23,laid.college,available,17.99,59.99,high,low,4,namesilo,,,
+424af68b-9ecf-450c-8b6f-e3d7e4f44e42,identifier.college,available,17.99,59.99,high,low,10,namesilo,,,
+be823518-7c62-406c-b2ed-b8d1e044d4a6,banked.college,available,17.99,59.99,medium,low,6,namesilo,,,
+51f73e14-c704-4986-91af-56d1559d3dae,nurse.college,premium,12500,,high,low,5,name.com,,,
+0b54b6d6-2ca2-4472-96ed-a3252975588a,more.college,available,,,high,low,4,,,,
+47f6b67b-2491-44a3-9dcc-54ba06c154dd,accusive.college,available,5,81.98,low,low,8,namecheap,,,
+331b5478-292f-4f1d-9c36-7f62541f8dc3,hey.college,available,29.99,,high,medium,3,name.com,,,
+ba650e23-a610-4ab5-b2b5-6c7e7bc318a3,parallel.college,available,5,81.98,high,low,8,namecheap,,,
+945c4fdd-aaf7-4aee-835e-4c6a5ee122ab,sweat.college,available,17.99,59.99,high,low,5,namesilo,,,
+bb375e6f-fcd2-4f1a-a7db-2cf5d315ef9e,beheaded.college,available,5,81.98,medium,low,8,namecheap,,,09/08/2026 10:21
+58592366-2532-46dc-87e8-282155770364,ultimately.college,available,17.99,59.99,high,low,10,namesilo,,,
+d9d44dc0-02fd-4ac6-8eea-5a3512e24322,experimentally.college,available,17.99,59.99,medium,low,14,namesilo,,,
+e12d1b0c-6043-401a-9643-e4ccb0c189f0,definitively.college,available,17.99,59.99,medium,low,12,namesilo,,,
+fd0a61e1-d92a-4be3-ba29-be1660f07279,inc.college,available,17.99,59.99,high,low,3,namesilo,,,
+92b397dc-d91d-4ecb-a13a-d47ab52f1411,clv.college,available,5,81.98,high,low,3,namecheap,,,
+91c06c4b-241e-4666-a7d2-0b2d870ad5b3,utterly.college,available,17.99,59.99,high,low,7,namesilo,,,
+d4daea22-79e8-4c64-bcc1-4844423b90a2,massive.college,available,17.99,59.99,high,low,7,namesilo,,,
+4a958686-d7ec-49e3-8675-1750b7b63948,patrician.college,available,5,81.98,medium,low,9,namecheap,,,06/08/2026 19:34
+5b9bf4fa-8dc1-45e9-8301-9dbcc421e7d2,judgement.college,available,17.99,59.99,high,low,9,namesilo,,,
+6ffc758f-adcd-4a52-a5e9-8e0afe0eae01,lopsided.college,available,5,81.98,medium,low,8,namecheap,,,07/08/2026 03:41
+e2d1de46-b959-4cfc-9f25-69205264097a,dismayed.college,available,5,81.98,medium,low,8,namecheap,,,
+b5a1c87d-3ad3-46a9-a39d-a3b51acbb92c,jacket.college,available,29.99,,high,low,6,name.com,,,
+59ca7da7-f608-4790-9a97-9d9114f45591,period.college,available,17.99,59.99,high,low,6,namesilo,,,
+c504d481-a570-4213-874b-f1f2e5c85b10,refrigerator.college,available,17.99,59.99,high,low,12,namesilo,,,
+f9a2e762-84aa-4a60-95d2-609beae43315,grey.college,available,1.5,81.98,high,low,4,namecheap,,,08/09/2026 07:08
+ec02f85c-d124-4ff7-93be-8c036ab96f62,conference.college,available,17.99,59.99,high,low,10,namesilo,,,
+ed35a924-9cc3-4649-99f9-9454d413a291,chagrined.college,available,5,81.98,medium,low,9,namecheap,,,
+a10264a6-133b-4290-865e-c4014cf17a4d,confuse.college,available,17.99,59.99,high,low,7,namesilo,,,
+f35879c9-c13c-4ea2-b17f-1f3b4b2f5eab,preserved.college,available,17.99,59.99,high,low,9,namesilo,,,
+d3381671-5268-432d-9378-aab9c25c63f1,omniscient.college,available,5,81.98,high,low,10,namecheap,,,
+cb37ccb2-8c0d-49c4-aef0-df033aa29900,sequel.college,available,17.99,59.99,high,low,6,namesilo,,,
+a149516c-c87f-4cc4-9bd1-eb907c12541c,adventive.college,available,5,81.98,medium,low,9,namecheap,,,
+9f219296-9e25-4589-83e3-422b21ce6299,constantly.college,available,17.99,59.99,high,low,10,namesilo,,,
+cabac109-c2a3-4cee-afb2-874fcd93151d,living.college,premium,12500,,high,low,6,name.com,,,
+2b250b5a-f8bd-44bc-816a-f095d24ba5f9,missile.college,available,17.99,59.99,high,low,7,namesilo,,,
+e1872ec1-e688-49cf-b7d4-c18768efc8c2,cognisant.college,available,5,81.98,medium,low,9,namecheap,,,08/08/2026 00:18
+0c43f751-cced-423f-a8a9-7169c0311b9b,laundry.college,available,17.99,59.99,high,low,7,namesilo,,,
+923cbafa-7a6a-4fce-b67a-164f074af452,spanish.college,available,17.99,59.99,high,low,7,namesilo,,,
+33042d80-b486-46d2-b2a5-1b2cb863e68e,haywire.college,available,5,81.98,high,low,7,namecheap,,,
+f56ccce4-920b-453a-88c2-42256ce6f7eb,coefficient.college,available,29.99,,high,low,11,name.com,,,
+728ff8bb-ad49-4103-b064-e1cfdeee8acd,day.college,premium,625,,high,low,3,name.com,,,
+aa72e8dc-0147-4c56-9bbb-19821a142c6a,francisca.college,available,29.99,,high,low,9,name.com,,,
+124e570b-b747-493c-9e19-995085d16ea5,allusive.college,available,5,81.98,high,low,8,namecheap,,,
+6eb3f4a2-c0c1-43cb-b9fa-1b4284dd7acf,amyloid.college,available,5,81.98,medium,low,7,namecheap,,,
+80bc0261-9d21-46eb-b064-ec0e9917fe8c,environmental.college,available,17.99,59.99,high,low,13,namesilo,,,
+5927658a-9350-471c-8e56-cf50cfeddafb,spray.college,available,17.99,59.99,high,low,5,namesilo,,,
+8854a385-1ecf-4757-87f1-62e28aac96ed,rump.college,available,5,81.98,medium,low,4,namecheap,,,09/08/2026 11:28
+e35c1a1a-5e05-4a97-953c-cb1cd9338c0b,annelidan.college,available,5,81.98,medium,low,9,namecheap,,,
+538d6fa7-e51c-4199-b538-368ba0c9d1e0,nephew.college,available,17.99,59.99,high,low,6,namesilo,,,
+9a8e01a3-521e-4ed4-9f61-f42bd02bceb1,technicality.college,available,17.99,59.99,high,low,12,namesilo,,,
+7c4d4cc8-1bc9-480b-ad52-37b84ae64b1e,uncomplicated.college,available,29.99,,high,low,13,name.com,,,
+4cfddc1c-cd1e-4274-997d-9d52a643e880,prickly.college,available,5,81.98,high,low,7,namecheap,,,08/08/2026 17:34
+3365598b-1bdf-4deb-8cb5-d620a57e5442,seemly.college,available,5,81.98,medium,low,6,namecheap,,,09/08/2026 06:27
+9bca7c20-ffae-4b2e-8373-004c0407d2a2,argentic.college,available,5,81.98,medium,low,8,namecheap,,,06/08/2026 18:06
+da6dc230-0179-46ce-a556-a7c915b34607,outlander.college,available,5,81.98,high,low,9,namecheap,,,
+85654aa9-700e-4800-bc0b-3356c8a39e61,roundabout.college,available,5,81.98,medium,low,11,namecheap,,,12/08/2026 08:20
+370337cb-b305-42fd-8af1-61fd6a74b337,voter.college,available,17.99,59.99,high,low,5,namesilo,,,
+166efa16-a54f-4f71-b83c-30a752d5a4de,lxxxi.college,available,5,81.98,medium,low,5,namecheap,,,
+0814b445-03dd-41f7-894d-882e4c0e5f52,mothafucka.college,available,17.99,59.99,medium,low,10,namesilo,,,
+3a3e1856-69ac-4cbd-a331-dcaa65c38004,examine.college,available,17.99,59.99,high,low,7,namesilo,,,
+780b5b56-0e81-4e94-a3a1-8887e724f617,watch.college,premium,12500,,high,low,5,name.com,,,
+7bd100c9-6e70-4fb5-ad8d-8df222aa9216,overall.college,available,17.99,59.99,high,low,7,namesilo,,,
+6592b837-1a99-4f74-b346-67dab1d63cc1,watt.college,available,17.99,59.99,high,low,4,namesilo,,,
+605408ca-4e27-4f71-ac0b-986a40335de1,agrestic.college,available,5,81.98,medium,low,8,namecheap,,,
+7b1c0ff2-5bf8-413c-9bdf-5832b4bd7054,almond.college,available,17.99,59.99,high,low,6,namesilo,,,
