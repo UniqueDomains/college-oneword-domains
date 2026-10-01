@@ -1,10 +1,10 @@
-# Available .COLLEGE One-Word Domains (29,134)
+# Available .COLLEGE One-Word Domains (31,611)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C134%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C611%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .college one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,134 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **31,611 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,134 domains · **Median ask:** $134.93 · **High-demand under $2,500:** 118
+**Public extract:** 1,000 rows · **Live catalog:** 31,611 domains · **Median ask:** $126.91 · **High-demand under $2,500:** 135
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/college`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| ahl.college     | available | $10.50    | $53.72        | high           | low    | 3      | dynadot          |
+| polo.college    | available | $1.50     | $81.98        | high           | high   | 4      | namecheap        |
+| data.college    | premium   | $13,000   | $13,000       | high           | medium | 4      | namecheap        |
+| enable.college  | available | $1.50     | $81.98        | high           | low    | 6      | namecheap        |
+| lens.college    | available | $1.50     | $81.98        | high           | high   | 4      | namecheap        |
+| adr.college     | available | $45.20    | $45.20        | high           | low    | 3      | cloudflare       |
 | booty.college   | resell    | —         | —             | high           | low    | 5      | —                |
 | are.college     | premium   | $517.70   | $517.70       | high           | low    | 3      | spaceship        |
-| aol.college     | available | $17.99    | $59.99        | high           | high   | 3      | namesilo         |
+| aol.college     | available | $10.50    | $53.72        | high           | high   | 3      | dynadot          |
 | every.college   | resell    | —         | —             | high           | medium | 5      | Spaceship, Inc.  |
 | biz.college     | premium   | $13,800   | $13,800       | high           | low    | 3      | namesilo         |
 | ape.college     | available | $5        | $81.98        | high           | low    | 3      | namecheap        |
 | applied.college | resell    | —         | —             | high           | low    | 7      | GoDaddy.com, LLC |
 | fit.college     | premium   | $650      | $650          | high           | medium | 3      | namecheap        |
 | asd.college     | available | $1.18     | $51.95        | high           | low    | 3      | spaceship        |
-| lol.college     | premium   | $625      | —             | high           | low    | 3      | name.com         |
+| iit.college     | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
 | dee.college     | available | $1.18     | $51.95        | high           | low    | 3      | spaceship        |
-| sex.college     | premium   | $62,500   | —             | high           | medium | 3      | name.com         |
+| lol.college     | premium   | $517.70   | $517.70       | high           | low    | 3      | spaceship        |
 | dis.college     | available | $1.50     | $81.98        | high           | low    | 3      | namecheap        |
-| yes.college     | premium   | $650      | $650          | high           | medium | 3      | namecheap        |
-| eli.college     | available | $10.50    | $53.72        | high           | low    | 3      | dynadot          |
-| baby.college    | premium   | $640      | $640          | high           | low    | 4      | namesilo         |
-| fai.college     | available | $1.18     | $51.95        | high           | low    | 3      | spaceship        |
-| cash.college    | premium   | $640      | $640          | high           | medium | 4      | namesilo         |
-| fax.college     | available | $1.18     | $51.95        | high           | low    | 3      | spaceship        |
+| sex.college     | premium   | $69,000   | $69,000       | high           | medium | 3      | namesilo         |
+| edm.college     | available | $45.20    | $45.20        | high           | low    | 3      | cloudflare       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,134 live domains                        |
+| 1,000-row public sample | 31,611 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 118 high-demand names under $2,500         |
+| Basic exported fields   | 135 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .COLLEGE One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .COLLEGE One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
